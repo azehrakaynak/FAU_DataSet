@@ -1,0 +1,6271 @@
+Masterstudiengang
+Arbeitsmarkt und Personal
+Modulhandbuch – Sommersemester 2021
+
+M e h r  
+w i s s e n
+
+www.wiso.fau.de/arbeitsmarkt
+
+Bitte beachten Sie:  
+
+Veränderungen des Lehrangebots bedingt durch COVID-19 
+
+Nachdem ein Ende der Pandemie im Sommersemester noch nicht absehbar ist, 
+steuert der Fachbereich in der Organisation der Veranstaltungen nach. Hierfür wird 
+das Konzept WiSo-Virtuell, welches als Antwort auf die Corona-Krise entwickelt 
+wurde, in das Konzept WiSo-Virtuellplus überführt. 
+
+Die Studierbarkeit aller Studiengänge ist durch die Digitalisierung aller Pflichtmodule 
+gesichert. Darüber hinaus können ausgewählte Lehrveranstaltungen parallel zu 
+digitalen Inhalten mit Präsenzelementen angereichert sein, die auf freiwilliger Basis 
+besucht werden können. Der Wahlbereich wird neben digitalen Angeboten so 
+strukturiert, dass Module in Teilen oder zur Gänze in Präsenzlehre stattfinden. 
+
+Die Studierenden können je nach ihren Bedürfnissen und ihrer persönlichen 
+Lebenssituation entscheiden, ob sie digital studieren wollen oder aber an weiteren 
+Angeboten des Präsenzlernens teilnehmen wollen: „Digitales/virtuelles Studium 
+PLUS freiwillige Präsenzveranstaltungen für ausgewählte Lehrveranstaltungen“. 
+Vorausgesetzt das Infektionsgeschehen im Laufe des Semesters lässt dies zu. 
+
+Die FAU hat eine Corona-Satzung aufgrund von Einschränkungen im Lehr- und 
+Prüfungsbetrieb durch das Corona-Virus SARS-CoV-2 veröffentlicht. Das 
+Modulhandbuch in der vorliegenden Fassung enthält Corona-bedingte Änderungen 
+an der Prüfungsform, die in den jeweiligen Modulbeschreibungen gekennzeichnet 
+sind.    
+Folgende Szenarien sind auf der Grundlage der Corona-Satzung möglich: 
+
+  Prüfungsformate unverändert 
+
+Das ursprünglich vorgesehene Prüfungsformat, z. B. eine Klausur bleibt 
+bestehen. In diesen Modulbeschreibungen wurde keine Änderung 
+vorgenommen. 
+
+  Einmaliger Wechsel der Prüfungsform im Sommersemester 
+
+Der Wechsel der Prüfungsformate ist möglich, wenn die ursprünglich geplante 
+Prüfungsform auf Grund des Corona-Virus nicht umsetzbar ist. Diese 
+Änderungen finden Sie in den Modulbeschreibungen angeführt. Die 
+ursprüngliche Prüfungsform wird bei dieser Variante durchgestrichen, die neue 
+Prüfungsform ist in oranger Schriftfarbe angegeben.  
+
+  Alternative Prüfungsformen verankern und später darüber entscheiden 
+Die Satzung sieht eine weitere Option vor. Es können zwei Alternativen 
+festgelegt werden. Die Entscheidung für die eine oder die andere Alternative 
+trifft der Modulverantwortliche und ist den Studierenden spätestens vier 
+Wochen vor der Prüfung bekannt zu geben. Hier bleibt die ursprüngliche 
+Prüfungsform zunächst bestehen, darunter finden Sie die alternative 
+Prüfungsform eingefügt, ebenfalls in oranger Schriftfarbe. Vier Wochen vor der 
+Prüfung wird die finale Prüfungsform durch den Modulverantwortlichen 
+bekannt gegeben.  
+
+2 
+
+ 
+  
+ 
+ 
+ 
+ 
+Im Informationssystem UnivIS finden Sie unter www.univis.fau.de demnächst für alle 
+Veranstaltungen Angaben, in welchem Format (Online, Präsenz oder hybrid 
+Online/Präsenz) die Lehrveranstaltungen abgehalten werden sowie 
+Detailinformationen zum jeweiligen Online-Format bzw. Informationen zu Zeit und 
+Ort.  
+Ausführlichere Informationen zu den Modulen finden Sie auch in den jeweiligen 
+Kursen auf StudOn. Treten Sie daher unbedingt den Kursen bei, die Sie dieses 
+Semester besuchen möchten. 
+Weitere aktuelle Informationen entnehmen Sie bitte den Webseiten der Lehrstühle 
+sowie Informationen zum digitalen Semester an der WiSo auch unter www.wiso-
+virtuell.fau.de  
+
+3 
+
+ 
+ 
+ 
+Inhaltsverzeichnis: Master Arbeit und Personal 
+
+Studienverlaufsplan............................................................................................. 6 
+1. 
+Leitfaden zur Stundenplangestaltung ......................................................... 7 
+Hinweis zu Art und Umfang von Prüfungsleistungen ................................. 8 
+2. 
+3.  Module im ersten Semester ....................................................................... 9 
+4.  Module im zweiten Semester ................................................................... 10 
+5.  Module im dritten Semester ..................................................................... 11 
+6. 
+Auflistung Module .................................................................................... 13 
+Arbeiten und Leben in der digitalen Transformation ......................................... 13 
+Arbeitsmarkt und Haushalt ................................................................................ 14 
+Arbeitsmarktökonomie ...................................................................................... 15 
+Arbeitsmarktsoziologie ...................................................................................... 16 
+Auslandsmodul I ............................................................................................... 17 
+Auslandsmodul II .............................................................................................. 18 
+Bayesian econometrics ..................................................................................... 19 
+Bedürfnisse von Arbeitnehmer*innen - das Beispiel Diversity ........................... 20 
+Change management ........................................................................................ 21 
+Datenerhebung und Datenstrukturen in der Arbeitsmarktforschung ................. 23 
+Die psychologische Bedeutung von Arbeit ........................................................ 24 
+Economics of innovation ................................................................................... 26 
+Einführung in das Arbeitsrecht für Masterstudierende ...................................... 28 
+Electronic human resources management ........................................................ 29 
+Empirische Arbeitsmarktforschung.................................................................... 30 
+Grundlagen der Organisationspsychologie ....................................................... 31 
+Hauptseminar Wirtschaftspsychologie .............................................................. 33 
+Institutionen und Organisationen des Arbeitsmarktes ....................................... 35 
+Interdisziplinäres Seminar zu aktuellen Fragen der Arbeitswelt ........................ 37 
+International trade and labor ............................................................................. 38 
+Labor markets: A macroeconomic perspective ................................................. 39 
+Labor markets in the knowledge economy ........................................................ 40 
+Labor market policy ........................................................................................... 41 
+Literaturseminar zu aktuellen Fragen der Arbeitsmarktökonomie ..................... 42 
+Macroeconomics: Business cycles.................................................................... 43 
+Masterarbeit ...................................................................................................... 44 
+Angewandte Methoden: Methoden der Wirtschafts- und 
+Organisationspsychologie ................................................................................. 45 
+Mikroökonometrie und Maschinelles Lernen ..................................................... 46 
+Multivariate time series analysis ....................................................................... 48 
+Ökonometrie ..................................................................................................... 50 
+Ökonomie der Sozialpolitik ................................................................................ 52 
+Panel and evaluation methods .......................................................................... 54 
+Performance Management in Teams ................................................................ 56 
+Personalmanagement ....................................................................................... 58 
+Personnel economics ........................................................................................ 60 
+Personalpsychologie ......................................................................................... 61 
+Public economics .............................................................................................. 63 
+Ringvorlesung Personalmanagement ............................................................... 64 
+Seminar zur Arbeitsmarktsoziologie .................................................................. 65 
+Seminar zur Organisationspsychologie ............................................................. 66 
+Theorieseminar zur Wirtschaftspsychologie ...................................................... 68 
+
+4 
+
+ 
+Wirtschaftspsychologie Projektseminar ............................................................. 69 
+
+Stand: 19.03.2021 
+
+5 
+
+ 
+Studienverlaufsplan 
+
+Master in Arbeitsmarkt und Personal 
+
+Semester 
+
+1. Semester: Pflichtbereich 
+Arbeitsmarktökonomie 
+Arbeitsmarktsoziologie 
+Personalpsychologie 
+Personalmanagement 
+Ökonometrie 
+Panel and evaluation methods 
+2. Semester: Interdisziplinäres Seminar + 
+Wahl von 5 Modulen1 
+Interdisziplinäres Seminar zu aktuellen Fragen der Arbeitswelt 
+Wahlpflichtmodule (je 5 ECTS-Punkte) 
+3. Semester: Wahl von 6 Modulen2 
+
+Vertiefungsmodule (je 5 ECTS-Punkte) 
+
+Frei gewählte Module (je 5 ECTS-Punkte) 
+aus dem Angebot des Fachbereichs 
+
+Auslandsmodule (je 5 ECTS-Punkte) 
+
+4. Semester: Masterarbeit 
+Masterarbeit 
+Seminar zur Masterarbeit 
+ECTS 
+
+1 
+ECTS 
+
+2 
+ECTS 
+
+3 
+ECTS 
+
+4 
+ECTS 
+
+5 
+5 
+5 
+5 
+5 
+5 
+
+5 
+25 
+
+max.
+30 
+max. 
+10 
+max. 
+10 
+
+ECTS 
+30 
+5 
+5 
+5 
+5 
+5 
+5 
+
+30 
+
+5 
+25 
+30 
+max. 
+30 
+max. 
+10 
+max. 
+10 
+30 
+30 
+
+120 
+
+30 
+
+30 
+
+30 
+
+30 
+
+30 
+
+1  Die wählbaren Module werden in diesem Modulhandbuch dargelegt. Die angegebene Semesterzahl 
+
+ist eine Empfehlung. 
+
+2  Die wählbaren Module werden in diesem Modulhandbuch und den Modulhandbüchern der anderen 
+
+Master dargelegt. Die angegebene Semesterzahl ist eine Empfehlung. 
+
+6 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+1.  Leitfaden zur Stundenplangestaltung 
+
+Studierende können sich ihren Stundenplan im elektronischen Vorlesungsverzeichnis 
+UnivIS selbst zusammenstellen. Hier sind alle Lehrveranstaltungen semesteraktuell 
+nach bestimmten Themen oder einzelnen Lehrstühlen hinterlegt sowie die jeweiligen 
+Dozierenden einsehbar. Über den Pfad https://univis.fau.de/ >> 
+Vorlesungsverzeichnis >> Rechts- und Wirtschaftswissenschaftliche Fakultät (RW) 
+>> Fachbereich Wirtschaftswissenschaften gelangen Sie zu den 
+Lehrveranstaltungen am Fachbereich Wirtschaftswissenschaften. An dieser Stelle ist 
+es nun möglich, gezielt Bachelor- oder Masterveranstaltungen auszuwählen.  
+
+Eine Hilfe zur Erstellung des Stundenplans ist hier zu finden: 
+www.wiso.fau.de/stundenplan 
+
+7 
+
+ 
+ 
+ 
+ 
+2.  Hinweis zu Art und Umfang von Prüfungsleistungen 
+
+Die  Art  der  am  Fachbereich  Wirtschaftswissenschaften  gültigen  Prüfungsleistungen 
+ist  definiert  in  §16  Prüfungsarten  der  Master-Rahmenprüfungsordnung  (MPO). 
+Darüber  hinaus  sind  Prüfungsumfänge  in  den  §§17,  18  MPO  geregelt.  Die 
+Prüfungsordnungen sind unter folgendem Link einzusehen:  
+http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/rw.shtml#Wirt
+schaft  
+
+Soweit die einzelnen Modulbeschreibungen nichts Genaueres definieren, sind für die 
+Masterstudiengänge  am  Fachbereich 
+folgende  Prüfungsformen  mit  den 
+entsprechenden Prüfungsumfängen gültig: 
+
+Prüfungsart 
+
+1.  schriftliche Prüfung: 
+
+a. 
+
+b. 
+
+c. 
+
+Klausur 
+
+Hausarbeit 
+
+Seminararbeit 
+
+2.  mündliche Prüfung 
+
+3.  Sonderformen, insbesondere: 
+
+Projektarbeit/-bericht 
+
+Praktikumsbericht 
+
+Thesenpapier 
+
+Protokoll 
+
+Kurztest 
+
+Referat 
+
+Umfang Master 
+
+60/90/120 Minuten 
+
+ca. 15 Seiten 
+
+ca. 15 Seiten  
+
+ca. 20 Minuten 
+
+ca. 30 Seiten 
+
+ca. 4 Seiten 
+
+ca. 2 Seiten  
+
+ca. 6 Seiten 
+
+ca. 15 Minuten 
+
+ca. 25 Minuten 
+
+Präsentation/Präsentationspapier 
+
+ca. 20 Minuten/ca. 20 Seiten 
+
+Diskussionspapier 
+
+Moderation 
+
+Lehrprobe 
+
+Fallstudie 
+
+Diskussionsbeitrag (ehemals: 
+Diskussionsbeteiligung/Mitarbeit)  
+Portfolioprüfung 
+
+Elektronische Prüfung 
+
+Antwort-Wahl-Verfahren 
+
+Versuchspersonenstunde 
+
+Reflexion 
+
+Strategiekonzept 
+
+ca. 10 Seiten 
+
+ca. 20 Minuten 
+
+ca. 45 Minuten  
+
+ca. 25 Minuten und/oder 10 
+Seiten 
+ca. 10 Minuten 
+
+k.A.  
+
+ca. 90 Minuten 
+
+ca. 30 Minuten 
+
+ca. 60 Minuten  
+
+ca. 10 Minuten oder 10 Seiten  
+
+ca. 6 Seiten 
+
+8 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+i. 
+
+j. 
+
+k. 
+
+l. 
+
+m. 
+
+n. 
+
+o. 
+
+p. 
+
+q. 
+
+r. 
+
+ 
+ 
+ 
+ 
+ 
+3.  Module im ersten Semester 
+
+Im ersten Semester sind verpflichtend folgende Module zu absolvieren: 
+
+•  Arbeitsmarktökonomie (A&P-53000) (5 ECTS) 
+•  Arbeitsmarktsoziologie (A&P-53010) (5 ECTS) 
+•  Personalpsychologie (Sozök-53021) (5 ECTS) 
+•  Personalmanagement (MIM-53030) (5 ECTS) 
+•  Ökonometrie (MSE-53043) (5 ECTS) 
+•  Panel and evaluation methods (MSE-53055) (5 ECTS) 
+
+9 
+
+ 
+ 
+ 
+ 
+4.  Module im zweiten Semester 
+
+Im zweiten Semester sind neben dem Pflichtmodul „Interdisziplinäres Seminar zu 
+aktuellen Fragen der Arbeitswelt“ (A&P-53090) (5 ECTS) fünf der im folgenden 
+aufgelisteten Wahlpflichtmodule zu wählen: 
+
+•  Angewandte Methoden: Methoden der Wirtschafts- und 
+Organisationspsychologie (Sozök-52340) (5 ECTS) 
+
+•  Change management (MIM-53460) (5 ECTS) 
+•  Datenerhebung und Datenstrukturen in der Arbeitsmarktforschung 
+
+(A&P-53110) (5 ECTS) 
+
+Institutionen und Organisationen des Arbeitsmarktes (A&P-53060) (5 ECTS) 
+
+•  Electronic human resources management (IIS-57086) (5 ECTS) 
+• 
+•  Mikroökonometrie und Maschinelles Lernen (MSE-53106) (5 ECTS) 
+•  Multivariate time series analysis (MSE-53313) (5 ECTS) 
+•  Ökonomie der Sozialpolitik (A&P-53082) (5 ECTS) 
+•  Personnel economics (MSE-53071) (5 ECTS) 
+
+10 
+
+ 
+ 
+ 
+ 
+5.  Module im dritten Semester 
+
+Im dritten Semester sind sechs Module (à 5 ECTS) im Gesamtumfang von 30 ECTS 
+zu kombinieren. Zur Auswahl stehen die im folgenden aufgelisteten Module.3 
+
+Bereich 
+
+Module 
+
+Empirische 
+Arbeitsmarktökonomie 
+(53120) (10 ECTS) 
+
+•  Empirische Arbeitsmarktforschung 
+
+(A&P-53370) (5 ECTS) 
+
+•  Literaturseminar zu aktuellen Fragen der 
+
+Arbeitsmarktökonomie 
+(MSE-52390) (5 ECTS) 
+
+Empirische 
+Arbeitsmarktsoziologie 
+(53130) (10 ECTS) 
+
+•  Seminar zur Arbeitsmarktsoziologie 
+
+(Sozök-55850) (5 ECTS) 
+•  Arbeitsmarkt und Haushalt 
+(Sozök-55920) (5 ECTS) 
+
+Organisationspsychologie 
+(53140) (10 ECTS) 
+
+Wirtschaftspsychologie 
+(53150) (10 ECTS) 
+
+Labor markets and 
+macroeconomics 
+(52510) (10 ECTS) 
+
+Frei wählbare Module 
+(zwei Module à 5 ECTS) 
+
+•  Grundlagen der Organisationspsychologie 
+
+(Sozök-55702) (5 ECTS) 
+
+•  Seminar zur Organisationspsychologie 
+
+(Sozök-52270) (5 ECTS) 
+
+•  Theorieseminar zur Wirtschaftspsychologie 
+
+(Sozök-52300) (5 ECTS) 
+
+•   Wirtschaftspsychologie Projektseminar 
+
+(Sozök-52310) (5 ECTS) 
+
+•  Labor markets: A macroeconomic perspective 
+
+(MSE-53344) (5 ECTS) 
+
+•  Macroeconomics: Business Cycles 
+
+(MSE-53212) (5 ECTS) 
+
+•  Es können bis zu zwei Module (à 5 ECTS) aus 
+dem Angebot des Fachbereichs eingebracht 
+werden. 
+
+•  Einen Überblick über alle frei wählbaren Module 
+
+finden Sie unter https://www.campus.uni-
+erlangen.de  Studiengangsstrukturen  
+Abschluss: Master of Science  Studiengang: 
+Arbeitsmarkt und Personal 
+
+•  In diesem Modulhandbuch sind nur einige dieser 
+
+Module aufgeführt. Die Beschreibungen der 
+weiteren Module sind den Modulhandbüchern der 
+anderen Masterstudiengänge zu entnehmen.  
+
+Auslandsmodule 
+
+•  Es können bis zu zwei Auslandsmodule à 5 ECTS 
+
+3  Wichtiger Hinweis für Studierende, die ihr Studium vor dem WS 2020/21 begonnen haben: 
+Sofern Sie sich mit Beginn des WS 2020/21 in einem Bereich bereits in einem laufenden 
+Prüfungsverfahren befinden (Erstversuch), müssen Sie diesen begonnenen Bereich gemäß der 
+bisherigen Modulstruktur komplettieren (10 ECTS). 
+
+11 
+
+ 
+ 
+                                                 
+(10 ECTS) 
+
+eingebracht werden (A&P-55950). 
+
+•  Diese können nur von Studierenden eingebracht 
+
+werden, die einen Auslandsaufenthalt absolvieren. 
+
+12 
+
+6.  Auflistung Module 
+
+1 
+
+ Modulbezeichnung 
+A&P-57141 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Arbeiten und Leben in der digitalen 
+Transformation 
+(Digital transformation and transition of work and life) 
+S: Seminar (2 SWS) 
+(Anwesenheitspflicht) 
+Prof. Widuckel und Prof. Bellmann 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Widuckel 
+
+Aufbereitung, Interpretation und Diskussion von aktuellen Themen 
+und Studien zum Arbeiten und Leben in der digitalen 
+Transformation 
+Die Studierenden lernen anhand aktueller Literatur, Themen und 
+Studien wissenschaftliche Befunde zu analysieren und zu 
+interpretieren und hieraus mögliche Schlussfolgerungen zu ziehen. 
+Zielsetzung ist die Befähigung zur kritischen Reflexion und 
+Bewertung wissenschaftlicher Erkenntnisse und deren mögliche 
+Aufnahme in die personalpolitische Praxis. Hierbei werden 
+Fragestellungen und Themeneingrenzungen durch die 
+Studierenden eigenständig erarbeitet, präsentiert und diskutiert. 
+Die Studierenden geben ihren Kommilitoninnen und Kommilitonen 
+wertschätzendes Feedback zu deren Präsentationen. 
+Grundkenntnisse in den Bereichen Arbeitsökonomie, 
+Arbeitssoziologie und Personalmanagement 
+
+3. Semester 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Master Arbeitsmarkt und Personal: Wahlbereich  
+Master Sozialökonomik: Freier Vertiefungsbereich  
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Präsentation und Seminararbeit 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Seminararbeit 70 %, Präsentation 30 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Jährlich im Wintersemester, findet im Wintersemester 2020/21 
+nicht statt 
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-55920 
+ Lehrveranstaltungen 
+
+Arbeitsmarkt und Haushalt 
+(Labor market and household decisions) 
+S: Arbeitsmarkt und Haushalt (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Dr. Damelang 
+
+4 
+
+5 
+
+6 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+ Inhalt 
+
+1 Vertiefung zentraler Theorien, Methoden und Themenfelder im 
+
+Bereich Arbeitsmarkt und Haushalt 
+
+-  Eigenständige Erarbeitung von Themenfeldern, 
+
+Forschungsfragen und Forschungsdesigns 
+
+ Lernziele und 
+Kompetenzen 
+
+Die Studierenden 
+1 erwerben vertiefte Kenntnisse und spezialisiertes Wissen über 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+einen Teilbereich der Arbeitsmarktsoziologie, d.h. den 
+Zusammenhang von Haushalt/Familie und Prozesse des 
+Arbeitsmarktes 
+
+2 erwerben umfassende und spezialisierte Kompetenz, 
+
+Forschungsfragen in diesem Bereich anhand von Literatur und 
+Daten eigenständig zu analysieren 
+
+3 erwerben vertiefte Kompetenz zur kritischen Beurteilung von 
+
+empirischen Forschungsarbeiten im Bereich des Arbeitsmarktes 
+und darüber hinaus 
+
+Grundlegende Kenntnisse der Arbeitsmarktsoziologie 
+
+Die Teilnehmerzahl ist auf maximal 20 Studierende begrenzt. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich; 
+Studienrichtung II: Wahlbereich im Zweitfach Sozialkunde 
+Erweiterungsprüfung Berufliche Schulen/Studienfach 
+Wirtschaftspädagogik 
+Referat und Hausarbeit 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit (100 %), Referat (bestanden) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+Abraham, Martin, und Thomas Hinz (Hrsg.) (2018):  
+Arbeitsmarktsoziologie. 3. Aufl., Opladen: Westdeutscher Verlag. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-53000 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Arbeitsmarktökonomie 
+(Labor economics) 
+V: Arbeitsmarktökonomie (2 SWS) 
+Ü: Übung zur Arbeitsmarktökonomie (1 SWS) 
+Prof. Schnabel und Assistierende 
+
+5 ECTS 
+
+3 ECTS 
+2 ECTS 
+
+ Modulverantwortliche(r)  Prof. Schnabel 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+1.  Arbeitsmarktüberblick 
+2.  Arbeitsangebot 
+3.  Humankapital 
+4.  Arbeitsnachfrage 
+5.  Suche am Arbeitsmarkt 
+6.  Mobilität und Migration 
+7.  Löhne 
+8.  Lohndifferenziale und Diskriminierung 
+9.  Arbeitslosigkeit 
+Das Modul vermittelt die wesentlichen Methoden und Erkenntnisse 
+der modernen ökonomischen Analyse von Arbeitsmärkten. Die 
+Studierenden bestimmen die wichtigsten Einflussfaktoren auf der 
+Angebots- und Nachfrageseite des Arbeitsmarktes, erschließen 
+die Bedeutung von Humankapital sowie die Rolle der Entlohnung, 
+und können die wesentlichen Ursachen von Arbeitslosigkeit 
+analysieren sowie Bekämpfungsmöglichkeiten aufzeigen. Sie 
+werden in die Lage versetzt, die vorgestellten Theorien kritisch zu 
+reflektieren, empirische Arbeitsmarktstudien eigenständig zu 
+interpretieren, wirtschaftspolitische Maßnahmen zu bewerten und 
+eigene Handlungsempfehlungen zu entwickeln. 
+Grundkenntnisse der Mikroökonomie und der empirischen 
+Wirtschaftsforschung  
+
+1. Semester 
+
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+Fachwissenschaftlicher Pflichtbereich oder Wahlbereich; 
+Studienrichtung II: Fachwissenschaftlicher Wahlbereich 
+V & Ü: 90-minütige Klausur 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V & Ü: 100 % 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Borjas, G.: Labor Economics, 7. Aufl. 2016; 
+Cahuc, P./Carcillo, S./Zylberberg, A.: Labor Economics, 2. Aufl. 
+2014; 
+Franz, W.: Arbeitsmarktökonomik, 8. Aufl. 2013 
+
+15 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+Modulbezeichnung 
+A&P-53010 
+ Lehrveranstaltungen 
+
+Arbeitsmarktsoziologie 
+(Labor market sociology) 
+S: Einführung in die Arbeitsmarktsoziologie (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Abraham mit Assistierenden 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Einführung in zentrale Theorien, Methoden und Themenfelder der 
+Arbeitsmarktsoziologie. Zudem werden ausgewählte Themen 
+vertieft erörtert. 
+Die Studierenden 
+- erwerben umfassende Kenntnisse über Grundfragen der 
+
+Arbeitsmarktsoziologie  
+
+- erwerben detaillierte Kenntnisse über den Zusammenhang 
+gesellschaftlicher Rahmenbedingungen und Prozesse des 
+Arbeitsmarktes 
+
+- erwerben Kompetenzen zur kritischen Beurteilung von politischen 
+Programmen und Maßnahmen im Bereich des Arbeitsmarktes 
+
+Keine 
+
+Master Arbeitsmarkt und Personal: 1. Semester 
+Master Wirtschaftspädagogik: 3. Semester 
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master Economics: Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich; 
+Studienrichtung II: Wahlbereich im Zweitfach Sozialkunde 
+Erweiterungsprüfung Berufliche Schulen/Studienfach 
+Wirtschaftspädagogik 
+Klausur (60 Minuten) und Präsentation 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Klausur (100 %); Präsentation (bestanden) 
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Abraham, Martin, und Thomas Hinz (Hrsg.) (2018): 
+Arbeitsmarktsoziologie. 3. Aufl., Opladen: Westdeutscher Verlag. 
+
+16 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-55950 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Auslandsmodul I 
+(Study abroad module I) 
+Auslandsmodul I 
+(Study abroad module I) 
+Lehrpersonal an der ausländischen Universität 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+ Inhalt 
+
+Die an der ausländischen Universität besuchten 
+Lehrveranstaltungen sollten einen thematischen Bezug zu den 
+Inhalten des Masters haben. Eine Prüfung der Eignung der 
+Lehrveranstaltungen erfolgt durch den Masterkoordinator. 
+Die Studierenden erwerben zusätzliches fachliches Wissen und 
+weitere Kompetenzen (z.B. Sprach- und Sozialkompetenz). 
+Learning Agreement 
+
+ Lernziele und 
+Kompetenzen 
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Vom Notenschlüssel und den ECTS der Lehrveranstaltung 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+In Übereinstimmung mit den Studien- und Prüfungsleistungen der 
+ausländischen Universität. 
+
+3. Semester 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+abhängig. 
+In Übereinstimmung mit dem Kursangebot an der ausländischen 
+Universität. 
+In Übereinstimmung mit dem Arbeitsaufwand der 
+Lehrveranstaltungen an der ausländischen Universität. 
+1 Semester 
+
+Unterrichts- und Prüfungssprache des Landes der ausländischen 
+Universität 
+Berücksichtigung der Angaben zu den Lehrveranstaltungen an der 
+ausländischen Universität 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-55950 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Auslandsmodul II 
+(Study abroad module II) 
+Auslandsmodul II 
+(Study abroad module II) 
+Lehrpersonal an der ausländischen Universität 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+ Inhalt 
+
+Die an der ausländischen Universität besuchten 
+Lehrveranstaltungen sollten einen thematischen Bezug zu den 
+Inhalten des Masters haben. Eine Prüfung der Eignung der 
+Lehrveranstaltungen erfolgt durch den Masterkoordinator. 
+Die Studierenden erwerben zusätzliches fachliches Wissen und 
+weitere Kompetenzen (z.B. Sprach- und Sozialkompetenz). 
+Learning Agreement 
+
+ Lernziele und 
+Kompetenzen 
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Vom Notenschlüssel und den ECTS der Lehrveranstaltung 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+In Übereinstimmung mit den Studien- und Prüfungsleistungen der 
+ausländischen Universität. 
+
+3. Semester 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+abhängig. 
+In Übereinstimmung mit dem Kursangebot an der ausländischen 
+Universität. 
+In Übereinstimmung mit dem Arbeitsaufwand der 
+Lehrveranstaltungen an der ausländischen Universität. 
+1 Semester 
+
+Unterrichts- und Prüfungssprache des Landes der ausländischen 
+Universität 
+Berücksichtigung der Angaben zu den Lehrveranstaltungen an der 
+ausländischen Universität 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MARK-57340 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Bayesian econometrics 
+
+Lecture: Bayesian econometrics (2 SWS) 
+Practice sessions: Bayesian econometrics (2 SWS) 
+Dr. Glas 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Dr. Dovern 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+Basics of Bayesian statistics; Bayesian estimation of linear 
+regression models with various priors; Bayesian estimation of 
+models for limited dependent variables; Bayesian VAR models; 
+forecasting with Bayesian models; Bayesian estimation of 
+macroeconomic DSGE models; posterior simulation techniques 
+(Monte Carlo integration, importance sampling, Gibbs sampler, 
+Metropolis-Hastings algorithm); implementation of methods in R 
+Ability to explain the differences between Bayesian and frequentist 
+econometrics; ability to derive posterior parameter distributions for 
+different priors for a range of empirical models; ability to 
+investigate how sensitive results are with respect to prior choices; 
+ability to interpret results of Bayesian analyses in academic 
+research papers; skills to implement Bayesian estimations of the 
+covered models in R 
+Basic knowledge in statistics 
+Courses: “Applied econometrics” and “Mathematics for 
+economists” 
+2nd or 4th semester 
+
+Master in Economics: Elective compulsory subjects 
+Master in Labour Market and Human Resources: Wahlbereich 
+Master in FACT: Vertiefungs- u. Ergänzungsbereich 
+Master in Marketing (start before WS17/18): Wahlpflichtbereich 
+Modulgruppe “Methoden” 
+Master in Marketing (start since WS17/18): Wahlpflichtbereich 
+Modulgruppe “Data Science” 
+Master in Sozialökonomik: Freier Vertiefungsbereich 
+
+10 
+
+ Method of examination  Oral examination (20 minutes) 
+
+11 
+
+ Grading procedure 
+
+Oral examination (100 %) 
+
+12 
+
+ Module frequency 
+
+Annually in the summer term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60 h 
+Independent study: 90 h 
+1 semester 
+
+English 
+
+Koop, G. (2003), Bayesian Econometrics, Wiley, West Sussex.  
+
+Del Negro, M. and F. Schorfheide (2011), Bayesian 
+Macroeconomics, in: Geweke, J., G. Koop, and H. van Dijk (eds.), 
+The Oxford Handbook of Bayesian Econometrics, pp. 293–389, 
+Oxford University Press, Oxford. 
+
+Kilian, L. and H. Lütkepohl (2017), Structural Vector 
+Autoregressive Analysis, Cambrige University Press, Cambridge. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+A&P-56512 
+
+2 
+
+ Lehrveranstaltungen 
+
+Bedürfnisse von Arbeitnehmer*innen - das Beispiel 
+Diversity 
+(Needs of employees - the example of diversity) 
+S: Seminar (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Widuckel 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Modulverantwortliche(r)  Prof. Widuckel 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+Aufbereitung, Interpretation und Diskussion von aktuellen Themen 
+und Studien zur Veränderung von Belegschaftsstrukturen als 
+Herausforderungen für das Personalmanagement 
+Die Studierenden lernen anhand aktueller Literatur, Themen und 
+Studien, wissenschaftliche Befunde zu analysieren und zu 
+interpretieren und hieraus mögliche Schlussfolgerungen für die 
+Handlungsfelder des Personalmanagements zu ziehen. 
+Zielsetzung ist die Befähigung zur kritischen Reflexion und 
+Bewertung wissenschaftlicher Erkenntnisse und deren mögliche 
+Aufnahme in die personalpolitische Praxis.  
+Grundkenntnisse der Handlungsfelder des Personalmanagements 
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Management: Vertiefungsbereich 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Präsentation (30 %), Hausarbeit (70 %) 
+
+Präsentation und Hausarbeit als Einzelleistung 
+
+12 
+
+ Turnus des Angebots 
+
+Jedes Semester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MIM-53460 
+ Courses/lectures 
+
+Change management 
+
+L/P: Change management (2+1 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Junge and assistants 
+
+ Module coordinator 
+
+Prof. Junge / Prof. Hungenberg 
+
+4 
+
+5 
+
+ Contents 
+
+This module focuses on one of the most important management 
+tasks: to achieve change in organizations. It deals with systematic 
+approaches to influence individuals, teams and the organization as 
+a whole in a desired way – in order to develop a company from its 
+current to a future state. The currently ongoing digital 
+transformation makes this particularly worthwhile. Digitalization 
+drives change and thus represents a great challenge, but also 
+offers tremendous opportunities. The module provides participants 
+with a systematic approach in order to (1) successfully initiate and 
+implement organizational changes and (2) successfully guide an 
+organization through a change process. Participants will be 
+provided with theoretical concepts and practical tools for managing 
+organizational change (e.g. research on cognitive biases, trait 
+theory, motivation theory, affective events theory, emotional 
+intelligence, and organizational ambidexterity). 
+At the end of this module, students are familiar with the tasks and 
+challenges of managing change in organizations. The participants 
+should develop an understanding of the importance of successful 
+leadership during organizational change as well as evaluate 
+situations, which are related to organizational change. 
+None 
+
+2nd semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master IBS: Kernbereich 
+Master Management: Vertiefungsbereich 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+Master Wirtschaftspädagogik Studienrichtung I: 
+fachwissenschaftlicher Pflichtbereich; Studienrichtung II: 
+fachwissenschaftlicher Wahlbereich 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Written examination (60 minutes) 
+
+11 
+
+ Grading procedure 
+
+Written examination (60 minutes): 100 % 
+
+12 
+
+ Module frequency 
+
+Annually in the summer term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+English 
+
+Bazerman, M., Moore, D.: Judgement in Managerial Decision 
+Making, 8th ed., Hoboken 2017. 
+
+Greenberg, J.: Managing Behavior in Organizations, 6th ed., 
+Boston 2013. 
+
+Kahneman, D.: Thinking, Fast and Slow, 1st ed., New York 2013.  
+
+21 
+
+ 
+ 
+ 
+ 
+Robbins, S., Judge, T.: Organizational Behavior, 17th ed., Boston 
+2017. 
+
+22 
+
+ 
+ 
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+
+Verwendbarkeit des 
+Moduls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+1 
+
+ Modulbezeichnung 
+A&P-53111 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Datenerhebung und Datenstrukturen in der 
+Arbeitsmarktforschung 
+(Collection and structures of data in labor market 
+research) 
+V: Datenerhebung und Datenstrukturen (2 SWS) 
+Ü: Übung Datenerhebung und Datenstrukturen (1 SWS) 
+Dr. Hans Dietrich  
+
+5 ECTS 
+
+3 ECTS 
+2 ECTS 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+4 
+
+5 
+
+ Inhalt 
+
+In der empirischen Arbeitsmarktforschung werden häufig komplexe 
+Daten verwendet, die insbesondere zeitliche Strukturen 
+beinhalten. Gegenstand dieses Moduls ist die Vermittlung 
+grundsätzlicher Erhebungsdesigns solcher Daten, deren 
+Aufbereitung sowie deren Auswertung mit Verfahren der Panel- 
+und Ereignisdatenanalyse. 
+Die Studierenden 
+-  erwerben Kenntnisse über die Erhebung von Daten in diesem 
+
+Bereich 
+
+-  erwerben spezialisierte und vertiefte Kompetenz in der 
+
+Datenaufbereitung 
+
+-  erwerben vertiefte Kompetenzen in der Analyse von Ereignis- 
+
+und Paneldaten 
+
+-  erwerben vertiefte Kompetenzen im Umgang mit Stata 
+-  Grundkenntnisse in Stata sowie bereits praktische Erfahrung 
+
+(bspw. in einer Hausarbeit oder Abschlussarbeit) 
+-  Kenntnisse von OLS und logistischer Regression 
+2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Economics: Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+V & Ü: Diskussionspapier und Seminararbeit 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V & Ü: Diskussionspapier 33 %; Seminararbeit 67 %  
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Sommersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Blossfeld, H. P., Golsch, K., & Rohwer, G. (2012). Event history 
+analysis with Stata. Psychology Press. 
+
+Cameron, A. C., & Trivedi, P. K. (2010). Microeconometrics Using 
+Stata (Vol. 2). College Station, TX: Stata press. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-56900 
+ Lehrveranstaltungen 
+
+Die psychologische Bedeutung von Arbeit 
+(The psychological meaning of work) 
+Die psychologische Bedeutung von Arbeit (vhb-Kurs) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Klaus Moser 
+
+4 
+
+5 
+
+ Inhalt 
+
+Das gegenwärtige gesellschaftliche System wird häufig als 
+Arbeitsgesellschaft bezeichnet. Zugrunde liegt die Annahme, dass 
+die moderne Erwerbsarbeit eine entscheidende Größe im Leben 
+der meisten Menschen darstellt und ihre Gedanken, 
+Empfindungen und ihr Verhalten entscheidend prägt. In einer 
+Online-Vorlesung wird ein einführender Überblick in wesentliche 
+Ansätze und Befunde der Forschung zur psychologischen 
+Bedeutung von Arbeit gegeben. Der Fokus wird nicht nur auf 
+theoretischen Konzepten und empirischen Befunden liegen, 
+sondern es werden auch praktische Empfehlungen abgeleitet und 
+die Perspektiven von Experten, Praktikern und Betroffenen 
+einbezogen. Außerdem erfolgt eine Verknüpfung von Forschung 
+und Praxis indem die Studierenden basierend auf ihren 
+erworbenen Kenntnissen einen eigenen Interviewleitfaden zu einer 
+Thematik aus der Vorlesung entwerfen und ein Interview mit einer 
+betroffenen Person durchführen werden. 
+Die Studierenden lernen Theorien und Modelle zur 
+psychologischen Bedeutung der Arbeit kennen und entwickeln ein 
+vertieftes Verständnis für grundlegende Methoden und zentrale 
+Befunde dieses Forschungsfelds. Zudem lernen sie die eigene 
+Einstellung gegenüber der Erwerbsarbeit und die eigenen 
+arbeitsbezogenen Lebens- und Karrierepläne kritisch zu 
+reflektieren. Sie erwerben darüber hinaus fundierte Kenntnisse zu 
+wichtigen Interventionsarten im Kontext von Erwerbsarbeit und 
+werden darauf vorbereitet, ihre erworbenen Kenntnisse in der 
+eigenen beruflichen Praxis anzuwenden.  
+Grundkenntnisse sozialwissenschaftlicher Erhebungs- und 
+Auswertungsmethoden, Grundlagen des wissenschaftlichen 
+Arbeitens, Bereitschaft zur Lektüre umfangreicher 
+(englischsprachiger) Materialien, Englischkenntnisse mindestens 
+auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Wahlbereich; Studienrichtung II: 
+Wahlbereich 
+Klausur (60 Minuten, Präsenzklausur an der FAU) 
+Fallstudie 
+Diskussionsbeitrag (in Online-Diskussionen im Forum) 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10 
+
+ Studien- und 
+Prüfungsleistungen 
+
+11 
+
+ Berechnung Modulnote  Klausur: 60 % 
+
+12 
+
+ Turnus des Angebots 
+
+Fallstudie: 40 % 
+Diskussionsbeitrag (bestanden) 
+Semesterweise 
+
+24 
+
+ 
+ 
+ 
+ 
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 0 h 
+Eigenstudium: 150 h (Online-Kurs) 
+1 Semester 
+
+Deutsch 
+
+Moser, K., Paul, K., Soucek, R., & Wolff, H.-G. (2014). Planung 
+und Evaluation organisationspsychologischer Interventionen. In H. 
+Schuler & K. Moser (Hrsg.), Lehrbuch Organisationspsychologie 
+(5. Auflage, S. 699-756). Huber: Bern. 
+
+Paul, K. I. & Moser, K. (2015). Arbeitslosigkeit. In K. Moser (Hrsg.), 
+Wirtschaftspsychologie (2. Auflage, S. 263-281). Springer: Berlin. 
+
+Schaper, N. (2014). Wirkungen von Arbeit. In F. W. Nerdinger, G. 
+Blickle, & N. Schaper (3. Auflage, S. 517-539). Arbeits- und 
+Organisationspsychologie. Springer: Heidelberg. 
+
+Wegge, J., Endsche, J., & Diestel, S. (2014). Arbeitsgestaltung. In 
+H. Schuler & K. Moser (Hrsg.), Lehrbuch 
+Organisationspsychologie (5. Auflage, S. 643-695). Huber: Bern. 
+
+25 
+
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-53295 
+ Courses/lectures  
+
+Economics of innovation 
+
+L: Economics of Innovation  (2 SWS) 
+T: Economics of Innovation  (2 SWS) 
+
+3 
+
+ Lecturers 
+
+Prof. Dr. Markus Nagler  
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Dr. Markus Nagler 
+
+4 
+
+5 
+
+ Contents  
+
+The lecture provides an introduction to economic issues of 
+innovation and new ideas. The course first sets out general 
+problems in the economics of innovation such as the public goods 
+nature of ideas and the importance of innovation for economic 
+prosperity. In the second part, the course analyses issues in 
+intellectual property rights and public economics topics such as 
+public funding of research or the role of universities. In the last 
+part, the course discusses labor and personnel issues in 
+innovation policy, for example the impact of immigration on 
+innovation. 
+Students know the key issues in the economics of innovation and 
+the impacts of potential public policies to promote innovation. They 
+are able to assess current research in the economics of innovation 
+and are able to relate its results to fundamental policy questions in 
+the area. Students are acquainted with important empirical 
+approaches in the area. 
+Basic microeconomics, basic econometrics 
+
+2nd semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+Master International Business Studies: elective course 
+Master in Management: elective course (Vertiefungsbereich) 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Written exam (90 minutes) 
+
+If original examination cannot be held due to Corona:  
+oral examination 
+
+11 
+
+ Grading procedure 
+
+Written exam (100%) 
+
+If original examination cannot be held due to Corona:  
+oral examination (100%) 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Module frequency 
+
+Summer term 
+
+ Workload 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 60 h 
+Independent study: 90 h 
+Lecture notes are provided throughout the course (usually around 
+one week in advance). 
+1 semester 
+
+English 
+
+Bryan, Kevin and Heidi Williams (forthcoming): “Markets for 
+innovation: Market failures and public policies”, Handbook of 
+Industrial Organization 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bloom, Nicholas, John Van Reenen and Heidi Williams (2019): “A 
+Toolkit of Policies to Promote Innovation,” Journal of Economic 
+Perspectives 33(3): 163-184 
+
+Scotchmer, Suzanne. “Innovation and incentives”. MIT press, 
+2004. 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+A&P-55890 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Einführung in das Arbeitsrecht für 
+Masterstudierende 
+(Introduction to labor law for Master's students) 
+V: Einführung in das Arbeitsrecht für 
+Masterstudierende (3 SWS) 
+Andreas Beulmann 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche(r)  Prof. Hoffmann 
+
+4 
+
+5 
+
+ Inhalt 
+
+- Begründung von Arbeitsverhältnissen 
+- Rechte und Pflichten von Arbeitnehmern und Arbeitgebern  
+- Beendigung von Arbeitsverhältnissen / Kündigungsrecht 
+- Grundzüge des kollektiven Arbeitsrechts 
+- Einführung in das Sozialversicherungsrecht 
+Die Studierenden werden auf eine vertiefte wissenschaftliche 
+Beschäftigung mit arbeitsrechtlichen Fragestellungen vorbereitet 
+sowie auf eine spätere berufliche Tätigkeit, die arbeitsrechtliche 
+Kenntnisse erfordert. (z.B. in den Bereichen Personalwesen, 
+Wirtschaftspädagogik, Sozialökonomik) 
+Grundkenntnisse im allgemeinen Zivilrecht 
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Mündliche Prüfung (20 Minuten) 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  100 % 
+
+12 
+
+ Turnus des Angebots 
+
+ Sowohl im Winter- als auch Sommersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Brox/Rüthers/Henssler – Arbeitsrecht 
+
+Pallasch – Arbeitsrecht 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+IIS-57086 
+ Lehrveranstaltungen 
+
+Electronic human resources management   
+
+5 ECTS 
+
+Electronic human resources management (E-HRM) 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Dr. Sven Laumer 
+
+ Modulverantwortliche/r  Prof. Dr. Sven Laumer 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Dieser E-Learning-Kurs bietet spezifische Einblicke in die 
+elektronischen Personalprozesse im organisationalen Kontext. 
+Durch die Teilnahme am Kurs sollen die Studierenden die 
+Konsequenzen des Technologieeinsatzes im HR-Bereich 
+umfassend verstehen. 
+
+Jedes Modul besteht aus einer Videovorlesung und einem Skript. 
+Zusätzliches Material und Übungen ergänzen die vorgestellten 
+Themen. Die Materialien werden in deutscher und englischer 
+Sprache zur Verfügung gestellt.  
+
+Agenda:  
+
+−  Teil A: Grundlagen des E-HRM  
+−  Teil B: Technologische Grundlagen 
+−  Teil C: Anwendungssysteme 
+−  Teil D: Herausforderungen und Chancen 
+
+Studierende erlangen Klarheit über den Einsatz und die 
+Entwicklung von digitalen Technologien im Personalwesen, 
+können die Auswirkungen digitaler Technologien auf HR erklären 
+und digitale Innovationen für HR gestalten. 
+Die Anmeldung über die vhb (www.vhb.org) ist notwendig, um 
+Zugang zum StudOn-Kurs zu erhalten. 
+
+1. oder 3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master International Information Systems: Wahlpflichtfach 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung II: Zweitfach 
+Wirtschaftsinformatik 
+Erweiterungsprüfung Berufliche Schulen/Studienfach 
+Wirtschaftspädagogik 
+V & Ü: 90-minütige Klausur 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V & Ü: 100 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Sowohl im Winter- als auch Sommersemester (Start im 
+Wintersemester 2020/2021!) 
+Vorlesung: 40h 
+Tutorium: 40h 
+Eigenstudium: 70h 
+1 Semester 
+
+Deutsch und Englisch 
+
+Tbd.  
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modulbezeichnung 
+A&P-53370 
+ Lehrveranstaltungen 
+
+Empirische Arbeitsmarktforschung 
+(Empirical labor market research) 
+HS Empirische Arbeitsmarktforschung (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Lehrende 
+
+Prof. Schnabel und Assistierende 
+
+ Modulverantwortliche/r  Prof. Schnabel 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Mittels vorgegebener Datensätze werden ökonometrische 
+Analysemethoden auf aktuelle Fragestellungen der 
+Arbeitsmarktökonomik angewendet und diese eigenständig 
+empirisch untersucht. 
+Die Studierenden lernen, Arbeitsmarktstudien kompetent zu 
+interpretieren, zu bewerten und zu hinterfragen. Sie verstehen 
+quantitative Methoden differenziert einzusetzen, Hypothesen zu 
+bilden und diese empirisch zu überprüfen. Durch eigenes Arbeiten 
+am PC werden sie in die Lage versetzt, selbständig 
+Forschungsdesigns zu entwickeln, ökonometrische Analysen 
+durchzuführen und deren Ergebnisse aufzubereiten. Zudem 
+verstehen sie es, Erkenntnisse aus fremden oder eigenen 
+empirischen Arbeiten prägnant darzustellen, kritisch zu bewerten 
+und der (Fach-) Öffentlichkeit zu vermitteln. 
+Grundkenntnisse in Arbeitsmarktökonomik und Ökonometrie 
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Kurztests und Hausarbeit 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Durchschnittsnote Kurztests 20 %, Note Hausarbeit 80 % 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-55702  
+ Lehrveranstaltungen 
+
+Grundlagen der Organisationspsychologie 
+(Organizational psychology) 
+V: Organisationspsychologie (2 SWS) 
+Ü: Übung zur Organisationspsychologie (1 SWS) 
+
+5 ECTS 
+
+3 ECTS 
+2 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+4  Modulverantwortliche/r   Prof. Klaus Moser 
+
+5 
+
+Inhalt  
+
+6  Lernziele und 
+Kompetenzen 
+
+7  Empfohlene 
+
+Voraussetzungen zur 
+Teilnahme 
+
+8 
+
+ Einpassung in 
+Musterstudienplan 
+
+9  Verwendbarkeit des 
+
+Moduls 
+
+10  Studien- und 
+
+Prüfungsleistungen 
+
+-  Vertiefende Wissensvermittlung zu Grundfragen, theoretischen 
+Grundlagen und konkreten Instrumenten der Personalarbeit, 
+der Arbeitspsychologie und der Organisationsentwicklung aus 
+psychologischer (verhaltenswissenschaftlicher) Sicht 
+-  Kennenlernen und Bewerten aktueller Instrumente und 
+
+Verfahren 
+
+-  Kritische Betrachtung der wissenschaftlichen Grundlagen und 
+praktischen Anwendbarkeit von Konzepten, Methoden und 
+Instrumenten 
+
+Übung: Vertiefung ausgewählter Literatur anhand von 
+ausgewählten Fallstudien. Einübung verschiedener Instrumente 
+und Techniken der organisationspsychologischen Praxis in 
+gemeinsamen Rollenspielen und Methoden der Selbsterfahrung in 
+der Gruppe. 
+
+Schwerpunkte von Vorlesung und Übung: Gruppenarbeit, 
+Organisationsdiagnose und -entwicklung, Bedeutung von Arbeit, 
+Arbeitslosigkeit, Arbeitsanalyse und -gestaltung, Stress, 
+Arbeitssicherheit und Gesundheitsschutz 
+Die Studierenden erwerben fundierte Kenntnisse über Theorien 
+und Methoden der Personalarbeit und der 
+Organisationsentwicklung. Sie können die operativen Fragen und 
+Methoden in das strategische Management eines Unternehmens 
+einordnen. Sie können die vorgestellten Theorien, Methoden und 
+Verfahren kritisch reflektieren, beurteilen und anwenden. Sie 
+lernen, wie Methoden und Instrumente entwickelt und rigoros 
+evaluiert werden können. 
+Grundkenntnisse sozialwissenschaftlicher Erhebungsmethoden 
+und von Korrelations- und Regressionsrechnung bzw. Methoden 
+der Wirtschafts- und Organisationspsychologie, 
+Präsentationstechniken, Grundlagen des wissenschaftlichen 
+Arbeitens, Bereitschaft zur Lektüre umfangreicher (meistens 
+englischsprachiger) Materialien für die Übung, Englischkenntnisse 
+mindestens auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Pflichtbereich 
+oder fachwissenschaftlicher Wahlbereich; Studienrichtung II: 
+Wahlbereich 
+Master Wirtschaftsingenieurwesen: Wahlbereich, 
+wirtschaftswissenschaftliche Studienrichtung 
+Vorlesung und Übung: Klausur 
+Übung: Diskussionsbeitrag, 1 Versuchspersonenstunde 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+11  Berechnung Modulnote  Vorlesung: Klausur (60%),  
+
+12  Turnus des Angebots 
+
+13  Arbeitsaufwand 
+
+14  Dauer des Moduls 
+
+15  Unterrichts- und 
+Prüfungssprache 
+(Vorbereitende) 
+Literatur 
+
+16 
+
+Übung: Diskussionsbeitrag, Versuchspersonenstunde: bestanden 
+(40%) 
+Jährlich 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h  
+1 Semester 
+
+Deutsch (Übung fallweise Englisch) 
+
+Schuler, H. & Moser, K. (Hrsg.) (2019). Lehrbuch 
+Organisationspsychologie (6. Auflage). Bern: Huber.  
+
+Schuler, H. & Kanning, U. P. (Hrsg.) (2014), Lehrbuch der 
+Personalpsychologie (3. Auflage). Göttingen: Hogrefe.  
+
+Ulich, E. (2011). Arbeitspsychologie. Stuttgart: Poeschel.  
+
+Hacker, W. (1998). Allgemeine Arbeitspsychologie. Bern: Huber. 
+
+Aktuelle Jahrgänge der Zeitschriften „Journal of Applied 
+Psychology“, „Journal of Occupational and Organizational 
+Psychology“ und „Zeitschrift für Arbeits- und 
+Organisationspsychologie“ 
+
+32 
+
+ 
+ 
+1 
+
+ Modulbezeichnung 
+Sozök-53151 
+
+Hauptseminar Wirtschaftspsychologie 
+(Advanced seminar in business psychology) 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+S: Ergänzungsseminar zur Wirtschaftspsychologie 
+(2 SWS) 
+Prof. Klaus Moser und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche(r)   Prof. Klaus Moser 
+
+ Inhalt 
+
+-  Vertiefende Auseinandersetzung mit Themen der 
+Wirtschaftspsychologie (Personalpsychologie, 
+Organisationspsychologie, Konsumentenverhalten) 
+
+-  Im Seminar setzen sich die Studierenden gründlich und auf der 
+
+Basis anspruchsvoller i.d.R. englischsprachiger Fachliteratur mit 
+einem aktuellen Thema auseinander, in dem Sie entweder ein 
+Thema vertiefend theoretisch oder im Rahmen eines 
+empirischen Projektes bearbeiten. Sie stellen ihre Arbeit 
+mündlich vor und verfassen eine in Form und Niveau an eine 
+Fachpublikation angelehnte Hausarbeit. 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+-  Die Themen wechseln semesterweise. 
+Die Studierenden demonstrieren ihren souveränen Umgang mit 
+der einschlägigen Fachliteratur und wirtschaftspsychologischen 
+Theorien und Methoden. Sie können wissenschaftliche Positionen 
+erläutern, vertreten, kritisieren und verteidigen. Sie erwerben 
+fundierte Fachkenntnisse zu spezifischen Fragestellungen in der 
+Wirtschaftspsychologie und vertiefen ihre Kenntnisse darin, wie 
+Methoden und Instrumente entwickelt und evaluiert werden 
+können. 
+Besuch vorbereitender Module aus den Bereichen 
+Personalpsychologie, Organisationspsychologie oder 
+Konsumentenverhalten. Grundkenntnisse sozialwissenschaftlicher 
+Erhebungsmethoden und von Korrelations- und Regressions-
+rechnung bzw. Methoden der Wirtschafts- und Organisations-
+psychologie, Präsentationstechniken, Grundlagen des 
+wissenschaftlichen Arbeitens, Bereitschaft zur Lektüre 
+umfangreicher und anspruchsvoller (meistens englischsprachiger) 
+Texte, Englischkenntnisse mindestens auf Niveau UNICERT II. 
+3. Semester 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit 100 %, Präsentation: bestanden 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+Präsentation, Hausarbeit 
+
+12 
+
+ Turnus des Angebots 
+
+Semesterweise 
+
+13  Arbeitsaufwand 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+
+33 
+
+ 
+ 
+ 
+14  Dauer des Moduls 
+
+1 Semester 
+
+15  Unterrichts- und 
+Prüfungssprache 
+
+16  (Vorbereitende) 
+
+Literatur 
+
+Deutsch und Englisch 
+
+Wird bekannt gegeben 
+
+34 
+
+ 
+ 
+1 
+
+ Modulbezeichnung 
+A&P-53060 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Institutionen und Organisationen des 
+Arbeitsmarktes 
+(Labor market institutions and organizations) 
+V: Institutionen und Organisationen des Arbeitsmarktes 
+(2 SWS) 
+Ü: Übung zu Institutionen und Organisationen des 
+Arbeitsmarktes (1 SWS) 
+Prof. Schnabel mit Assistierenden 
+
+5 ECTS 
+
+3 ECTS 
+
+2 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche(r)  Prof. Schnabel 
+
+ Inhalt 
+
+- Gewerkschaften und Arbeitgeberverbände 
+- Tarifautonomie 
+- Mindestlöhne 
+- Betriebsräte und Mitbestimmung 
+- Arbeitsrechtliche Schwellenwerte Kündigungsschutz 
+- Arbeitslosenversicherung 
+- Bundesagentur für Arbeit 
+- Aktive Arbeitsmarktpolitik 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+Das Modul analysiert verschiedene Institutionen und 
+Organisationen des Arbeitsmarktes und ihre 
+Arbeitsmarktwirkungen, vorwiegend aus 
+wirtschaftswissenschaftlicher Perspektive. Die Studierenden 
+erschließen die ökonomische Bedeutung arbeitsrechtlicher und 
+sozialpolitischer Regelungen und beurteilen die Rolle und Wirkung 
+der Tarifparteien, der Betriebsräte und der Bundesagentur für 
+Arbeit. Sie werden in die Lage versetzt, die vorgestellten Theorien 
+kritisch zu reflektieren, empirische Arbeitsmarktstudien zu 
+interpretieren und zu hinterfragen, wirtschaftspolitische 
+Maßnahmen zu bewerten sowie eigene Handlungsempfehlungen 
+zu entwickeln. Sie erstellen gemeinsam mit anderen 
+Präsentationen und geben Kommiliton*innen wertschätzendes 
+Feedback zu deren Präsentationen. 
+Keine 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V: Präsentation unbenotet 
+
+2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Economics: Wahlbereich 
+V: Präsentation bestanden 
+V & Ü: mündliche Prüfung (20 Minuten) 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+V & Ü: mündliche Prüfung 100 % 
+Jährlich im Sommersemester 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Boeri ,T./van Ours, J.: The Economics of Imperfect Labor Markets, 
+2. Aufl., Princeton 2013; 
+
+Wagner, T./Jahn, E.: Neue Arbeitsmarkttheorien, 2. Aufl. 2004 
+(v.a. Teil III); 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Aktuelle Forschungsliteratur 
+
+36 
+
+ 
+ 
+1 
+
+ Modulbezeichnung 
+A&P-53090 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+5 ECTS 
+
+5 ECTS 
+
+Interdisziplinäres Seminar zu aktuellen Fragen der 
+Arbeitswelt 
+(Interdisciplinary seminar on current issues in the world 
+of employment) 
+S: Interdisziplinäres Seminar zu aktuellen Fragen der 
+Arbeitswelt (3 SWS) 
+(Anwesenheitspflicht) 
+Wechselnd; Aktuelle Informationen in UnivIS unter 
+univis.fau.de 
+>> Vorlesungsverzeichnis 
+>> Rechts- und Wirtschaftswissenschaftliche Fakultät 
+>> Fachbereich Wirtschafts- und Sozialwissenschaften 
+>> Master-Studiengänge 
+>> Master in Arbeitsmarkt und Personal 
+>> Pflichtbereich 
+>> Interdisziplinäres Seminar 
+
+ Modulverantwortliche(r)  Prof. Schnabel (stellvertretend für alle Dozierende im 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+Studiengang) 
+Aufbereitung, Interpretation und Diskussion von aktuellen Themen 
+und Studien aus dem Bereich Arbeitsmarkt und Personal 
+Die Studierenden lernen anhand aktueller Literatur, Themen und 
+Studien aus dem Bereich Arbeitsmarkt und Personal prägnant 
+aufzubereiten und kompetent zu interpretieren. Sie werden in die 
+Lage versetzt, aktuelle Forschungsfragen zu analysieren sowie 
+Erkenntnisse kritisch zu reflektieren, zu bewerten und (gemäß dem 
+Leitbild des Fachbereichs) aus verschiedenen fachlichen 
+Perspektiven zu diskutieren. Sie erschließen dabei eigenständig 
+Informationen, setzen sich selbst Arbeitsziele, erstellen (nach 
+Möglichkeit gemeinsam mit anderen) Präsentationen und geben 
+Kommiliton*innen wertschätzendes Feedback zu deren 
+Präsentationen. 
+Voriger Besuch der Veranstaltungen des 1. Semesters 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Seminararbeit 80 %, Präsentation 20 % 
+
+Seminararbeit und Präsentation 
+
+2. Semester 
+
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Sommersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch und Englisch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+37 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MIBS-57130 
+ Courses/lectures  
+
+3 
+
+ Lecturers 
+
+International trade and labor  
+
+V: International trade and labor (2 SWS) 
+Ü: International trade and labor (2 SWS) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Christoph Moser 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+ Recommended 
+prerequisites 
+
+8 
+
+9 
+
+ Integration in 
+curriculum 
+ Module compatibility 
+
+This module deals with the consequences of globalization for the 
+domestic labor market and discusses the winners and losers of 
+trade liberalization. The module focuses on the impact of 
+international economic integration on domestic wages, jobs and 
+inequality, in particular in Germany and the United States. 
+Students are made familiar with the main relevant concepts of 
+international trade and acquire specialized knowledge of the labor 
+market effects of trade liberalization. Students learn about key 
+theoretical predictions, their empirical evidence and the empirical 
+strategies to assess their relevance. The module focuses on topics 
+at the intersection between international trade and labor. 
+Basic knowledge of microeconomics (e.g., Varian, Hal (2014), 
+Intermediate Microeconomics: A Modern Approach, 9th 
+international edition) and econometrics (e.g., Wooldridge, Jeffrey 
+(2013), Introductory Econometrics: A Modern Approach, 5th 
+international edition). 
+2nd or 4th semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective course (Wahlbereich) 
+Master IBS: Elective course (Wahlbereich) 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+
+10 
+
+ Method of examination  Written examination 60 minutes (Klausur 60 Minuten) 
+
+11 
+
+ Grading procedure 
+
+Written examination result 100 % (Prüfungsergebnis 100 %) 
+
+12 
+
+ Module frequency 
+
+Annually in the summer term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60 h 
+Self-study: 90 h 
+1 semester 
+
+English 
+
+Krugman, P., M. Obstfeld and M. Melitz (2017/18), “International 
+Trade: Theory and Policy” OR “International Economics: Theory 
+and Policy,” 11th global edition. 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+1   Module name 
+
+MSE-53344 
+Courses/lectures 
+
+2  
+
+3  
+
+Lecturer 
+
+Labor markets: A macroeconomic perspective 
+
+5 ECTS 
+
+S: Topics in macro-labor (2 SWS) 
+L: Introduction to macro-labor theory and empirics  
+(1 SWS) 
+Dr. Stüber 
+
+4 ECTS 
+1 ECTS 
+
+4   Module coordinator 
+
+Prof. Merkl 
+
+5  
+
+Contents 
+
+6  
+
+7  
+
+8  
+
+9  
+
+Learning  objectives  and 
+skills 
+
+Recommended 
+prerequisites 
+Integration in 
+curriculum 
+Module compatibility 
+
+- Stylized macroeconomic facts of the labor market 
+- The labor market and business cycle dynamics 
+- The importance of wage rigidities 
+Students learn 
+- to analyze macroeconomic stylized facts of the labor market  
+-  to  critically  evaluate  the  ability  of  dynamic  labor  market  models 
+(e.g., search and matching) to replicate business cycle facts 
+- to evaluate macroeconomic (policy) implications. 
+Macroeconomics: Business Cycles, Econometrics 
+
+3rd semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: Freier Vertiefungsbereich  
+
+10 
+
+ Method of examination  Seminar paper (15 pages) and presentation of seminar paper (30 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Grading procedure 
+
+minutes) 
+Seminar paper (90%), presentation (10%) 
+
+ Module frequency 
+
+Annually in the winter term 
+
+ Workload 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 20 h 
+Independent study: 130 h 
+1 semester 
+
+English 
+
+Pissarides,  C.  Equilibrium  Unemployment.  2000,  MIT  Press, 
+Cambridge. Chapters 1 & 9. 
+
+Recent research articles 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-57131 
+ Courses/lectures  
+
+3 
+
+ Lecturer 
+
+Labor markets in the knowledge economy 
+
+5 ECTS 
+
+L: Labor markets in the knowledge economy (2 hours) 
+T: Labor markets in the knowledge economy (2 hours) 
+Prof. Dr. Markus Nagler 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Dr. Markus Nagler 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+The course analyzes topics in labor economics and their 
+connection to innovation and technology. We will mostly discuss 
+classical topics in labor economics such as labor supply and 
+migration which are seen through a technology and knowledge 
+economy perspective. It is mainly an empirical course: labor 
+economics is a front-runner in the use of econometrics and data. 
+Students know the key issues in the intersection of labor and 
+innovation economics. They are able to assess current research in 
+the area and are able to relate its results to fundamental policy 
+questions in the area. Students are acquainted with important 
+empirical approaches in the area. 
+Basic microeconomics, basic econometrics 
+
+3rd semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+Master International Business Studies: elective course 
+Master in Management: elective course (Vertiefungsbereich) 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+
+10 
+
+ Method of examination  Written exam (90 minutes) 
+
+11 
+
+ Grading procedure 
+
+If students cannot participate in the written exam due to the current 
+pandemic, an oral examination is possible 
+Written exam (100%) 
+
+12 
+
+ Module frequency 
+
+Winter term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 60 h 
+Independent study: 90 h 
+Lecture notes are provided throughout the course (usually around 
+one week in advance). 
+1 semester 
+
+English 
+
+Angrist, Joshua and Jörn-Steffen Pischke (2008). “Mostly 
+Harmless Econometrics”, Princeton University Press. 
+
+Autor, David H. “Why are there still so many jobs? The history and 
+future of workplace automation.” The Journal of Economic 
+Perspectives 29.3 (2015): 3-30. 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-52910 
+ Courses/lectures 
+
+Labor market policy 
+
+S: Labor market policy 
+
+3 
+
+ Lecturers 
+
+Prof. Stephan 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Stephan 
+
+4 
+
+5 
+
+6 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+The module analyzes main topics in labor market policy, with a 
+focus on evaluation studies of labor market institutions and active 
+and passive labor market programs 
+Students 
+- acquire specialized knowledge on policy debates, theoretical 
+backgrounds, evaluation techniques, and empirical evidence for 
+core labor market policies. 
+- assess theoretical approaches, applied methods, and empirical 
+results of recent research papers.  
+- clearly present and scrutinize complex facts and results. 
+- discuss presentations of fellow students and provide constructive 
+feedback. 
+Solid knowledge in microeconomics and econometrics 
+
+3rd semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Seminar paper, presentation of seminar paper,  
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+class participation in terms of discussing a seminar paper of a 
+fellow student  
+Seminar paper (100 %), presentation of seminar paper (passed), 
+class participation in terms of discussing a seminar paper of a 
+fellow student(passed) 
+Annually in the winter term 
+
+Presence: 30 h 
+Independent study: 120 h 
+1 semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading  Boeri, T., van Ours. J. (2013). The Economics of Imperfect Labor 
+
+English 
+
+Markets, 2nd edition. Princeton: Princeton University Press. 
+
+Varying recent literature 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Modulbezeichnung 
+MSE-52390 
+
+ Lehrveranstaltungen 
+
+ Lehrende 
+
+Literaturseminar zu aktuellen Fragen der 
+Arbeitsmarktökonomie 
+(Literature seminar on current issues of labor 
+economics) 
+S: Literaturseminar zu aktuellen Fragen der 
+Arbeitsmarktökonomie (3 SWS) 
+Prof. Bellmann  
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche(r)  Prof. Bellmann 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+Auswertung, Interpretation und Diskussion bestehender Studien zu 
+aktuellen Arbeitsmarktthemen (wie z.B. Fragen der Entlohnung, 
+der Qualifikation und Bildung, der Arbeitsbeziehungen und der 
+Arbeitsmarktpolitik). Der Schwerpunkt liegt dabei auf 
+mikroökonometrischen Studien. 
+Die Studierenden lernen anhand aktueller empirischer Studien aus 
+der Literatur, Arbeitsmarktstudien kompetent zu interpretieren, zu 
+bewerten und zu hinterfragen. Sie verstehen quantitative 
+Methoden differenziert einzusetzen, Hypothesen zu bilden und 
+diese empirisch zu überprüfen. Zudem verstehen sie es, 
+Erkenntnisse aus fremden empirischen Arbeiten prägnant 
+darzustellen, kritisch zu bewerten und der (Fach-) Öffentlichkeit zu 
+vermitteln. Sie erschließen dabei eigenständig Informationen, 
+erstellen Präsentationen und geben Kommiliton(inn)en 
+wertschätzendes Feedback zu deren Präsentationen. 
+Keine 
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+Hausarbeit und Präsentation 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit 80 %, Präsentation 20 % 
+
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+ Arbeitsaufwand 
+
+ Dauer des Moduls 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit 45 h 
+Eigenstudium 105 h 
+1 Semester 
+
+Deutsch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+42 
+
+ 
+ 
+ 
+ 
+1   Module name 
+
+MSE-53212 
+Courses/lectures 
+
+2  
+
+Macroeconomics: Business cycles 
+
+L: Advanced macroeconomics (2 SWS) 
+E: Exercise (2 SWS) 
+
+5 ECTS 
+
+2.5 ECTS 
+2.5 ECTS 
+
+3  
+
+Lecturer 
+
+Prof. Merkl 
+
+4   Module coordinator 
+
+Prof. Merkl 
+
+5  
+
+Contents 
+
+6  
+
+Learning  objectives  and 
+skills 
+
+7  
+
+8  
+
+9  
+
+Recommended 
+prerequisites 
+Integration in 
+curriculum 
+Module compatibility 
+
+-Stylized facts of the business cycle 
+-Business cycle theories 
+-Business cycle and the labor market 
+-Monetary theory and policy 
+Students 
+- learn about modern dynamic business cycle theory 
+- learn about dynamic labor market theory (search and matching) 
+- apply standard techniques (e.g., intertemporal optimization, 
+loglinearization or simple simulations) 
+- learn about modern monetary theory 
+- compare the implications of monetary theory with modern policy 
+making 
+Advanced Mathematics, Macroeconomics (Bachelor) 
+
+1st semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+
+10 
+
+ Method of examination  Written examination (60 Min.). Students can improve their grade 
+
+through two assignments: one programming assignment with 
+Matlab (about 30 lines of code) and one analytical problem (about 
+four written pages). This requires the written exam to be graded 
+not worse than 4.0; the max. improvement is 0.3 grades. 
+Written examination (100%) 
+
+ Grading procedure 
+
+ Module frequency 
+
+Annually in the winter term 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60 h 
+Independent study: 90 h 
+1 semester 
+
+English 
+
+Gali, J., Monetary Policy, Inflation, and the Business Cycle: An 
+the  New  Keynesian  Framework  and 
+Introduction 
+Applications, 2015, second edition. 
+
+to 
+
+its 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-1997 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Masterarbeit 
+(Master’s thesis) 
+Masterarbeit (0 SWS) 
+HS: Seminar zur Masterarbeit (2 SWS) 
+Professor*innen Abraham, Bellmann, Holtbrügge, 
+Merkl, Klaus Moser, Riphahn, Schnabel, Wrede 
+
+30 ECTS 
+
+30 ECTS 
+
+ Modulverantwortliche(r)  Prof. Schnabel stellvertretend für alle Dozierende im Studiengang 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+Erforschung und Diskussion aktueller Themen aus dem Bereich 
+Arbeitsmarkt und Personal, Erstellung einer Masterarbeit 
+In der Masterarbeit zeigen die Studierenden, dass sie in der Lage 
+sind, innerhalb einer vorgegebenen Frist ein Thema bzw. eine 
+Fragestellung aus dem Bereich Arbeitsmarkt und Personal 
+selbständig mit wissenschaftlichen Methoden zu analysieren, 
+eigene Lösungsansätze zu entwickeln sowie die Erkenntnisse 
+prägnant aufzubereiten und kompetent zu beurteilen.  
+Das parallel laufende Seminar zur Masterarbeit soll die 
+Studierenden bei der Anfertigung der Arbeit und der Entwicklung 
+der Fragestellung unterstützen, ihnen Möglichkeiten der 
+Diskussion und Zwischenevaluation eröffnen und ihnen Hilfen zur 
+Darstellung und Lösung von Problemen geben. 
+Voriger Besuch der Veranstaltungen des 1.-3. Semesters 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Masterarbeit 100 %  
+
+4. Semester 
+
+Master Arbeitsmarkt und Personal 
+
+Masterarbeit: Schriftliche Arbeit 
+Seminar zur Masterarbeit: Präsentation 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Seminar zur Masterarbeit: Präsentation (unbenotet) 
+Jedes Semester 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 870 h 
+1 Semester 
+
+Deutsch oder Englisch; 
+Wird im Einzelfall abgestimmt 
+Aktuelle Forschungsliteratur 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+Sozök-52340 
+
+2 
+
+ Lehrveranstaltungen 
+
+Angewandte Methoden: Methoden der Wirtschafts- 
+und Organisationspsychologie 
+(Applied methods: Research and statistical methods in 
+business and organizational psychology) 
+S: Methoden der Wirtschafts- und 
+Organisationspsychologie (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+4 
+
+5 
+
+ Modulverantwortliche(r)   Prof. Klaus Moser 
+
+ Inhalt 
+
+a.  Vertiefende Behandlung von Forschungsdesigns und 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+vornehmlich multivariaten statistischen Analyseverfahren unter 
+besonderer Berücksichtigung fachspezifischer Anwendungen 
+und Probleme (z.B. moderierte Regression, Meta-Analyse). 
+b.  Die Inhalte werden durch verschiedene Lehrmethoden, wie 
+
+etwa Dozentin bzw. Dozenten-/ Studierendenvorträge, Übungen 
+am PC etc. vermittelt. 
+
+Die Studierenden verstehen die Forschungsmethoden 
+anwendungsbezogener Fachartikel, und können diese bewerten 
+und kritisch hinterfragen. Sie sind in der Lage, selbständig 
+anspruchsvolle Untersuchungen zu planen, durchzuführen und 
+auszuwerten. Sie können sich zudem eigenständig in weitere 
+Analyseverfahren einarbeiten. 
+
+Grundkenntnisse sozialwissenschaftlicher Erhebungs- und 
+Auswertungsmethoden; Präsentationstechniken, Grundlagen des 
+wissenschaftlichen Arbeitens, Bereitschaft zur Lektüre 
+umfangreicher und anspruchsvoller (meistens englischsprachiger) 
+Texte; Englischkenntnisse mindestens auf Niveau UNICERT II. 
+2. Semester 
+
+Master Sozialökonomik: Pflichtbereich „Angewandte Methoden“ 
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Wirtschaftsingenieurwesen: Wirtschaftswissenschaftlicher 
+Bereich (Sozök-5060) 
+60-minütige Klausur 
+2 Versuchspersonenstunden 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Klausur 100 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Versuchspersonenstunden: bestanden 
+jährlich im Sommersemester 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h  
+1 Semester 
+
+Deutsch 
+
+Wird bekannt gegeben 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MSE-53106 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Mikroökonometrie und Maschinelles Lernen 
+(Microeconometrics and machine learning) 
+V: Mikroökonometrie und Maschinelles Lernen 
+(2 SWS) 
+Ü: Mikroökonometrie und Maschinelles Lernen 
+(1 SWS) 
+Prof. Riphahn mit Assistierenden 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Modulverantwortliche(r)  Prof. Riphahn 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Konzept der Maximum-Likelihood-Schätzung in Matrixnotation; 
+Schätz- und Testverfahren für diskrete abhängige Variablen, Tobit-
+Modelle, Selektionsmodelle, Verweildauermodell, 
+Zähldatenmodelle; Maschinelles Lernen für stetige und diskrete 
+abhängige Variablen, supervised und unsupervised learning; 
+Praktische Umsetzung der Lerninhalte mit Hilfe der 
+Statistiksoftware STATA 
+Aufbauend auf der Veranstaltung „Ökonometrie“ erwerben die 
+Studierenden spezialisierte Kenntnisse in nicht linearen Schätz- 
+und Testverfahren sowie in den Verfahren des maschinellen 
+Lernens und wenden diese mit Hilfe der Statistiksoftware STATA 
+an. Sie diskutieren und bewerten die Geeignetheit verschiedener 
+Modelle im praxisbezogenen Kontext und erstellen eigene 
+empirische Analysen im Rahmen einer freiwilligen Hausarbeit. 
+Grundkenntnisse Statistik und Einführungsveranstaltung 
+Ökonometrie 
+
+2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Economics: Elective compulsory subjects  
+Master in Management: Vertiefungsbereich 
+Master Marketing: Wahlpflichtbereich der Modulgruppe „Statistik“  
+Master Sozialökonomik: Pflichtbereich „Vertiefung Methoden“ oder 
+freier Vertiefungsbereich 
+V & Ü: Klausur (60 Minuten) 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V & Ü: 
+
+100 % Klausur (Bei Notenverbesserung ist eine freiwillige, 
+vorlesungsbegleitend ggf. in Gruppenarbeit erstellte Hausarbeit zu 
+20 % auf die Endnote anrechenbar, in der auf Basis eines 
+Datensatzes und mit Hilfe von Stata eine empirische Fragestellung 
+bearbeitet wird. Dabei kann sich die Klausurnote um bis zu 0,7 
+Notenpunkte verbessern. Die Prüfung ist nur bestanden, wenn 
+auch die Klausur bestanden ist. Die Hausarbeit wird nur in dem 
+Semester gewertet, in dem sie erstellt wurde.) 
+Jährlich im Sommersemester  
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Cameron, C. und P. K. Trivedi, 2005, Microeconometrics. Methods 
+and Applications, Cambridge Univ. Press. 
+
+46 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+ 
+ 
+ 
+ 
+Verbeek, M., 2012, A Guide to Modern Econometrics, 4. A., Wiley. 
+
+Hastie, T., R. Tibsharani, und J., 2009, The Elements of Statistical 
+Learning: Data Mining, Inference and Prediction, Springer. 
+
+Wooldridge,  J.M.,  2010,  Econometric  Analysis  of  Cross  Section 
+and Panel Data, 2.A., MIT Press. 
+
+47 
+
+ 
+ 
+1 
+
+ Module name 
+MSE-53313 
+
+2 
+
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Multivariate time series analysis 
+
+5 ECTS 
+
+Lecture: Multivariate time series analysis (2 SWS) 
+Practice Session: Multivariate time series analysis 
+(2 SWS) 
+Dr. Doll 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Dr. Dovern 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+Brief repetition of concepts of univariate time series analysis; 
+stationary vector autoregressive (VAR) processes: basics, 
+estimation, lag order selection, specification testing, forecasting; 
+structural VAR models: various methods for identifying 
+macroeconomic shocks; non-stationary/integrated processes: 
+spurious correlation vs. cointegration, error correction models; 
+multivariate GARCH models. 
+Ability to independently analyze multivariate stationary time series 
+using vector autoregressive processes; ability to explain the 
+problems of identifying structural macroeconomic shocks and 
+ability to estimate and interpret SVAR models; ability to test for 
+spurious correlations between integrated time series and ability to 
+specify and estimate models for cointegrated time series; ability to 
+explain and estimate basic multivariate GARCH models; skills for 
+using existing functions in R for time series analysis and for 
+developing proprietary functions for analyzing multivariate time 
+series in R. 
+Proficiency in univariate time series analysis and basic concepts of 
+econometrics,  
+Course: “Applied econometrics” 
+2nd or 4th semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich  
+Master in Marketing (start before WS17/18): Wahlpflichtbereich 
+Modulgruppe “Methoden” 
+Master in Marketing (start since WS17/18): Wahlpflichtbereich 
+Modulgruppe “Data Science”  
+Master in Sozialökonomik: Freier Vertiefungsbereich 
+
+10 
+
+ Method of examination  Written examination (60 minutes) 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+Written examination (100 %) 
+Good results for online quizzes during the semester can improve 
+the grade by 0,3/0,4 points. 
+Annually in the summer term 
+
+Attendance: 60 h 
+Independent study: 90 h 
+1 semester 
+
+15 
+
+ Teaching and 
+examination language 
+
+English 
+
+48 
+
+ 
+ 
+ 
+ 
+16 
+
+ Recommended reading  Lütkepohl, H. (2005), New Introduction to Multiple Time Series 
+
+Analysis, Springer. 
+
+Kilian, L. and H. Lütkepohl (2017), Structural Vector 
+
+Autoregressive Analysis (Themes in Modern Econometrics), 
+Cambridge University Press, Cambridge. 
+
+Tsay, R.S. (2005), Analysis of Financial Time Series, 2nd edition, 
+
+Wiley (alternatively 3rd edition from 2010). 
+
+Verbeek, M. (2008), A Guide to Modern Econometrics, 3rd edition, 
+
+Wiley. 
+
+49 
+
+ 
+ 
+1 
+
+2 
+
+Modulbezeichnung 
+MSE-53043 
+ Lehrveranstaltungen 
+
+Ökonometrie 
+(Econometrics) 
+V/Ü: Ökonometrie (2 + 2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Riphahn mit Assistierenden 
+
+ Modulverantwortliche(r)  Prof. Riphahn 
+
+4 
+
+5 
+
+Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+Konzept der linearen Regression in Matrixnotation; 
+Inhaltliche und statistische Interpretation linearer 
+Regressionsmodelle;Heteroskedastie und Autokorrelation; 
+Maximum Likelihood Schätzung und Modelle für bivariate 
+abhängige Variablen; 
+Praktische Umsetzung der Lerninhalte mit Hilfe der 
+Statistiksoftware STATA 
+Die Studierenden erwerben umfassende und fundierte Kenntnisse 
+in linearen und nicht linearen Schätz- und Testverfahren und 
+wenden diese mit Hilfe der Statistiksoftware STATA an. Sie 
+beurteilen die Angemessenheit der Verfahren im praxisbezogenen 
+Kontext und erstellen eigene empirische Analysen.  
+Grundkenntnisse Statistik und Ökonometrie im Umfang des 
+angebotenen Brückenkurses 
+
+1. Semester 
+
+Master Marketing (MARK-53043) für Studierende mit 
+Studienbeginn ab WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Statistik“ im 
+
+Vertiefungsbereich Marketing Management 
+Master Marketing (MARK-53042) für Studierende mit 
+Studienbeginn vor WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Methoden“ im 
+
+Vertiefungsbereich Marketing Management 
+
+Master Sozialökonomik: Pflichtbereich  
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master FACT: Vertiefungsbereich (Modulgruppe Interdisziplinäre 
+Module) Master  
+Master in Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Management: Vertiefungsbereich 
+V & Ü: Klausur (90 Minuten) 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  V & Ü:  
+
+10 
+
+11 
+
+100 % Klausur (Bei Notenverbesserung ist eine freiwillige, 
+vorlesungsbegleitend erstellte Hausarbeit zu 20 % auf die Endnote 
+anrechenbar, in der auf Basis eines Datensatzes und mit Hilfe von 
+Stata eine empirische Fragestellung bearbeitet wird. Dabei kann 
+sich die Klausurnote um bis zu 0,7 Notenpunkte verbessern. Die 
+Prüfung ist nur bestanden, wenn auch die Klausur bestanden ist. 
+Die Hausarbeit wird nur in dem Semester gewertet, in dem sie 
+erstellt wurde.) 
+Jährlich im Wintersemester (geblockt in der ersten Semesterhälfte) 
+
+50 
+
+12 
+
+ Turnus des Angebots 
+
+ 
+ 
+ 
+ 
+ 
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+(Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 60 h 
+Eigenstudium: 90 h 
+Erste Hälfte des Wintersemesters (geblockte Veranstaltung, pro 
+Woche 4 SWS Vorlesung und 4 SWS Übung) 
+Deutsch 
+
+Verbeek, Marno, 2012, A Guide to Modern Econometrics, 4. A., 
+Wiley. 
+
+51 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-53082 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Ökonomie der Sozialpolitik  
+(Economics of Social Policy) 
+S: Ökonomie der Sozialpolitik (3 SWS) 
+(Anwesenheitspflicht) 
+Prof. Wrede und Mitarbeiter/in 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche(r)  Prof. Dr. Wrede 
+
+4 
+
+5 
+
+6 
+
+ Inhalt 
+
+ Lernziele und 
+Kompetenzen 
+
+Ausgewählte ökonomische Analysen der Sozialpolitik unter 
+Einschluss ethischer und ökonomischer Grundlagen sowie 
+institutioneller Aspekte 
+Studierende kennen ausgewählte Bereiche der Sozialpolitik und 
+können diese beschreiben und international vergleichen. 
+Studierende können ethische und ökonomische Grundlagen 
+staatlicher Eingriffe in ausgewählten Bereichen sozialer Sicherung 
+darstellen, interpretieren und diskutieren. 
+Studierende können Wirkungen sozialpolitisch relevanter Größen 
+theoretisch und empirisch verstehen, bewerten und hinterfragen. 
+Studierende können sozialpolitische Maßnahmen unter Effizienz- 
+und Gerechtigkeitsgesichtspunkten bewerten und hinterfragen. 
+Studierende geben Ihren Kommilitonen im Rahmen ihrer 
+Präsentationen strukturiertes Feedback. 
+Studierende fördern die Fachkenntnisse der anderen Studierenden 
+durch themenspezifische Diskussionsbeiträge. 
+Studierende erfassen, bewerten und diskutieren ausgewählte 
+aktuelle, meist englischsprachige Forschungsarbeiten in Ihrer 
+Seminararbeit. 
+Mikroökonomische und ökonometrische Kenntnisse 
+
+Ab dem 2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Economics: Wahlbereich 
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+Fachwissenschaftlicher Wahlbereich; Studienrichtung II: 
+Wahlbereich im Zweitfach Sozialkunde 
+Modulprüfung bestehend aus Hausarbeit (15 S.), Präsentation (20 
+Min.), Diskussionsbeitrag 
+
+Es handelt sich um eine zusammenhängende Prüfung, deren Teile 
+untrennbar verbunden sind und nicht einzeln wiederholt werden 
+können. Die Prüfung muss in einem Semester vollständig 
+bestanden werden (im Sinne von § 19 Abs. 1 Satz 4 MPOWiSo). 
+Bei Nichtbestehen eines einzelnen Teils ist die gesamte Prüfung 
+zu wiederholen (abweichend von § 25 Abs. 1 Satz 2 MPOWiSo). 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10 
+
+ Studien- und 
+Prüfungsleistungen 
+
+11 
+
+ Berechnung Modulnote  Hausarbeit 60 %, Präsentation 30 %, Diskussionsbeitrag 10 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+Jährlich im Sommersemester; Anmeldung Ende der 
+Vorlesungszeit des vorherigen Semesters 
+Präsenzzeit: 45 h 
+Selbststudium: 105 h 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+14 
+
+ Dauer des Moduls 
+
+1 Semester 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Deutsch 
+
+53 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-53055 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Panel and evaluation methods 
+
+V: Panel and evaluation methods (2 SWS) 
+Ü: Panel and evaluation methods (1 SWS) 
+Prof. Riphahn and assistants 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Riphahn 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+Endogeneity in the linear regression model; instrumental variables 
+estimation; static and dynamic panel data models; matching; 
+difference-in-differences estimation; regression discontinuity 
+design; quantile regression; practical application of methods using 
+statistics software STATA 
+Based on the introductory econometrics module „Ökonometrie 1“ 
+students acquire specialized knowledge in panel und evaluation 
+methods and apply it using the statistics software STATA. 
+Students evaluate to what degree empirical patterns can be 
+interpreted as causal and decide to what extent problems of 
+endogeneity can be solved via panel data or exogeneous variation. 
+Students can produce own empirical analyses. 
+Basic knowledge in statistics and econometrics 
+
+1st semester 
+
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master Marketing für Studierende mit Studienbeginn ab WS17/18:  
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Statistik“ im 
+
+Vertiefungsbereich Marketing Management 
+
+Master Marketing für Studierende mit Studienbeginn vor WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Methoden“ im 
+
+Vertiefungsbereich Marketing Management 
+
+Master Sozialökonomik: Pflichtbereich „Vertiefung Methoden“ oder 
+freier Vertiefungsbereich  
+Master FACT: Vertiefungsbereich (Modulgruppe Interdisziplinäre 
+Module)  
+Master Economics: Elective compulsory subjects  
+Master Management: Vertiefungsbereich  
+
+10 
+
+ Method of examination  Written examination (60 minutes) 
+
+11 
+
+ Grading procedure 
+
+100 % written exam (a voluntarily submitted homework can 
+account for 20 % of the final grade if it improves the grade. In the 
+homework an empirical analysis is performed based on Stata. The 
+final grade can be improved by up to 0.7 points. However, the 
+exam must be passed. The homework only counts towards final 
+grades in the semester in which they are produced, i.e. only in the 
+winter semester.) 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+Annually in the winter semester (blocked format in the 2nd half of 
+the semester) 
+Presence: 45 h 
+Independent study: 105 h 
+Second half of the winter semester (blocked, each week 4 SWS 
+lecture and 2 SWS exercise) 
+
+54 
+
+ 
+ 
+ 
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading  Hsiao, Cheng, 2003, Analysis of Panel Data, 2nd ed. Cambridge 
+
+English 
+
+Univ. Press. 
+
+Lee, Myoung-Jae, 2005, Micro-Econometrics for Policy, Program 
+and Treatment Effects, Oxford Univ. Press. 
+
+Wooldridge, J.M., 2010, Econometric Analysis of Cross Section 
+and Panel Data, 2.A., MIT Press. 
+
+Verbeek, Marno, 2012, A Guide to Modern Econometrics, 4. A., 
+Wiley. 
+
+55 
+
+ 
+ 
+Modulbezeichnung 
+Sozök-54650 
+Lehrveranstaltungen 
+
+1 
+
+2 
+
+Performance Management in Teams  
+
+5 ECTS 
+
+Performance Management in Teams (VHB Kurs) 
+
+5 ECTS 
+
+3  Lehrende 
+
+Prof. Klaus Moser 
+
+4  Modulverantwortliche/r   Prof. Klaus Moser 
+
+5 
+
+Inhalt 
+
+6  Lernziele und 
+Kompetenzen 
+
+7  Empfohlene 
+
+Voraussetzungen zur 
+Teilnahme 
+
+8 
+
+ Einpassung in 
+Musterstudienplan 
+9  Verwendbarkeit des 
+
+Moduls 
+
+10  Studien- und 
+
+Prüfungsleistungen 
+
+Produktivitätsmanagement zielt darauf ab, Mitarbeiter/innen für die 
+Ziele und Strategien einer Organisation zu gewinnen und sie zu 
+motivieren, kontinuierlich zu deren Erfolg beizutragen. In der 
+Veranstaltung werden motivationspsychologische Ansätze sowie 
+die Rolle von Feedback und Partizipation für die Gestaltung eines 
+effektiven Produktivitätsmanagements vermittelt. Darüber hinaus 
+lernen die Studierenden im Rahmen eines evidenzbasierten 
+Ansatzes konkret, auf welche Weise Erfolgsindikatoren abgeleitet 
+und erfasst werden können und wie diese zum Erfolg einer 
+Organisation beitragen. Auf Basis eines in der Praxis bereits 
+bewährten Ansatzes zum Produktivitätsmanagement, nämlich 
+ProMES (Productivity Measurement and Enhancement System), 
+wird das Gelernte im Kontext eines Fallbeispiels praktisch 
+umgesetzt und eingeübt. 
+
+Schwerpunkte der Veranstaltung: 
+
+-  Vermittlung motivationspsychologischer Theorien und deren 
+Rolle für das organisationale Produktivitätsmanagement. 
+-  Vermittlung der Grundlagen der Leistungsmessung sowie 
+
+Diskussion kritischer Aspekte. 
+
+-  Praktische, anwendungsbezogenen Entwicklung eines 
+
+eigenen ProMES-Systems (in Gruppenarbeit). 
+
+Die Studierenden erwerben fundierte Kenntnisse über 
+Motivationstheorien sowie Ansätze der Leistungsmessung in 
+Organisationen. Zudem lernen Sie die Voraussetzungen der 
+Gestaltung eines erfolgreichen Produktivitätsmanagements 
+kennen. Auf Basis des Gelernten gelingt es ihnen, selbständig ein 
+organisationspezifisches Produktivitätsmanagement-System zu 
+entwickeln. Sie üben Techniken und Maßnahmen ein, die für die 
+Implementierung und Evaluation von erfolgsrelevanten 
+Interventionen in Organisationen wesentlich sind.  
+Grundkenntnisse sozialwissenschaftlicher Erhebungsmethoden, 
+Grundlagen des wissenschaftlichen Arbeitens, Bereitschaft zur 
+Lektüre umfangreicher (englischsprachiger) Materialien, 
+Englischkenntnisse mindestens auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I:  
+fachwissenschaftlicher Wahlbereich; Studienrichtung II: 
+Wahlbereich 
+Klausur (60 Minuten) 
+Fallstudie  
+Kurztest  
+
+56 
+
+ 
+ 
+ 
+ 
+11  Berechnung Modulnote  Klausur: 100 %  
+
+12  Turnus des Angebots 
+13  Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+Fallbeispiel: bestanden 
+Kurztest: bestanden  
+Semesterweise   
+
+Präsenzzeit: 0 h 
+Eigenstudium: 150 h (Online-Kurs)  
+1 Semester 
+
+15 
+
+16 
+
+Englisch 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) Literatur  Pritchard, R. D. Weaver, S. J., & Ashwood, E. L. (2012). Applied 
+Psychology Series: Evidence-based productivity improvement: A 
+practical guide to the Productivity Measurement and Enhancement 
+System (ProMES). London: Routledge. 
+
+57 
+
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MIM-53030 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Personalmanagement 
+(Human resources management) 
+V/Ü: Personalmanagement (Human resource 
+management) (2 + 1 SWS) 
+Prof. Holtbrügge und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche(r)  Prof. Holtbrügge 
+
+ Inhalt 
+
+1. Personalmanagement als strategischer Erfolgsfaktor der 
+
+Unternehmungsführung 
+
+2. Theorien des Personalmanagements 
+3. Akteure des Personalmanagements 
+4. Bedingungen des Personalmanagements 
+5. Instrumente des Personalmanagements 
+
+5.1 Personalbedarfsplanung und -deckung 
+5.2 Personaleinsatz 
+5.3 Personalentlohnung 
+5.4 Personalführung 
+
+6. Effizienz des Personalmanagements 
+Die Studierenden können Probleme des Personalmanagements 
+aus rechtlicher, ökonomischer, betriebswirtschaftlicher, 
+organisatorischer, psychologischer und ethischer Sicht analysieren 
+sowie Lösungsvorschläge bewerten und eigenständig entwickeln. 
+Sie können die Auswirkungen des Personalmanagement mit Hilfe 
+anspruchsvoller Methoden der Personalforschung prognostizieren 
+und Gestaltungsempfehlungen ableiten Sie lernen den aktuellen 
+internationalen Forschungsstand zum Personalmanagement 
+kennen und sind in der Lage, theoretische und empirische Studien 
+in diesem Bereich kritisch zu reflektieren. 
+Sehr gute Deutschkenntnisse (C1) 
+
+1. Semester 
+
+Master Management: Pflichtbereich I 
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master Economics: Wahlbereich 
+Master IBS (Europa): Wahlbereich 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Klausur (60 Minuten) und Präsentation 
+
+Falls ursprüngliche Prüfung wegen Corona nicht durchführbar:  
+Diskussionspapier (6 Seiten) und aufgezeichnete 
+Videopräsentation 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10 
+
+ Studien- und 
+Prüfungsleistungen 
+
+11 
+
+ Berechnung Modulnote  Klausur (80 %) und Präsentation (20 %) 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+Falls ursprüngliche Prüfung wegen Corona nicht durchführbar:  
+Diskussionspapier (80%) und aufgezeichnete Videopräsentation 
+(20%) 
+Jährlich im WS 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h  
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+
+ Dauer des Moduls 
+
+1 Semester 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Deutsch 
+
+Holtbrügge, D. (2018). Personalmanagement, 7. Aufl., Berlin et al.: 
+Springer. 
+
+59 
+
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-53071 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Personnel economics 
+
+S: Personnel economics (2 SWS) 
+(Compulsory attendance) 
+Prof. Riphahn and team 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Riphahn 
+
+4 
+
+5 
+
+6 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+The module addresses key topics of modern personnel economics 
+research, such as hiring, contract design, motivation, training, 
+teamwork, and group incentives. 
+Students acquire specialized knowledge of personnel economics 
+theories and research questions. By preparing short thesis papers 
+and a seminar paper students learn to evaluate and critically 
+discuss methodological choices and substantive conclusions 
+drawn in recent empirical research papers. Students assess 
+theoretical approaches, applied empirical methods and results of 
+recent research papers. Students present and scrutinize complex 
+facts and results. They discuss the theoretical background, 
+empirical method, and empirical evidence on personnel economics 
+research contributions, discuss presentations of fellow students 
+and provide constructive feedback. 
+Compulsory attendance is required for discussion and feedback 
+processes. 
+Basic knowledge of microeconomics and econometrics 
+
+2nd semester 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (2. FS) 
+Master Sozialökonomik: freier Vertiefungsbereich  
+oder im Bereich „Spezielle VWL“ 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+10 
+
+ Method of examination  Seminar paper, thesis papers 
+
+11 
+
+ Grading procedure 
+
+Seminar paper (group work) (60 %), thesis papers (40 %) 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+Annually in the summer term. 
+Due to Corona additionally in winter term 2020/21. 
+Presence: 45 hours 
+Independent study: 105 hours 
+1 semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading  Garibaldi, Pietro (2006), Personnel Economics in Imperfect Labour 
+
+English, written contributions can be submitted in German 
+language 
+
+Markets, Oxford Univ. Press. 
+
+Neilson, William S. (2007), Personnel Economics, Pearson Educ. 
+Inc. 
+
+Lazear, Edward P. (1998), Personnel Economics, MIT Press. 
+
+Selected research papers 
+
+60 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-53021 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+Personalpsychologie 
+(Personnel psychology) 
+V: Personalpsychologie (2 SWS) 
+Ü: Übung zur Personalpsychologie (1 SWS, bei Übung 
+Anwesenheitspflicht) 
+Prof. Klaus Moser 
+
+5 ECTS 
+
+3 ECTS 
+2 ECTS 
+
+ Modulverantwortliche(r)   Prof. Klaus Moser 
+
+4 
+
+5 
+
+ Inhalt 
+
+-  Vertiefende Wissensvermittlung zu Grundfragen, theoretischen 
+Grundlagen und konkreten Instrumenten der Personalarbeit in 
+Organisationen aus psychologischer (verhaltens-
+wissenschaftlicher) Sicht 
+
+-  Kennen lernen und Bewerten aktueller Instrumente und 
+
+Verfahren der Personalarbeit 
+
+-  Kritische Betrachtung der wissenschaftlichen Grundlagen und 
+praktischen Anwendbarkeit von Konzepten, Methoden und 
+Instrumenten 
+
+-  Schwerpunkte: Personalmarketing, -auswahl und -beurteilung, 
+
+Sozialisation und Personalentwicklung, Entlohnung, 
+Motivation, Führung 
+
+-  Übung: Vertiefung ausgewählter Literatur anhand von 
+
+ausgewählten Fallstudien.  
+
+-  Kennlernen von Instrumenten und Maßnahmen der 
+
+Personalpsychologie. Einüben von praxisrelevanten Techniken 
+im Rahmen von Rollenspielen und praktischen Übungen in 
+Gruppenarbeit. 
+
+Die Studierenden besitzen detaillierte Kenntnisse über Theorien 
+und Methoden der Personalarbeit (Schwerpunkt: Individuum). Sie 
+können die operativen Fragen und Methoden in das strategische 
+Management eines Unternehmens einordnen. Sie können die 
+vorgestellten Theorien, Methoden und Verfahren kritisch 
+reflektieren und beurteilen. Sie können Wissen und Fertigkeiten in 
+der Praxis anwenden, um Probleme aufzuzeigen und Lösungen zu 
+entwickeln. Sie wissen, wie entsprechende Methoden und 
+Instrumente entwickelt und rigoros evaluiert werden können. 
+Grundkenntnisse sozialwissenschaftlicher Erhebungsmethoden 
+und von Korrelations- und Regressionsrechnung, 
+Präsentationstechniken, Bereitschaft zur Lektüre umfangreicher 
+Materialien für die Übung 
+1. Semester 
+
+Master Arbeitsmarkt und Personal: Pflichtbereich 
+Master Sozialökonomik: Pflichtbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Vorlesung und Übung: Klausur (90 Minuten) 
+Übung: Diskussionsbeitrag 
+1 Versuchspersonenstunde 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+10 
+
+ Studien- und 
+Prüfungsleistungen 
+
+11 
+
+12 
+
+ Berechnung Modulnote  Vorlesung und Übung: Klausur 100 % 
+Übung: Diskussionsbeitrag: bestanden 
+Versuchspersonenstunde: bestanden 
+Jährlich  
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h  
+1 Semester 
+
+61 
+
+ 
+ 
+ 
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Deutsch (Übung fallweise Englisch) 
+
+Schuler, H. & Kanning, U. (Hrsg.) (2014), Lehrbuch der 
+Personalpsychologie (3. Auflage). Göttingen: Hogrefe. 
+
+62 
+
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MSE-54611 
+ Courses/lectures 
+
+Public economics 
+
+L: Public Economics (2 hours) 
+E: Public Economics (2 hours) 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Büttner, Dr. Boryana Madzharova and assistants 
+
+ Module coordinator 
+
+Prof. Büttner 
+
+4 
+
+5 
+
+ Contents  
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+The module provides an introduction in public economics at the 
+intermediate level. The module derives the basic theoretical 
+foundations for an optimal design of public policy. In the second 
+step, the module discusses specific aspects of public policy, such 
+as taxation and redistribution, social security, tax evasion, debt 
+finance, interjurisdictional competition and fiscal federalism. It 
+supplements theory by exploring practical problems. 
+Students know how to characterize efficient public policies using 
+microeconomic decision models. They can use this framework to 
+study public policy in a rigorous and consistent general equilibrium 
+context. Students are acquainted with important empirical 
+approaches to evaluate public policies quantitatively. Moreover, 
+they acquire knowledge about options, methods and limits to 
+implement efficient public policy 
+Basic microeconomics 
+
+2nd semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Wirtschaftsingenieurwesen: Wahlbereich 
+
+10 
+
+ Method of examination  Written examination (90 minutes) 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Grading procedure 
+
+Written examination (100 %) 
+
+ Module frequency 
+
+Summer semester 
+
+ Workload 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60 h 
+Independent Study: 90 h 
+1 Semester 
+
+English 
+
+Hindriks, J., and Myles, G., (2006), Intermediate Public 
+Economics, MIT Press, Cambridge 
+
+Atkinson, A.B., Stiglitz, J. E., (1980), Lectures on Public 
+Economics . MacGraw-Hill, New York 
+
+Lecture notes are provided at the beginning of the course. 
+
+63 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P-52520 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+5 ECTS 
+
+5 ECTS 
+
+Ringvorlesung Personalmanagement 
+(Lecture series in personnel management)  
+V: Ringvorlesung Personalmanagement (2 SWS) 
+(Anwesenheitspflicht) 
+Wechselnd; Aktuelle Informationen in UnivIS unter 
+univis.fau.de 
+>> Vorlesungsverzeichnis 
+>> Rechts- und Wirtschaftswissenschaftliche Fakultät 
+>> Fachbereich Wirtschafts- und Sozialwissenschaften 
+>> Master-Studiengänge 
+>> Master in Arbeitsmarkt und Personal 
+>> Wahlbereich 
+>> Ringvorlesung Personalmanagement 
+
+4 
+
+ Modulverantwortliche(r)  Prof. Klaus Moser stellvertretend für alle Dozierenden im 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Studiengang  
+Vorträge über aktuelle Themen aus dem Bereich Personal und 
+Diskussion 
+Die Studierenden lernen anhand von Praxisvorträgen und einem 
+ausgewählten Schwerpunktthema die Inhalte der 
+Grundvorlesungen exemplarisch anzuwenden, zu reflektieren und 
+aus verschiedenen fachlichen Perspektiven zu diskutieren.  
+Studierende setzen sich im Diskurs aktiv mit den Ansätzen der 
+Praxis auseinander und reflektieren diese vor dem Hintergrund 
+ihres theoretischen Wissens. Sie erproben zudem das 
+eigenständige Erschließen zusätzlicher Literatur. Sie lernen 
+Berufsfelder kennen und reflektieren das Ausmaß, in dem 
+Lehrinhalte die Praxis im Bereich „Personal“ widerspiegeln, 
+Innovationen ermöglichen oder (angewandte) Forschungsfragen 
+eröffnen. 
+Vorheriger Besuch der Module Personalmanagement und 
+Personalpsychologie 
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Wirtschaftsingenieurwesen: Wirtschaftswissenschaftlicher 
+Bereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+60-minütige Klausur 
+Diskussionsbeitrag 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Klausur 100 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Diskussionsbeitrag: bestanden 
+Jährlich im Wintersemester 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch oder Englisch 
+
+Wechselnde aktuelle Forschungsliteratur 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-55850 
+ Lehrveranstaltungen 
+
+Seminar zur Arbeitsmarktsoziologie 
+(Seminar in labor market sociology) 
+S: Seminar zur Arbeitsmarktsoziologie (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Abraham und Mitarbeitende 
+
+4 
+
+5 
+
+ Modulverantwortliche(r)  Prof. Abraham 
+
+ Inhalt 
+
+-  Vertiefung zentraler Theorien, Methoden und Themenfelder der 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Arbeitsmarktsoziologie 
+
+-  Eigenständige Erarbeitung von Themenfeldern, 
+
+Forschungsfragen und Forschungsdesigns 
+
+Die Studierenden 
+
+-  erwerben vertiefte Kenntnisse über Arbeitsmarktsoziologie, d.h. 
+den Zusammenhang gesellschaftlicher Rahmenbedingungen 
+und Prozesse des Arbeitsmarktes 
+
+-  erwerben Kompetenz, Forschungsfragen in diesem Bereich 
+anhand von Literatur und Daten eigenständig zu analysieren 
+-  erwerben vertiefte Kompetenz zur kritischen Beurteilung von 
+politischen Programmen und Maßnahmen im Bereich des 
+Arbeitsmarktes 
+
+Grundlegende Kenntnisse der Arbeitsmarktsoziologie  
+
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Economics: Wahlbereich 
+Master Marketing: Wahlpflichtbereich der Modulgruppe „Sonstiges“ 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Wahlbereich 
+S: Referat und Hausarbeit 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit (100 %), Referat: bestanden 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im Wintersemester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+Abraham, Martin, und Thomas Hinz (Hrsg.) (2018): 
+Arbeitsmarktsoziologie. 3. Aufl., Opladen: Westdeutscher Verlag. 
+
+65 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-52270 
+ Lehrveranstaltungen 
+
+Seminar zur Organisationspsychologie 
+(Seminar in organizational psychology) 
+S: Seminar zur Organisationspsychologie (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+ Modulverantwortliche/r   Prof. Klaus Moser 
+
+4 
+
+5 
+
+ Inhalt  
+
+-  Wechselnde Themen und Schwerpunkte 
+-  Auseinandersetzung mit theoretischen Grundlagen und 
+
+konkreten Instrumenten der Personalarbeit, der 
+Arbeitspsychologie und der Organisationsentwicklung aus 
+psychologischer (verhaltenswissenschaftlicher) Sicht 
+-  Kennen lernen und Bewerten aktueller Instrumente und 
+
+Verfahren 
+
+-  Kritische Betrachtung der wissenschaftliche Grundlagen und 
+praktischen Anwendbarkeit von Konzepten, Methoden und 
+Instrumenten anhand empirischer Befunde 
+
+Die Studierenden demonstrieren ihren souveränen Umgang mit 
+der einschlägigen Fachliteratur und organisationspsychologischen 
+Theorien und Methoden. Die Studierenden erwerben fundierte 
+Kenntnisse über Theorien und Methoden der Personalarbeit, der 
+Arbeitspsychologie und der Organisationsentwicklung. Sie können 
+die operativen Fragen und Methoden in das strategische 
+Management eines Unternehmens einordnen. Sie können die 
+bearbeiteten Theorien, Methoden und Verfahren kritisch 
+reflektieren, beurteilen und anwenden. Sie lernen, wie Methoden 
+und Instrumente entwickelt und rigoros evaluiert werden können. 
+Grundkenntnisse sozialwissenschaftlicher Erhebungsmethoden 
+und von Korrelations- und Regressionsrechnung bzw. Methoden 
+der Wirtschafts- und Organisationspsychologie, 
+Präsentationstechniken, Grundlagen des wissenschaftlichen 
+Arbeitens, Bereitschaft zur Lektüre umfangreicher (meistens 
+englischsprachiger) Materialien, Englischkenntnisse mindestens 
+auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master in Gesundheitsmanagement und Gesundheitsökonomie: 
+Freier Wahlbereich Gesundheit 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Präsentation, schriftliche Hausarbeit  
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+8 
+
+9 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit: 100% 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsentation: bestanden 
+Semesterweise  
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch 
+
+Schuler, H. & Moser, K. (Hrsg.) (2019). Lehrbuch 
+Organisationspsychologie (6. Auflage). Bern: Huber.  
+
+66 
+
+ 
+ 
+ 
+Schuler, H. & Kanning, U. P. (Hrsg.) (2014), Lehrbuch der 
+Personalpsychologie (3. Auflage). Göttingen: Hogrefe.  
+
+Ulich, E. (2011). Arbeitspsychologie. Stuttgart: Poeschel.  
+
+Hacker, W. (1998). Allgemeine Arbeitspsychologie. Bern: Huber. 
+
+Aktuelle Jahrgänge der Zeitschriften „Journal of Applied 
+Psychology“, „Journal of Occupational and Organizational 
+Psychology“ und „Zeitschrift für Arbeits- und 
+Organisationspsychologie“ 
+
+67 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-52300 
+ Lehrveranstaltungen 
+
+Theorieseminar zur Wirtschaftspsychologie 
+(Seminar in business psychology) 
+S: Theorieseminar zur Wirtschaftspsychologie (2 SWS)  5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+ Modulverantwortliche/r   Prof. Klaus Moser 
+
+4 
+
+5 
+
+ Inhalt  
+
+a.  Vertiefende Auseinandersetzung mit Themen der 
+Wirtschaftspsychologie (Personalpsychologie, 
+Organisationspsychologie, Konsumentenverhalten) 
+
+b.  Im Theorieseminar setzen sich die Studierenden gründlich und 
+
+auf der Basis anspruchsvoller i.d.R. englischsprachiger 
+Fachliteratur mit einem aktuellen Thema auseinander, stellen 
+dies mündlich vor und verfassen eine in Form und Niveau an 
+eine Fachpublikation angelehnte Hausarbeit 
+
+c.  Die Themen wechseln semesterweise. 
+Die Studierenden gehen souverän mit der einschlägigen deutsch- 
+wie englischsprachigen Fachliteratur sowie 
+wirtschaftspsychologischen Theorien und Methoden um. Sie 
+können wissenschaftliche Positionen erläutern, vertreten, 
+kritisieren und verteidigen. Sie besitzen detaillierte Fachkenntnisse 
+nach dem neuesten Kenntnisstand zu spezifischen 
+Fragestellungen in der Wirtschaftspsychologie und besitzen 
+fachliche und konzeptionelle Fertigkeiten zur Entwicklung und 
+Evaluation entsprechender Methoden und Instrumente. 
+Besuch vorbereitender Module aus den Bereichen 
+Personalpsychologie, Organisationspsychologie oder 
+Konsumentenverhalten. Grundkenntnisse sozialwissenschaftlicher 
+Erhebungsmethoden und von Korrelations- und 
+Regressionsrechnung bzw. Methoden der Wirtschafts- und 
+Organisationspsychologie, Präsentationstechniken, Grundlagen 
+des wissenschaftlichen Arbeitens, Bereitschaft zur Lektüre 
+umfangreicher und anspruchsvoller (meistens englischsprachiger) 
+Texte, Englischkenntnisse mindestens auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Präsentation, schriftliche Hausarbeit 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+8 
+
+9 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Hausarbeit 100%,  
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsentation: bestanden 
+Semesterweise 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch oder fallweise Englisch; 
+Wird mit den Studierenden abgestimmt 
+Wird bekannt gegeben 
+
+68 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-52310 
+ Lehrveranstaltungen 
+
+Wirtschaftspsychologie Projektseminar 
+(Project seminar in business psychology) 
+S: Projektseminar zur Wirtschaftspsychologie (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Klaus Moser und Mitarbeitende 
+
+ Modulverantwortliche(r)   Prof. Klaus Moser 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+ Empfohlene 
+Voraussetzungen zur 
+Teilnahme 
+
+a.  Vertiefende Auseinandersetzung mit Themen der 
+Wirtschaftspsychologie (Personalpsychologie, 
+Organisationspsychologie, Konsumentenverhalten)  
+b.  Auf der Basis vorgegebener Themen werden empirische 
+Studien allein oder in kleinen Gruppen durchgeführt.  
+
+c.  Die Themen wechseln semesterweise 
+Die Studierenden demonstrieren ihren souveränen Umgang mit 
+der einschlägigen Fachliteratur und wirtschaftspsychologischen 
+Theorien und Methoden. Sie können wissenschaftliche Positionen 
+erläutern, vertreten, kritisieren und verteidigen. Sie erwerben 
+fundierte Fachkenntnisse zu spezifischen Fragestellungen in der 
+Wirtschaftspsychologie und vertiefen ihre Kenntnisse darin, wie 
+Methoden und Instrumente entwickelt und evaluiert werden 
+können. 
+Besuch vorbereitender Module aus den Bereichen 
+Personalpsychologie, Organisationspsychologie oder 
+Konsumentenverhalten. Grundkenntnisse sozialwissenschaftlicher 
+Erhebungsmethoden und von Korrelations- und 
+Regressionsrechnung bzw. Methoden der Wirtschafts- und 
+Organisationspsychologie, Präsentationstechniken, Grundlagen 
+des wissenschaftlichen Arbeitens, Bereitschaft zur Lektüre 
+umfangreicher und anspruchsvoller (meistens englischsprachiger) 
+Texte, Englischkenntnisse mindestens auf Niveau UNICERT II. 
+3. Semester 
+
+Master Arbeitsmarkt und Personal: Vertiefungsbereich 
+Master Sozialökonomik: Sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Referat, schriftlicher Projektbericht 
+
+ Einpassung in 
+Musterstudienplan 
+ Verwendbarkeit des 
+Moduls 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Projektbericht 100 % 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Referat: bestanden 
+Jährlich 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch oder fallweise Englisch; 
+Wird mit den Studierenden abgestimmt 
+Wird bekannt gegeben 
+
+69

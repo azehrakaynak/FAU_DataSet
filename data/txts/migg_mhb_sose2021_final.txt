@@ -1,0 +1,5821 @@
+Masterstudiengang 
+Gesundheitsmanagement und 
+Gesundheitsökonomie (MiGG)
+Modulhandbuch – Sommersemester 2021
+
+M e h r  
+w i s s e n
+
+www.wiso.fau.de/migg 
+
+Bitte beachten Sie:  
+
+Veränderungen des Lehrangebots bedingt durch COVID-19 
+
+Nachdem ein Ende der Pandemie im Sommersemester noch nicht absehbar ist, steuert der 
+Fachbereich in der Organisation der Veranstaltungen nach. Hierfür wird das Konzept WiSo-Vir-
+tuell, welches als Antwort auf die Corona-Krise entwickelt wurde, in das Konzept WiSo-Virtuell-
+plus überführt. 
+
+Die Studierbarkeit aller Studiengänge ist durch die Digitalisierung aller Pflichtmodule gesichert. 
+Darüber  hinaus  können  ausgewählte  Lehrveranstaltungen  parallel  zu  digitalen  Inhalten  mit 
+Präsenzelementen angereichert sein, die auf freiwilliger Basis besucht werden können. Der 
+Wahlbereich wird neben digitalen Angeboten so strukturiert, dass Module in Teilen oder zur 
+Gänze in Präsenzlehre stattfinden.  
+
+Die Studierenden können je nach ihren Bedürfnissen und ihrer persönlichen Lebenssituation 
+entscheiden, ob sie digital studieren wollen oder aber an weiteren Angeboten des Präsenzler-
+nens teilnehmen wollen: „Digitales/virtuelles Studium PLUS freiwillige Präsenzveranstaltungen 
+für ausgewählte Lehrveranstaltungen“. Vorausgesetzt das Infektionsgeschehen im Laufe des 
+Semesters lässt dies zu. 
+
+Die FAU hat eine Corona-Satzung aufgrund von Einschränkungen im Lehr- und Prüfungsbe-
+trieb durch das Corona-Virus SARS-CoV-2 veröffentlicht. Das Modulhandbuch in der vorlie-
+genden Fassung enthält Corona-bedingte Änderungen an der Prüfungsform, die in den jewei-
+ligen Modulbeschreibungen gekennzeichnet sind.    
+
+Folgende Szenarien sind auf der Grundlage der Corona-Satzung möglich: 
+
+  Prüfungsformate unverändert 
+
+Das ursprünglich vorgesehene Prüfungsformat, z. B. eine Klausur bleibt bestehen. In 
+diesen Modulbeschreibungen wurde keine Änderung vorgenommen. 
+
+  Einmaliger Wechsel der Prüfungsform im Wintersemester 
+
+Der Wechsel der Prüfungsformate ist möglich, wenn die ursprünglich geplante Prü-
+fungsform auf Grund des Corona-Virus nicht umsetzbar ist. Diese Änderungen finden 
+Sie in den Modulbeschreibungen angeführt. Die ursprüngliche Prüfungsform wird bei 
+dieser Variante durchgestrichen, die neue Prüfungsform ist in oranger Schriftfarbe 
+angegeben.  
+
+  Alternative  Prüfungsformen  verankern  und  später  darüber  entscheiden 
+Die Satzung sieht eine weitere Option vor. Es können zwei Alternativen festgelegt wer-
+den. Die Entscheidung für die eine oder die andere Alternative trifft der Modulverant-
+wortliche und ist den Studierenden spätestens vier Wochen vor der Prüfung bekannt 
+zu geben. Hier bleibt die ursprüngliche Prüfungsform zunächst bestehen, darunter fin-
+den Sie die alternative Prüfungsform eingefügt, ebenfalls in oranger Schriftfarbe. Vier 
+Wochen vor der Prüfung wird die finale Prüfungsform durch den Modulverantwortlichen 
+bekannt gegeben.  
+
+ 
+ 
+ 
+ 
+ 
+Im Informationssystem UnivIS finden Sie unter www.univis.fau.de für alle Veranstaltungen An-
+gaben, in welchem Format (Online, Präsenz oder hybrid Online/Präsenz) die Lehrveranstal-
+tungen abgehalten werden sowie Detailinformationen zum jeweiligen Online-Format bzw. In-
+formationen zu Zeit und Ort.  
+
+Ausführlichere Informationen zu den  Modulen finden Sie auch in den jeweiligen Kursen auf 
+StudOn. Treten Sie daher unbedingt den Kursen bei, die Sie dieses Semester besuchen möch-
+ten. 
+
+Weitere aktuelle Informationen entnehmen Sie bitte den Webseiten der Lehrstühle sowie In-
+formationen zum digitalen Semester an der WiSo auch unter www.wiso-virtuell.fau.de  
+
+2 
+
+ 
+ 
+ 
+Alle Angaben sind ohne Gewähr. 
+
+Im Zweifelsfall gilt die Master-Prüfungsordnung. 
+
+Wenden Sie sich bei Fragen bitte direkt an den zuständigen 
+Modulverantwortlichen. 
+
+Stand: 01. April 2021 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inhalt 
+
+Pflichtbereich 
+Kostenträger I ......................................................................................................................... 7 
+Ambulantes Management I ..................................................................................................... 8 
+Krankenhausmanagement I.................................................................................................. 10 
+Pharmamanagement I .......................................................................................................... 11 
+Gesundheitsökonomie I ........................................................................................................ 13 
+Medizin ................................................................................................................................. 15 
+Gesundheitsökonomische Evaluationen I ............................................................................. 16 
+
+Wahlbereich 
+
+Ökonomie und Methoden 
+Gesundheitsökonomische Evaluationen II ............................................................................ 46 
+The supply of medical services ............................................................................................. 23 
+Spezielle Kommunikationswissenschaft I ............................................................................. 35 
+Spezielle Kommunikationswissenschaft II ............................................................................ 37 
+Spezielle Kommunikationswissenschaft III ........................................................................... 39 
+Spezielle Kommunikationswissenschaft IV ........................................................................... 41 
+Ökonomie der Sozialpolitik ................................................................................................... 24 
+Angewandte empirische Gesundheitsökonomie ................................................................... 55 
+Methoden wissenschaftlichen Arbeitens ............................................................................... 30 
+Soft Skills im Gesundheitswesen .......................................................................................... 54 
+Medizinische Entscheidungsfindung für Ökonomen ............................................................. 57 
+Ökonometrie ......................................................................................................................... 60 
+
+Industrie 
+Pharmamanagement II ......................................................................................................... 21 
+Medizinprodukte und E-Health ............................................................................................. 51 
+Medical technology management ......................................................................................... 52 
+Innovationsmanagement im Gesundheitswesen ................................................................... 26 
+
+Stationäre Versorgung 
+Krankenhausmanagement II................................................................................................. 45 
+Planspiel: Krankenhausmanagement ................................................................................... 59 
+Ökonomie der Notfallversorgung und der Pandemie ............................................................ 33 
+
+Querschnittsthemen 
+Optimierungs- und Simulationsverfahren .............................................................................. 22 
+Versorgungsmanagement I .................................................................................................. 47 
+Versorgungsmanagement II ................................................................................................. 49 
+Praxisseminar ...................................................................................................................... 53 
+Management in Gesundheitseinrichtungen ........................................................................... 43 
+Freies Wahlmodul Gesundheit I und II .................................................................................. 62 
+Gesundheitssysteme von Schwellen- und Entwicklungsländern ........................................... 31 
+Seminar Pflegemanagement ................................................................................................ 28 
+
+Ambulante Versorgung 
+Ambulantes Management II .................................................................................................. 19 
+
+Kostenträger 
+Kostenträger II ...................................................................................................................... 17 
+
+Masterseminar zum Gesundheitsmanagement und der Gesundheitsökonomie ........... 63 
+Masterarbeit ........................................................................................................................ 65 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Studienverlaufsplan  
+
+ Leitfaden zur Stundenplangestaltung 
+
+Studierende können sich ihren Stundenplan im elektronischen Vorlesungsverzeichnis univis 
+selbst zusammenstellen. Hier sind alle Lehrveranstaltungen semesteraktuell nach bestimm-
+ten Themen oder einzelnen Lehrstühlen hinterlegt sowie die jeweiligen Dozierenden einseh-
+bar. Über den Pfad https://univis.fau.de/ >> Vorlesungsverzeichnis >> Rechts- und Wirt-
+schaftswissenschaftliche Fakultät (RW) >> Fachbereich Wirtschaftswissenschaften  
+kann zu den Lehrveranstaltungen am Fachbereich Wirtschaftswissenschaften gelangt wer-
+den. An dieser Stelle ist es nun möglich, gezielt nach Bachelor- oder Masterveranstaltungen 
+auszuwählen.  
+Eine Hilfe zur Erstellung des Stundenplans ist hier zu finden: www.wiso.fau.de/stundenplan 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hinweis zu Art und Umfang von Prüfungsleistungen 
+
+Die Art der am Fachbereich Wirtschaftswissenschaften gültigen Prüfungsleistungen ist defi-
+niert in §16 Prüfungsarten der Master-Rahmenprüfungsordnung (MPO). Darüber hinaus sind 
+Prüfungsumfänge in den §§17, 18 MPO geregelt. Die Prüfungsordnungen sind unter folgen-
+dem Link einzusehen:  
+http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/rw.shtml#Wirtschaft  
+
+Soweit die einzelnen Modulbeschreibungen nichts Genaueres definieren, sind für die Master-
+studiengänge am Fachbereich folgende Prüfungsformen mit den entsprechenden Prüfungs-
+umfängen gültig: 
+
+Prüfungsart 
+
+1.  schriftliche Prüfung: 
+
+a. 
+
+b. 
+
+c. 
+
+Klausur 
+
+Hausarbeit 
+
+Seminararbeit 
+
+2.  mündliche Prüfung 
+
+3.  Sonderformen, insbesondere: 
+
+Projektarbeit /-bericht 
+
+Praktikumsbericht 
+
+Thesenpapier 
+
+Protokoll 
+
+Kurztest 
+
+Referat 
+
+Umfang Master 
+
+60/90/120 Minuten 
+
+ca. 15 Seiten 
+
+ca. 15 Seiten  
+
+ca. 20 Minuten 
+
+ca. 30 Seiten 
+
+ca. 4 Seiten 
+
+ca. 2 Seiten  
+
+ca. 6 Seiten 
+
+ca. 15 Minuten 
+
+ca. 25 Minuten 
+
+Präsentation/Präsentationspapier 
+
+ca. 20 Minuten/ca. 20 Seiten 
+
+Diskussionspapier 
+
+Moderation 
+
+Lehrprobe 
+
+Fallstudie 
+
+Diskussionsbeitrag (ehemals: Diskussionsbe-
+teiligung/Mitarbeit)  
+Portfolioprüfung 
+
+Elektronische Prüfung 
+
+Antwort-Wahl-Verfahren 
+
+Versuchspersonenstunde 
+
+Reflexion 
+
+Strategiekonzept 
+
+ca. 10 Seiten 
+
+ca. 20 Minuten 
+
+ca. 45 Minuten  
+
+ca. 25 Minuten und/oder 10 Sei-
+ten 
+ca. 10 Minuten 
+
+k.A.  
+
+ca. 90 Minuten 
+
+ca. 30 Minuten 
+
+ca. 60 Minuten  
+
+ca. 10 Minuten oder 10 Seiten  
+
+ca. 6 Seiten 
+
+6 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+i. 
+
+j. 
+
+k. 
+
+l. 
+
+m. 
+
+n. 
+
+o. 
+
+p. 
+
+q. 
+
+r. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pflichtbereich 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53521 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+0BKostenträger I 
+(Health insurance I: Statutory health insurance) 
+S: Kostenträger I: Gesetzliche Krankenversicherung (3 
+SWS) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Diese Veranstaltung ist als Einstiegsveranstaltung in das MiGG-
+Studium konzipiert. Neben einem Überblick über das gesamte Stu-
+dienprogramm wird hier in erster Linie das Gesundheitssystem als 
+Ganzes sowie die Gesetzliche Krankenversicherung (GKV) mit 
+den Krankenkassen als Träger behandelt. Thematisiert werden 
+beispielsweise der Versichertenkreis der GKV, der Leistungsum-
+fang und die Finanzierung (Gesundheitsfonds, Morbi-RSA). 
+Die Studierenden 
+-  erwerben ein vertieftes Verständnis über das Zusammenspiel 
+der für das Gesundheitswesen zentralen Akteure auf der Kos-
+tenträger- und der Leistungserbringerseite, 
+
+-  werden in die Lage versetzt, dieses Zusammenspiel eingehend 
+
+zu analysieren, 
+
+-  antizipieren künftige Entwicklungen im Bereich der gesetzlichen 
+
+Krankenversicherungen. 
+
+Keine 
+
+1. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Wahlbereich  
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich  
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+•  Lampert, H. / Althammer, J.: Lehrbuch der Sozialpolitik, 9. 
+
+Aufl., Berlin u. a., 2014. 
+
+•  Busse, R., Schreyögg, J., Stargadt, T. (Hrsg.) Management im 
+
+Gesundheitswesen, 4. Aufl. Berlin Heidelberg, 2017 
+ Sozialgesetzbuch, insbesondere SGB V 
+
+• 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53551 
+ Lehrveranstaltungen 
+
+1BAmbulantes Management I 
+(Outpatient management I) 
+S: Ambulantes Management I (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+4 
+5 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+10 
+
+11 
+
+12 
+13 
+
+ Turnus des Angebots 
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Die Veranstaltung beschäftigt sich mit der ambulanten Versorgung 
+in Deutschland, wobei der Schwerpunkt auf der vertragsärztlichen 
+Versorgung liegt. Konkret geht es hierbei beispielsweise um die 
+beteiligten Akteure und deren Aufgaben, die verschiedenen Orga-
+nisationsformen sowie um Fragen der Finanzierung und Vergü-
+tung. Die Beschäftigung mit den aktuellen Herausforderungen so-
+wie den neuen Versorgungsformen (z. B. Besondere Versorgung, 
+hausarztzentrierte Versorgung, usw.) bildet einen weiteren The-
+menkomplex.  
+Die Studierenden  
+-  erhalten einen detaillierten Einblick in die verschiedenen Facet-
+ten der ambulanten und integrierten Versorgung und können 
+diese diskutieren und gegenüberstellen 
+
+-  können insbesondere die bestehenden Organisationsformen er-
+läutern sowie die Entstehung neuer Versorgungsformen erklä-
+ren und bewerten 
+
+-  verstehen die Finanzflüsse und die bestehenden Strukturen 
+
+bzw. Institutionen im ambulanten Bereich und können diese hin-
+terfragen 
+
+Keine 
+
+1. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+60 min. Klausur 
+
+Jährlich im WS 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+•  Busse, R., Schreyögg, J., Stargardt, T. (Hrsg.) Management 
+im Gesundheitswesen, 4. Aufl. Berlin Heidelberg, 2017 
+•  Weatherly, J.N., Seiler, R., Meyer-Lutterloh K., Schmid, E., 
+
+Lägel, R., Amelung, V.E.: Leuchtturmprojekte Integrierter Ver-
+sorgung und Medizinischer Versorgungszentren, Berlin, 2007. 
+
+•  Sozialgesetzbuch, insbesondere SGB V. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Amelung, V.E., Eble, S., Hildebrandt, H.: Innovatives Versor-
+
+gungsmanagement, Berlin, 2011. 
+
+9 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53541 
+ Lehrveranstaltungen 
+
+2BKrankenhausmanagement I 
+(Hospital management I) 
+S: Krankenhausmanagement I (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Gegenstand dieser Veranstaltung ist der stationäre Sektor im Ge-
+sundheitswesen. Krankenhäuser zu managen, ist angesichts ihrer 
+hohen Komplexität eine besondere Herausforderung. Es werden 
+Verfahren vermittelt, mit denen dies erfolgreich gelingen kann. Ne-
+ben geeigneten Managementtechniken werden maßgeschneiderte 
+Verfahren des mathematisch gestützten Operations Research be-
+handelt. 
+Die Studierenden 
+-  stellen den Krankenhaussektor als zentrales Element des Ge-
+
+sundheitswesens dar 
+
+-  ordnen die beteiligten Interessens- und Betroffenengruppen, 
+
+welche häufig gegenläufige Ziele haben, ein.  
+
+-  würdigen die Komplexität des Systems Krankenhaus auf Grund-
+lage von Fallstudien und Beispielen aus der realen Kranken-
+hauswelt  
+
+-  arbeiten eigene Lösungsvorschläge aus, stellen diese im Ple-
+
+num vor und erhalten konstruktives Feedback dazu 
+
+Keine 
+
+1. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53531 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+3BPharmamanagement I 
+(Pharma management I: Pharmaceutical industry) 
+S: Pharmamanagement I: Pharmazeutische Industrie 
+(3 SWS) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+In dieser Veranstaltung werden insbesondere die Akteure in der 
+Arzneimittelversorgung sowie die verschiedenen Wertschöpfungs-
+stufen der pharmazeutischen Industrie von den Arzneimittelher-
+stellern, über den Großhandel hin zu den Apotheken thematisiert. 
+Vertieft werden die Themenbereiche regulatorische Rahmenbedin-
+gungen, Geschäftsmodelle, strategische Fragestellungen sowie 
+Forschung- und Entwicklung und Zulassung von Arzneimitteln. 
+Die Studierenden 
+-  erschließen die Komplexität der pharmazeutischen Branche und 
+
+die Wechselwirkungen zwischen den Branchenakteuren 
+
+-  analysieren klinische Studien und deren Bedeutung für die Ver-
+
+marktung von Arzneimitteln 
+
+-  vertiefen ihre Kenntnisse anhand aktueller Fallbeispiele, für die 
+
+sie eigenständig Lösungen entwickeln 
+
+Keine 
+
+1. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %)  
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Eine Notenverbesserung von maximal einer Stufe (0,3 bzw. 0,4) 
+kann durch das Halten einer Präsentation in 
+Kleingruppen mit bis zu sechs Teilnehmern erlangt werden. 
+Die Prüfung ist nur bestanden, wenn auch die Klausur bestanden 
+ist. Die Präsentation wird nur in dem Semester gewertet, in dem 
+sie erstellt wurde. 
+Jährlich im WS 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+•  Schöffski, O. / Fricke, F. U. / Guminski, W. (Hrsg.): Pharmabe-
+
+triebslehre, 2. Aufl., Berlin u. a., 2008. 
+
+•  Fischer,D., Breitenbach, J. (Hrsg.): Die Pharmaindustrie, 4. 
+
+Aufl., Berlin u.a., 2017 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Busse, R., Schreyögg, J., Stargardt, T. (Hrsg.): Management 
+
+im Gesundheitswesen, 4. Aufl., Berlin u.a., 2017 
+
+12 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-56790 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+4BGesundheitsökonomie I 
+(Health Economics I) 
+V+UE: Die Ökonomie der Krankenversicherung (2+1 
+SWS) 
+Prof. Tauchmann und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche 
+
+Prof. Harald Tauchmann 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Die Veranstaltung betrachtet das Gesundheitswesen aus mikro-
+ökonomischer Perspektive. Den Schwerpunkt der Veranstaltung 
+bildet die Betrachtung von Krankenversicherungsmärkten und ihrer 
+spezifischen Unvollkommenheiten, und Probleme (adverse Selek-
+tion, Moral Hazard, Risikoselektion), die sich aus den besonderen 
+Eigenschaften des Gutes Gesundheit ergeben. Aus dieser Be-
+trachtung werden Anforderungen an die Gestaltung eines Gesund-
+heitssystems abgeleitet. Studierende sollten die Bereitschaft mit-
+bringen, sich vertieft mit mikroökonomischen Modellen zu beschäf-
+tigen. 
+Die Studierenden  
+-  erwerben fundiertes ökonomisches Wissen über das Gesund-
+
+heitswesen, insbesondere bzgl. Krankenversicherungsmärkten, 
+
+-  analysieren die Besonderheiten von Gesundheitsmärkten im 
+
+Rahmen theoretischer Modelle, 
+
+-  überprüfen deren Validität anhand empirischer Studien 
+Solide Kenntnisse der Mikroökonomie, 
+Grundkenntnisse in Ökonometrie 
+
+1. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlbereich (MiGG-56790, 
+56792) 
+Master Sozialökonomik: freier Vertiefungsbereich oder Pflichtbe-
+reich „Spezielle VWL“ (MiGG-56790, 56792) 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+(MiGG-56790) 
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich (MiGG-56790) 
+Master Management: Vertiefungsbereich (MiGG-56790) 
+Master Economics (für Studierende mit Studienbeginn ab WS 
+15/16): Elective compulsory subjects (MiGG-56790, 56792) 
+Master Economics (für Studierende mit Studienbeginn vor WS 
+15/16): Wahlbereich VWL 
+
+Das Modul kann nicht mit dem äquivalenten englischsprachigen 
+Modul „The Economics of Health Insurance“ kombiniert werden. 
+90 min. Klausur  
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  V&UE: Klausur (100%) 
+
+10 
+
+11 
+
+12 
+
+ Turnus des Angebots 
+
+jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Deutsch 
+
+•  Breyer, F., Zweifel, P. & Kifmann, M. (2013): Gesundheitsöko-
+
+nomik, 6. Aufl., Springer.  
+
+•  Sloan, F.A. & Hsieh, C.R. (2012): Health Economics, MIT 
+
+Press.  
+
+•  Folland, Sh., Goodman, A. & Stano, M. (2009): The Economics 
+
+of Health and Health Care, 6th int. ed., Prentice Hall. 
+
+14 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53561 
+ Lehrveranstaltungen 
+
+5BMedizin 
+(Medicine) 
+S: Medizin 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+PD Dr. med. Brem/ Dr. med. Pauser 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Medizinische Grundlagen für Wirtschaftsstudierende, insb. medizi-
+nische Terminologie, fachübergreifende interdisziplinäre Struktu-
+ren im Gesundheitswesen, Diagnostik (incl. Anamnese, Untersu-
+chungstechniken, ärztliche Arbeitstechniken, Arthroskopie, Medi-
+zintechnik), Therapien in der Medizin (insb. operative und konser-
+vative Therapien, im speziellen in der Orthopädie und Sportmedi-
+zin, Notfallmedizin), ärztliche Berufskunde. Außerdem Überblick 
+über volkswirtschaftlich und epidemiologisch wichtige Erkrankun-
+gen, Krankheitsbilder und Symptome, diagnostische und therapeu-
+tische Möglichkeiten mit praktischen Beispielen. 
+Die Studierenden 
+-  erlangen Kenntnisse über medizinische Grundlagen 
+-  erlangen ein interdisziplinäres Verständnis über die Bedarfe der 
+
+verschiedenen Berufsgruppen 
+
+-  erlangen Wissen zu Methoden medizinischer Forschung, ethi-
+
+schen und rechtlichen Aspekten sowie zur Berufskunde 
+
+Keine 
+
+1. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Wahlbereich  
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich  
+Master Economics: Wahlbereich  
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-54821 
+ Lehrveranstaltungen 
+
+6BGesundheitsökonomische Evaluationen I 
+(Health economic evaluations I) 
+S: Gesundheitsökonomische Evaluationen I 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Bei allen öffentlichen Großprojekten sind Kosten-Nutzen-Analysen 
+zwingend vorgeschrieben. Die Methodik wurde im Gesundheitswe-
+sen weiterentwickelt, wo auch „intangible“ Effekte (z.B. Lebens-
+qualität) berücksichtigt werden müssen. In der Veranstaltung wer-
+den die unterschiedlichen Studienformen, die Grundprinzipien, das 
+Design von gesundheitsökonomischen Studien und insbesondere 
+das QALY- und das Effizienzgrenzenkonzept behandelt. 
+Die Studierenden 
+-  ermessen den Unterschied zwischen Effektivität und Effizienz im 
+
+Gesundheitswesen 
+
+-  diskutieren verschiedene Möglichkeiten der Berechnung von 
+
+Kosten und Nutzen medizinischer Maßnahmen und setzen Kos-
+ten und Nutzen verschiedener medizinischer Maßnahmen zuei-
+nander in Beziehung 
+
+-  beurteilen aktuelle Diskussionen zu dieser Thematik  
+-  vergleichen die verschiedenen Grundformen und -prinzipien ge-
+sundheitsökonomischer Evaluationen sowie die damit verbunde-
+nen Konzepte  
+
+-  schätzen das QALY-Konzept im Hinblick auf seine Relevanz ein 
+-  skizzieren das Design einer gesundheitsökonomischen Studie 
+Keine 
+
+2. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich  
+Master Management: Pflichtbereich II (MIM-4820) 
+Master Economics: Elective compulsory subjects 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Schöffski / Graf von der Schulenburg (Hrsg.): Gesundheitsökono-
+mische Evaluationen, 3. oder 4. Aufl., Berlin u. a., 2007, 2008 oder 
+2012. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wahlbereich Sommersemester 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52770 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+7BKostenträger II 
+(Health insurance II: Private health insurance) 
+S: Kostenträger II: Private Krankenversicherung (3 
+SWS) 
+(Anwesenheitspflicht) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Neben der gesetzlichen Krankenversicherung (GKV) ist die private 
+Krankenversicherung (PKV) ein relevanter Spieler im Bereich des 
+Gesundheitswesens. Unterschiede beispielsweise in der Prämien-
+kalkulation aber auch bei der Vergütung der Leistungserbringer as-
+soziieren schnell mit dem Begriff „Zwei-Klassen-Medizin“. In die-
+sem Modul wird sowohl institutionell die Struktur des PKV-Systems 
+dargestellt als auch wichtige Prinzipien der PKV (z.B. zur Bei-
+tragskalkulation und zum vertraglichen Verhältnis zu den Versi-
+cherten) analysiert. 
+Die Studierenden 
+-  erwerben ein vertieftes Verständnis über das Verhältnis zwi-
+
+schen Versicherungsunternehmen (VU) und Versicherungsneh-
+mer (VN)  
+
+-  werden in die Lage versetzt, Probleme und Lösungen im Be-
+
+reich der PKV eingehend zu analysieren und mit Fachvertretern 
+und Mitstudierenden zu diskutieren 
+
+-  erlernen die Grundlagen der Prämienkalkulation 
+-  antizipieren künftige Entwicklungen im Bereich der PKV 
+Die Pflichtveranstaltung Kostenträger I sollte vor diesem Modul be-
+legt worden sein. Die Teilnehmerzahl ist begrenzt. Die Anmeldung 
+erfolgt per Mail an Katrin.Docter@fau.de, der Anmeldezeitraum 
+wird rechtzeitig bekannt gegeben. 
+2. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeit und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS  
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+•  Busse, R., Schreyögg, J., Stargadt, T. (Hrsg.) Management im 
+
+• 
+
+Gesundheitswesen, 4. Aufl. Berlin Heidelberg, 2017 
+ Koch, P., Privatversicherungsrecht, Beck-Texte im dtv, 24. 
+Auflage, Münster, 2017 
+
+18 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52810 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+8BAmbulantes Management II 
+(Outpatient management II) 
+S: Ambulantes Management II (3 SWS) 
+(Anwesenheitspflicht) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+5 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+ Inhalt 
+
+Im Mittelpunkt der Veranstaltung Ambulantes Management II ste-
+hen aktuelle Themenfelder der ambulanten und integrierten Ver-
+sorgung (z. B. neue Versorgungsformen, usw.), wobei der Schwer-
+punkt auf Problemfeldern bzw. aktuellen Versorgungsherausforde-
+rungen (z. B. Sicherstellung der Versorgung im ländlichen Bereich, 
+usw.) liegt. Ein weiterer Schwerpunkt der Veranstaltung behandelt 
+die Vermittlung relevanter methodischer Kenntnisse (Systemati-
+sche Literaturrecherche/Review, Metaanalyse, usw.). Die Veran-
+staltung ist als Mischung aus herkömmlichen (Frontalvortrag) und 
+neueren Lehrformen (z. B. Gruppenarbeit) konzipiert. Die Veran-
+staltung weist einen interaktiven Charakter auf, Themenstellungen 
+müssen selbstständig erarbeitet und die erzielten Ergebnisse prä-
+sentiert werden. Die vorgestellten Ergebnisse werden schließlich 
+mit den Mitstudierenden diskutiert und die Studierenden geben ih-
+ren Kommiliton(inn)en wertschätzendes Feedback  
+Die Studierenden 
+-  verstehen und reflektieren die vermittelten Inhalte  
+-  können mit den erlernten Methoden umgehen und diese selbst-
+
+ständig auf Fragestellungen anwenden bzw. übertragen 
+
+-  können Literatur zu einem vorgegebenen Thema selbstständig 
+
+erarbeiten und kritisch hinterfragen 
+
+-  können eine vorgegebene Themenstellung eigenständig bear-
+
+beiten und die Ergebnisse angemessen präsentieren 
+
+-  können von Studierenden vorgebrachte Ergebnisse angemes-
+
+sen bewerten und Feedback formulieren 
+
+Die Pflichtveranstaltung Ambulantes Management I sollte vor die-
+sem Modul belegt worden sein. Die Teilnehmerzahl ist begrenzt. 
+Die Anmeldung erfolgt per Mail an Katrin.Docter@fau.de, der An-
+meldezeitraum wird rechtzeitig bekannt gegeben. 
+2. Semester  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Management: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeit und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Präsentation (ca. 10 Minuten, tw. in Gruppenarbeit) und Seminar-
+arbeit (ca. 20 Seiten, tw. in Gruppenarbeit) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (30%) und Seminararbeit (70%) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS  
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Deutsch 
+
+Keine 
+
+20 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52780 
+ Lehrveranstaltungen 
+
+9BPharmamanagement II 
+(Pharma management II) 
+S: Pharmamanagement II: Arzneimittel (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Nachdem in Pharmamanagement I insbesondere die Akteure der 
+Branche betrachtet wurden, erfolgt in diesem Modul die Fokussie-
+rung auf die Produkte in diesem Bereich, die Arzneimittel. Es er-
+folgt eine Klassifizierung von Arzneimitteln anhand verschiedener 
+Kriterien und der Arzneimittelmarkt wird analysiert. Darüber hinaus 
+wird die Preisbildung auf dem Arzneimittelmarkt thematisiert und 
+es erfolgt eine ausführliche Analyse der Steuerungsinstrumente in 
+diesem Bereich. 
+Die Studierenden 
+-  erfahren den Arzneimittelbereich in seiner Komplexität 
+-  analysieren die Wirkungen von vorhandenen Steuerungsinstru-
+
+menten 
+
+-  antizipieren die Wirkungen von weiteren potenziellen Steue-
+
+rungsinstrumenten 
+
+-  vertiefen ihre Kenntnisse anhand aktueller Fallbeispiele, für die 
+
+sie eigenständig Lösungen entwickeln. 
+
+Die Pflichtveranstaltung Pharmamanagement I sollte vor diesem 
+Modul belegt worden sein. 
+
+2. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeit und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+•  Schöffski, O. / Fricke, F. U. / Guminski, W. (Hrsg.): Pharmabe-
+
+triebslehre, 2. Aufl., Berlin u. a., 2008. 
+
+•  Busse, R., Schreyögg, J., Stargadt, T. (Hrsg.) Management im 
+
+Gesundheitswesen, 4. Aufl. Berlin Heidelberg, 2017 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-55381 
+ Lehrveranstaltungen 
+
+10BOptimierungs- und Simulationsverfahren  
+(Optimization and simulation methods) 
+HS: Optimierungs- und Simulationsverfahren (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+2. Semester 
+
+Ein Mix aus Methodik und Fallstudien, überwiegend aus dem Ge-
+sundheitswesen, mit einem Schwerpunkt auf mathematischen Ver-
+fahren zur Lösungsfindung (beispielsweise Lineare Programmie-
+rung, Roll-Back-Analyse, Markov-Modelle, Netzplantechniken, 
+System-Dynamics und Simulation). 
+Die Studierenden: 
+-  machen sich mit komplexen Entscheidungssituationen aus der 
+
+- 
+
+Welt des Gesundheitsmanagements vertraut 
+lernen anhand von quantitativen, also mathematisch-datenge-
+stützten Verfahren Lösungswege kennen 
+-  wenden diese Lösungswege eigenständig an 
+-  gewinnen Kompetenz im Umgang mit der Anwendung adäqua-
+ter Methoden zum Komplexitätsmanagement im Gesundheits-
+wesen 
+
+Zielgruppe: an mathematisch angewandter Betriebswirtschaft inte-
+ressierte Studierende 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52153 
+ Lehrveranstaltungen 
+
+11BThe supply of medical services 
+(Gesundheitsökonomie II) 
+L & E: The supply of medical services (2+1 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Tauchmann and Assistants 
+
+4 
+
+5 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+ Contents 
+
+In this course the market for medical services and in particular the 
+supply of services from physicians and hospitals is analyzed. The 
+focus is on behavioral incentives and how they are shaped by the 
+characteristics of health as a special good as well as by institutional 
+settings. Topics to be covered are “supplier induced demand”, “qual-
+ity-quantity-relationship  in  hospitals”  and  “optimal  reimbursement 
+schemes”.  The  course  will  also  cover  individual  health  behavior. 
+Throughout the course microeconomic models will be used.  
+
+6 
+
+ Learning objectives and 
+skills 
+
+Students 
+-  understand the behavior of phsysicians from a microeconomic 
+
+7 
+
+8 
+
+9 
+
+ Recommended prere-
+quisites 
+ Integration in curricu-
+lum 
+Module compatibility 
+
+perspective 
+
+-  can evaluate governmental regulations in health care markets 
+-  can discuss reforms in the health care sector 
+Solid knowledge of microeconomics and econometrics 
+
+2. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Management: Vertiefungsbereich  
+Master Sozialökonomik: sozialökonomischer Vertiefungsbereich o-
+der freier Vertiefungsbereich  
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich  
+
+10 
+
+ Method of examination  Written examination (90 Min.) 
+
+11 
+
+ Grading procedure 
+
+Written examination (100%) 
+
+12 
+
+ Module frequency 
+
+Annually in the summer term 
+
+13 
+
+ Workload 
+
+Attendance: 45 h 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and examina-
+tion language 
+ (Recommended) rea-
+ding 
+
+Independent study: 105 h 
+1 Semester 
+
+English 
+
+•  Zweifel, P., Breyer, F., Kifmann, M. (2009): Health Economics, 
+
+Springer, 2. Aufl. 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+A&P- 53082 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+12BÖkonomie der Sozialpolitik 
+(Economics of social policy) 
+S: Ökonomie der Sozialpolitik 
+(Anwesenheitspflicht) 
+Prof. Wrede und Mitarbeiter/in 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Wrede 
+ Inhalt 
+
+4 
+5 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+Ausgewählte ökonomische Analysen der Sozialpolitik unter Ein-
+schluss ethischer und ökonomischer Grundlagen sowie institutio-
+neller Aspekte 
+−  Studierende kennen ausgewählte Bereiche der Sozialpolitik 
+
+und können diese beschreiben und international vergleichen. 
+−  Studierende können ethische und ökonomische Grundlagen 
+
+staatlicher Eingriffe in ausgewählten Bereichen sozialer Siche-
+rung darstellen, interpretieren und diskutieren. 
+
+−  Studierende können Wirkungen sozialpolitisch relevanter Grö-
+ßen theoretisch und empirisch verstehen, bewerten und hinter-
+fragen. 
+
+−  Studierende können sozialpolitische Maßnahmen unter Effizi-
+enz- und Gerechtigkeitsgesichtspunkten bewerten und hinter-
+fragen. 
+
+−  Studierende geben Ihren Kommilitonen im Rahmen ihrer Prä-
+
+sentationen strukturiertes Feedback. 
+
+−  Studierende fördern die Fachkenntnisse der anderen Studie-
+renden durch themenspezifische Diskussionsbeiträge. 
+
+−  Studierende erfassen, bewerten und diskutieren ausgewählte 
+aktuelle, meist englischsprachige Forschungsarbeiten in Ihrer 
+Seminararbeit. 
+
+Mikroökonomische und ökonometrische Kenntnisse  
+
+Ab dem 2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich  
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Economics: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: fachwissenschaft-
+licher Wahlbereich; Studienrichtung II: Wahlbereich im Zweitfach 
+Sozialkunde 
+Master Sozialökonomik:sozialökonomischer Vertiefungsbereich o-
+der freier Vertiefungsbereich 
+Modulprüfung bestehend aus Hausarbeit (15 S.), Präsentation (20 
+Min.), Diskussionsbeitrag (10 Min.) 
+
+Es handelt sich um eine zusammenhängende Prüfung, deren Teile 
+untrennbar verbunden sind und nicht einzeln wiederholt werden 
+können. Die Prüfung muss in einem Semester vollständig bestan-
+den werden (im Sinne von § 19 Abs. 1 Satz 4 MPOWiSo). Bei 
+Nichtbestehen eines einzelnen Teils ist die gesamte Prüfung zu 
+wiederholen (abweichend von § 25 Abs. 1 Satz 2 MPOWiSo). 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+ Verwendbarkeit des Mo-
+duls 
+
+10 
+
+ Studien- und Prüfungs-
+leistungen 
+
+11 
+
+ Berechnung Modulnote 
+
+ Hausarbeit 60%, Präsentation 30%, Diskussionsbeitrag 10% 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Jährlich im SS, Anmeldung Ende der Vorlesungszeit des vorheri-
+gen Semesters 
+Präsenzzeit: 45 h 
+Selbststudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+25 
+
+ 
+ 
+ 
+ 
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52800 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+13BInnovationsmanagement im Gesundheitswesen 
+(Innovation management in health care) 
+S: Innovationsmanagement im Gesundheitswesen 
+(Anwesenheitspflicht) 
+Prof. Schöffski / Falk Dukatz 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Das Thema Innovationsmanagement wird in der Veranstaltung un-
+ter den Rahmenbedingungen des Gesundheitswesens beleuchtet. 
+Die komplexen Strukturen des Gesundheitswesens und der einge-
+schränkte Wettbewerb erfordern eine Anpassung der vorhandenen 
+Konzepte zum Innovationsmanagement. Es werden Instrumente 
+vermittelt, die bei der Ideengenerierung, Strategieformulierung und 
+Bewertung der Innovationen im Kontext des Gesundheitswesens 
+und den damit verbundenen Bereichen wie Pharmaindustrie oder 
+Medizintechnik unterstützen. 
+Die Verzahnung von Theorie und Praxis sowie die damit verbun-
+dene Anwendung von Methoden zur Ausgestaltung von Innovati-
+onsstrategien stehen im Vordergrund.  
+Die Studierenden  
+- 
+
+kennen Grundlagen und Begrifflichkeiten des Innovationsma-
+nagements und verstehen und reflektieren die vermittelten In-
+halte im Kontext des Gesundheitswesens 
+können Ziele und Methoden des Innovationsmanagements 
+verschiedener Stakeholder im Gesundheitswesen formulieren  
+sind in Lage das Innovationsportfolio und –management eines 
+Stakeholders im Gesundheitswesen zu bewerten und zu priori-
+sieren 
+
+- 
+
+- 
+
+-  haben einen Überblick über Marktdynamiken und die jeweili-
+gen Phasen der Produktentwicklung in der Pharmaindustrie 
+und Medizintechnik sowie geeigneter Managementtechniken 
+zur proaktiven Phasensteuerung 
+verstehen die Bedeutung der Organisationskultur für Innovatio-
+nen und können diese entsprechend gestalten 
+können aktuelle Dynamiken und gesetzgeberische Initiativen 
+im deutschen Gesundheitswesen im Kontext des Innovations-
+managements interpretieren 
+
+- 
+
+- 
+
+-  Diskutieren und präsentieren komplexe fachbezogene Fallstu-
+
+dien vor Fachvertretern und Mitstudierenden, 
+
+-  erstellen Präsentationen und geben bzw. erhalten anschlie-
+
+ßend angemessenes Feedback. 
+
+Keine. Die Teilnehmerzahl ist begrenzt. Die Anmeldung erfolgt per 
+Mail an Katrin.Docter@fau.de, der Anmeldezeitraum wird rechtzei-
+tig bekannt gegeben. 
+2. oder 3.Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+ Verwendbarkeit des Mo-
+duls 
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100%) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+26 
+
+ 
+ 
+ 
+ 
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+27 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MIGG-57351 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+14BSeminar Pflegemanagement 
+(Care Management Seminar)  
+S: Pflegesektor 
+(Anwesenheitspflicht) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Das Thema Altenpflege gewinnt in Deutschland an Bedeutung. 
+Aufgrund des demografischen Wandels, des medizinischen Fort-
+schritts, der höheren Lebenserwartung, aber auch der aktuellen 
+Gesetzesänderungen sind immer mehr Menschen auf Unterstüt-
+zung angewiesen. Dieses Seminar beschäftigt sich daher mit den 
+aktuellen Problemstellungen in diesem Kontext und zielt darauf ab, 
+einen tieferen Einblick in einige Themen des Pflegesektors zu er-
+möglichen. Zu Beginn der Veranstaltung erfolgt eine Einführung in 
+das Themengebiet Pflege. Anschließend werden beispielhaft ei-
+nige aktuelle Themen aus der Praxis ausführlich behandelt und 
+gemeinsam diskutiert. Die Seminarteilnehmer(innen) entscheiden 
+im Laufe der Veranstaltung anhand der erhaltenen Informationen 
+selbständig, welches Thema sie als Vertiefung in einer Hausarbeit 
+behandeln möchten, und erfahren zusätzlich wie sie dabei wissen-
+schaftlich vorgehen können. Anschließend arbeiten die Seminar-
+teilnehmer(innen) selbständig und nehmen in regelmäßigen Ab-
+ständen individuelle unterstützende Betreuungstermine wahr. Die 
+in der Hausarbeit erarbeiteten Ergebnisse werden zum Ende der 
+Veranstaltung den beteiligten Kommiliton(inn)en vorgestellt. 
+Die Studierenden: 
+
+-  verstehen die vermittelten Inhalte 
+-  nehmen an der gemeinsamen Diskussion teil 
+-  erarbeiten selbständig ihr Thema 
+-  sind in der Lage, ihr methodisches Vorgehen und ihre Er-
+
+gebnisse in Form einer wissenschaftlichen Arbeit zu verfas-
+sen 
+
+-  sind in der Lage, ihre Arbeit angemessen zu präsentieren 
+Die Teilnehmerzahl ist begrenzt. Die Anmeldung erfolgt per Mail 
+an katrin.docter@fau.de, der Anmeldezeitraum wird rechtzeitig be-
+kannt gegeben. 
+Ab 2. Semester  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Vertiefungsbereich 
+Master Economics: Wahlbereich 
+Hausarbeit (ca. 20 Seiten) und Präsentation (ca. 15 Minuten) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Hausarbeit (70 %), Präsentation (30 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+29 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-55362 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+15BMethoden wissenschaftlichen Arbeitens 
+(Methods of scientific research) 
+HS: Methods of scientific research for healthcare man-
+agement (Anwesenheitspflicht) 
+Prof. Dr. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Hartmann 
+
+4 
+
+5 
+
+ Inhalt 
+
+Im Seminar werden die Studierenden mit dem Thema wissen-
+schaftliche Methoden im Gesundheitsmanagement umfassend ver-
+traut gemacht. Im SoSe 2021 werden eingangs theoretische 
+Grundlagen zu quantitativen Methoden und Datenanalyse behan-
+delt. Anschließend erarbeiten die Studierenden ein Grundverständ-
+nis gängiger Statistiksoftware anhand von Fallstudien, indem sie 
+die zuvor erlernten Grundlagen praktisch anwenden. Im dritten Teil 
+des Seminars wenden die Studierenden ihre neu erworbenen 
+Kompetenzen in Kleingruppen eigenständig auf ein Problem an 
+und erstellen hierüber eine Hausarbeit. Die Ergebnisse werden am 
+Ende des Semesters im Plenum präsentiert. 
+Die Studierenden 
+-  Können die Anwendungsbereiche verschiedener quantitativer 
+
+Methoden unterscheiden. 
+
+-  Können verschiedene Methoden der Datenanalyse selbststän-
+
+dig und richtig anwenden. 
+
+-  Können wissenschaftliche Probleme mithilfe von Datenanalyse 
+
+lösen. 
+
+-  Können verschiedene Arten der Datenvisualisierung anwen-
+
+den. 
+
+-  Können ihre Ergebnisse schriftlich und mündlich präsentieren. 
+
+Zielgruppe: an quantitativ orientierter BWL und Beratung interes-
+sierte Studierende mit Schwerpunkt Gesundheitsmanagement. Die 
+Teilnehmerzahl ist begrenzt. Die Anmeldung erfolgt per Mail an 
+Katrin.Docter@fau.de, der Anmeldezeitraum wird rechtzeitig be-
+kannt gegeben. 
+2. Semester.  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Pflichtbereich II (MIM-55363) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Hausarbeit (70%) und Präsentation (30%) 
+Jährlich im SS 
+ Turnus des Angebots 
+
+Hausarbeit (ca. 20 Seiten) und Präsentation (ca. 15 Minuten) 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch und Englisch 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+MiGG-56850 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+16BGesundheitssysteme von Schwellen- und Entwick-
+lungsländern 
+(health systems of developing and emerging countries)  
+S: Gesundheitssysteme von Schwellen- und Entwick-
+lungsländern (Anwesenheitspflicht) 
+Marina Bühler (Siemens Healthineers) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Gesundheitssysteme als Teilaspekt von Gesell- und Volkswirt-
+schaften entwickeln sich häufig parallel zu diesen. Insofern werden 
+in schnell wachsenden, aufstrebenden Märkten (emerging mar-
+kets) tradierte Entwicklungsstufen übersprungen (leapfrogging). 
+Dies verlangt von Marktakteuren eine Anpassung der Marktein-
+tritts- und Geschäftsstrategien, die sich in entwickelten und gefes-
+tigten Märkten bewährt haben. 
+Folgende Fragestellungen werden unter anderem betrachtet: 
+
+•  Wie funktionieren und entwickeln sich Gesundheitssysteme 
+
+(in Schwellen- und Entwicklungsländern)? 
+
+•  Wer sind und wie interagieren die relevanten Stakeholder 
+(Sektoren, Entscheidungsmechanismen, Finanzierung, 
+Transparenz, Marktanforderungen) im Vergleich zu entwi-
+ckelten Gesundheitsmärkten? 
+
+•  Welche Herausforderungen ergeben sich für die Marktbe-
+arbeitung (Geschäftsmodell) von Medizintechnikunterneh-
+men in Schwellen- und Entwicklungsländern? 
+
+Die Studierenden 
+-  erlangen ein Verständnis über die grundsätzlichen Mechanis-
+men und Spezifika von Gesundheitssystemen in Schwellen- 
+und Entwicklungsländern 
+
+-  erhalten die Möglichkeit, theoretische Grundlagen in praxis-
+
+nahe Lösungsansätze zu transferieren  
+
+-  erarbeiten sich ein Grundverständnis über strategische As-
+
+pekte der Marktbearbeitung von Medizintechnikunternehmen 
+-  erhalten die Möglichkeit des direkten Austausches mit einem 
+
+der führenden Medizintechnikunternehmen (Siemens Healthin-
+eers) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Keine. Die Teilnehmerzahl ist begrenzt. Die Anmeldung erfolgt per 
+Mail an Katrin.Docter@fau.de, der Anmeldezeitraum wird rechtzei-
+tig bekannt gegeben. 
+2. oder 4. Semester 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Verwendbarkeit des Mo-
+Wahlbereich 
+duls 
+Präsentation (ca. 30 Minuten, tw. in Gruppenarbeit) + Manage-
+ Studien- und Prüfungs-
+ment summary (ca. 2 Seiten, tw. in Gruppenarbeit) 
+leistungen 
+ Berechnung Modulnote  Präsentation (60%), Management summary (40%) 
+
+12 
+
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Jährlich im SS, dieses Modul kann im Sommersemester 2021 aus-
+nahmsweise einmalig nicht angeboten werden. 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch und Englisch 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+keine 
+
+32 
+
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+MiGG-56853 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+17BÖkonomie der Notfallversorgung und der Pande-
+mie 
+(Economics of emergency care and pandemia)  
+S: Ökonomie der Notfallversorgung 
+(Anwesenheitspflicht) 
+Dr. Thomas Fleischmann  
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+In diesem Modulwerden die Notfallversorgung und die Pandemie 
+unter ökonomischen Gesichtspunkten analysiert.  
+In der Notfallversorgung werden alle Bereiche, Rettungsdienste, 
+Ärztlicher Bereitschaftsdienst und Notaufnahme betrachtet. Der 
+Schwerpunkt liegt auf dem größten Bereich, den Notaufnahmen. 
+Die politisch gewollte Neuordnung der Notfallversorgung wird hin-
+sichtlich ihrer ökonomischen Gründe und Auswirkungen unter-
+sucht. Die Folgen einer Neuordnung der Notfallversorgung für die 
+Ökonomie der Krankenhäuser und für die Krankenhauslandschaft 
+in Deutschland werden analysiert. Zudem wird die Ökonomie der 
+Digitalisierung betrachtet. 
+Angesicht der hochaktuellen Entwicklungen wird die Ökonomie der 
+Corona-Pandemie mit ihren breiten Auswirkungen auf das Ge-
+sundheitssystem z.B. ambulanter Sektor, Krankenhäuser, Reha-
+Einrichtungen, Altenpflege, untersucht. Die gravierenden Auswir-
+kungen der Pandemie auf die ökonomische Lage der Krankenhäu-
+ser und die Versuche der Politik darauf zu reagieren, werden ana-
+lysiert. Betrachtet wird zudem das Thema Ökonomie der Corona-
+Impfung, u.a. Impfstoffbeschaffung, Organisation und Kosten der 
+Impfung, Impfethik und Auswirkungen auf die pharmazeutische In-
+dustrie. 
+Die Studierenden 
+
+-  erhalten eingehende Erkenntnisse der Ökonomie der Not-
+
+- 
+
+- 
+
+fallversorgung 
+lernen die unterschiedlichen Kosten- und Erlös-Strukturen 
+der Beteiligten der Notfallversorgung kennen 
+verstehen die ökonomischen Wechselwirkungen zwischen 
+den Bereichen Rettungsdienst, Ärztlicher Bereitschafts-
+dienst, Notaufnahmen und Krankenhäuser 
+
+-  erkennen die differenten wirtschaftlichen Ziele und Denk-
+
+- 
+
+weisen der Beteiligten 
+verstehen die Ziele und Folgen der Neuordnung der Not-
+fallversorgung, u.a. auf die Krankenhauslandschaft 
+
+-  erkennen die ökonomischen Auswirkungen der Pandemie 
+auf das Gesundheitswesen, besonders die Krankenhäuser 
+
+-  betrachten die Maßnahmen der Politik zu den ökonomi-
+
+- 
+
+schen Folgen der Pandemie auf das Gesundheitsweisen 
+verstehen die Ökonomie und Ethik der Impfungen 
+Die Pflichtveranstaltung Krankenhausmanagement I sollte vor die-
+sem Modul belegt worden sein. Die Anmeldung erfolgt per Mail an 
+Katrin.Docter@fau.de, der Anmeldezeitraum wird rechtzeitig be-
+kannt gegeben. 
+2. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+
+33 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (100%) 
+
+Präsentation (tw. in Gruppenarbeit, ca. 20-30 Minuten pro Person) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+34 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-58020 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+18BSpezielle Kommunikationswissenschaft I 
+(Advanced communication research I) 
+S: Seminar zur speziellen 
+Kommunikationswissenschaft I (2 SWS) 
+(Anwesenheitspflicht) 
+Prof. Zeh 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche/r  Prof. Holtz-Bacha 
+
+ Inhalt 
+
+Massenmediale Kommunikationsprozesse und Mediensysteme:  
+
+•  Rezeptionsforschung 
+•  Wirkungsforschung 
+•  Medieninhalts-/Kommunikatorforschung 
+•  Medienpolitik 
+•  Medienökonomie 
+•  Medieninhaltsforschung 
+•  Medien und Öffentlichkeit 
+•  Produktion massenmedialer Inhalte 
+
+Die Studierenden 
+
+-  erwerben vertieftes Wissen in einem kommunikationswis-
+
+senschaftlichen Forschungsfeld oder fundierte Kenntnisse 
+über Mediensystem, Medienpolitik, Medienökonomie und 
+Medienrecht 
+können selbstständig die relevanten theoretischen Ansätze 
+bereichsspezifisch und –übergreifend sowohl mit Mitstudie-
+renden bzw. Fachvertretern als auch Laien diskutieren. 
+können die Relevanz von Forschungsergebnissen für Ge-
+sellschaft, Organisationen und Individuen einschätzen und 
+auf andere Situationen übertragen. 
+
+- 
+
+- 
+
+-  Entwickeln die Fähigkeit, aktuelle medienpolitische Prob-
+
+leme zu analysieren und zu lösen. 
+
+-  Können international vergleichende Forschungsdesigns 
+
+- 
+
+entwerfen und anwenden. 
+können die diskutierten Ansätze und Theorien auf Szena-
+rien aus der Berufswelt übertragen und selbstständig Hypo-
+thesen hierzu formulieren und geeignete Hypothesentests 
+entwickeln. 
+
+-  erwerben durch die Auseinandersetzung mit dem Thema 
+
+Problemlösungs-, Kommunikations- und Medienkompeten-
+zen, die Bedeutung für unterschiedliche Berufsfelder im 
+Bereich Kommunikation und Medien besitzen. 
+
+Keine. Die Anmeldung erfolgt über StudOn. 
+
+2. Semester 
+
+-  - Master Sozialökonomik: sozialökonomischer Vertiefungsbe-
+
+reich oder freier Vertiefungsbereich 
+
+-  - Master Marketing: Wahlpflichtbereich der Modulgruppe „Ma-
+
+nagement“ 
+
+-  Master Gesundheitsmanagement und Gesundheitsökonomie: 
+
+Wahlbereich 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+ Studien- und Prüfungs-
+leistungen 
+
+Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+
+ Berechnung Modulnote  Präsentation (50%), Hausarbeit (50%) 
+
+12 
+
+ Turnus des Angebots 
+
+Jedes Semester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch 
+
+36 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-58021 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+19BSpezielle Kommunikationswissenschaft II 
+(Advanced communication research I) 
+S: Seminar zur speziellen 
+Kommunikationswissenschaft I (2 SWS) 
+(Anwesenheitspflicht) 
+Prof. Zeh 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche/r  Prof. Holtz-Bacha 
+
+ Inhalt 
+
+Massenmediale Kommunikationsprozesse und Mediensysteme:  
+
+•  Rezeptionsforschung 
+•  Wirkungsforschung 
+•  Medieninhalts-/Kommunikatorforschung 
+•  Medienpolitik 
+•  Medienökonomie 
+•  Medieninhaltsforschung 
+•  Medien und Öffentlichkeit 
+•  Produktion massenmedialer Inhalte 
+
+Die Studierenden 
+
+-  erwerben vertieftes Wissen in einem kommunikationswis-
+
+senschaftlichen Forschungsfeld oder fundierte Kenntnisse 
+über Mediensystem, Medienpolitik, Medienökonomie und 
+Medienrecht 
+können selbstständig die relevanten theoretischen Ansätze 
+diskutieren. 
+können die Relevanz von Forschungsergebnissen für Ge-
+sellschaft, Organisationen und Individuen einschätzen und 
+auf andere Situationen übertragen. 
+
+- 
+
+- 
+
+-  Entwickeln die Fähigkeit, aktuelle medienpolitische Prob-
+
+- 
+
+- 
+
+leme zu analysieren und zu lösen. 
+können international vergleichende Forschungsdesigns 
+entwerfen. anwenden und vor Fachpublikum präsentieren. 
+können die diskutierten Ansätze und Theorien auf Szena-
+rien aus der Berufswelt übertragen und selbstständig Hypo-
+thesen hierzu formulieren und geeignete Hypothesentests 
+entwickeln. 
+
+-  erwerben durch die gemeinsame und intensive Auseinan-
+dersetzung im Plenum mit dem Thema Problemlösungs-, 
+Kommunikations- und Medienkompetenzen, die Bedeutung 
+für unterschiedliche Berufsfelder im Bereich Kommunika-
+tion und Medien besitzen. 
+
+Keine. Die Anmeldung erfolgt über StudOn 
+
+2. oder 3. Semester 
+
+-  Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+
+oder freier Vertiefungsbereich 
+
+-  Master Gesundheitsmanagement und Gesundheitsökonomie: 
+
+Wahlbereich 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (50%), Hausarbeit (50%) 
+
+Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+ Turnus des Angebots 
+
+Jedes Semester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch 
+
+38 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-52370 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+20BSpezielle Kommunikationswissenschaft III 
+(Advanced communication research III) 
+S: Seminar zur speziellen 
+Kommunikationswissenschaft III (2 SWS) 
+(Anwesenheitspflicht) 
+Prof. Zeh 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche/r  Prof. Holtz-Bacha 
+
+ Inhalt 
+
+Massenmediale Kommunikationsprozesse und Mediensysteme:  
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+•  Kommunikationsprozesse 
+•  Rezeption- und Wirkungsforschung  
+•  Medieninhaltsforschung 
+•  Mediensysteme und -ökonomie 
+•  Medien und Öffentlichkeit 
+
+Die Studierenden 
+
+-  erwerben vertieftes Wissen in einem kommunikationswis-
+
+senschaftlichen Forschungsfeld oder fundierte Kenntnisse 
+über Mediensystem, Medienpolitik, Medienökonomie und 
+Medienrecht 
+können selbstständig die relevanten theoretischen Ansätze 
+auf den aktuellen Stand der Forschung und Anwendung im 
+kommunikationswissenschaftlichen Bereich mit Mitstudie-
+renden bzw. Fachvertretern und Laien diskutieren, eigene 
+Schlussfolgerungen ziehen und diese vermitteln und fun-
+diert begründen. 
+können die Relevanz von Forschungsergebnissen für Ge-
+sellschaft, Organisationen und Individuen einschätzen und 
+auf andere Situationen übertragen. 
+
+- 
+
+- 
+
+-  Entwickeln die Fähigkeit, aktuelle medienpolitische Prob-
+
+leme zu analysieren und zu lösen. 
+
+-  Können international vergleichende Forschungsdesigns 
+
+- 
+
+entwerfen, anwenden und vor Fachpublikum präsentieren. 
+können die diskutierten Ansätze und Theorien auf Szena-
+rien aus der Berufswelt übertragen und selbstständig Hypo-
+thesen hierzu formulieren und geeignete Hypothesentests 
+entwickeln. 
+
+-  erwerben durch die Auseinandersetzung mit dem Thema 
+
+Problemlösungs-, Kommunikations- und Medienkompeten-
+zen, die Bedeutung für unterschiedliche Berufsfelder im 
+Bereich Kommunikation und Medien besitzen. 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Keine. Die Anmeldung erfolgt über StudOn. 
+
+Ab dem 2. bis 4. Semester 
+
+-  Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+
+oder freier Vertiefungsbereich 
+
+-  Master Gesundheitsmanagement und Gesundheitsökonomie: 
+
+Wahlbereich 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (50%), Hausarbeit (50%) 
+
+Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+ Turnus des Angebots 
+
+Jedes Semester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h  
+1 Semester 
+
+Deutsch 
+
+40 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+Sozök-52380 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+21BSpezielle Kommunikationswissenschaft IV 
+(Advanced communication research IV) 
+S: Seminar zur speziellen 
+Kommunikationswissenschaft IV (2 SWS) 
+(Anwesenheitspflicht) 
+Prof. Zeh 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+ Modulverantwortliche/r  Prof. Holtz-Bacha 
+
+ Inhalt 
+
+Massenmediale Kommunikationsprozesse und Mediensysteme:  
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+-  Kommunikator- und Medieninhaltsforschung 
+-  Medienpolitik 
+-  Rezeptionsforschung 
+- 
+-  Medienökonomie 
+
+ Produktion massenmedialer Inhalte 
+
+Die Studierenden 
+
+-  erwerben vertieftes Wissen in einem kommunikationswis-
+
+senschaftlichen Forschungsfeld oder fundierte Kenntnisse 
+über Mediensystem, Medienpolitik, Medienökonomie und 
+Medienrecht 
+können selbstständig die relevanten theoretischen Ansätze 
+auf den aktuellen Stand der Forschung und Anwendung im 
+kommunikationswissenschaftlichen Bereich mit Mitstudie-
+renden bzw. Fachvertretern und Laien diskutieren, eigene 
+Schlussfolgerungen ziehen und diese vermitteln und fun-
+diert begründen. 
+können die Relevanz von Forschungsergebnissen für Ge-
+sellschaft, Organisationen und Individuen einschätzen und 
+auf andere Situationen übertragen. 
+
+- 
+
+- 
+
+-  Entwickeln die Fähigkeit, aktuelle medienpolitische Prob-
+
+leme zu analysieren und zu lösen. 
+
+-  Können international vergleichende Forschungsdesigns 
+
+- 
+
+entwerfen und anwenden. 
+können die diskutierten Ansätze und Theorien auf Szena-
+rien aus der Berufswelt übertragen und selbstständig Hypo-
+thesen hierzu formulieren und geeignete Hypothesentests 
+entwickeln. 
+
+-  erwerben durch die Auseinandersetzung mit dem Thema 
+
+Problemlösungs-, Kommunikations- und Medienkompeten-
+zen, die Bedeutung für unterschiedliche Berufsfelder im 
+Bereich Kommunikation und Medien besitzen. 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Keine. Die Anmeldung erfolgt über StudOn. 
+
+Ab dem 2. bis 4. Semester 
+
+-  Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+
+oder freier Vertiefungsbereich 
+
+-  Master Gesundheitsmanagement und Gesundheitsökonomie: 
+
+Wahlbereich 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (50%), Hausarbeit (50%) 
+
+Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+ Turnus des Angebots 
+
+Jedes Semester 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+42 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MIM-52632 
+ Lehrveranstaltungen 
+
+22BManagement in Gesundheitseinrichtungen  
+(Management in healthcare institutions) 
+S: Management in Gesundheitseinrichtungen 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Esslinger 
+
+ Modulverantwortliche/r  Prof. Junge / Prof. Hungenberg 
+
+4 
+
+5 
+
+ Inhalt 
+
+Die Sicherstellung und das Management der Gesundheitsversor-
+gung in ländlichen Regionen birgt viele Herausforderungen. In die-
+ser Veranstaltung geht es um die Bearbeitung der konkreten The-
+menstellung der „Bedarfsermittlung für die Gründung eines 
+stationären Hospizs in einer ländlichen Region“, die gemein-
+sam mit der Praxis für die Praxis erarbeitet wird. 
+Inhalte:  
+
+•  Einarbeitung in die Themenfelder „ländlicher Raum“, „Palli-
+ativversorgung“, Hospizarbeit, Schnittstellenprobleme, palli-
+ative und hospizliche Versorgungslage im Allgemeinen 
+•  Konkrete Erfassung der Bevölkerungsstruktur und -ent-
+
+wicklung in der Projektregion und daraus ableitbare pallia-
+tive und hospizliche Versorgungsbedarfe 
+
+•  u.U. Identifikation vergleichbarer Region(en) in Deutsch-
+land und deren entsprechende palliative und hospizliche 
+Versorgungsstruktur 
+Überblick über die bestehende Versorgungsstruktur in der 
+Projektregion  Identifikation der konkreten Lücken im am-
+bulanten und stationären palliativen und hospizlichen Ver-
+sorgungsangebot 
+
+•  Überlegungen für eine Befragung relevanter Akteure in der 
+Region (z.B. stationäre Struktur (relevant?), ambulante 
+Struktur (Hausarzt, Pflege, SAPV), mögliche relevante The-
+menblöcke/Leitfragen 
+
+Je nach Teilnehmer*innenzahl besteht die Möglichkeit, qualitativ 
+ins Feld zu gehen. 
+Die Studierenden erfassen und erörtern in Kleingruppen aktuelle 
+Themen im Management von Gesundheitseinrichtungen und be-
+antworten spezielle Fragen zu diesen Herausforderungen. Sie prä-
+sentieren ihre Lösungen im Plenum und diskutieren sie kritisch mit 
+anderen Studierenden.  
+Keine Beschränkung der Teilnehmerzahl.  
+Anmeldung per E-Mail an Prof. Dr. habil. Adelheid Susanne Esslin-
+ger (susanne.esslinger@hs-fulda.de)  
+2. Semester 
+
+Master Management: Vertiefungsbereich 
+Master in Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Arbeitsmarkt und Personal: freier Wahlbereich 
+Präsentation (ca. 45 Minuten) und Hausarbeit (ca. 25 Seiten) (Das 
+Thema der Hausarbeit soll eng an die Fragestellung angelehnt 
+sein – eigene Ideen können aber ggf. berücksichtigt werden) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+ Studien- und Prüfungs-
+leistungen 
+
+11 
+
+12 
+
+ Berechnung Modulnote  Präsentation (30%) und Hausarbeit (70%) 
+Jährlich im SS 
+ Turnus des Angebots 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h  
+1 Semester 
+
+ Deutsch und Englisch 
+
+BGM (2021): Angebote für Sterbenskranke; https://www.bundes-
+gesundheitsministerium.de/palliativversorgung.html. 
+
+Lorenz S (2019): Lage der Palliativversorgung im deutschsprachi-
+gen Raum, in: Deutsche Zeitschrift für Akupunktur 62 (180-182); 
+https://link.springer.com/article/10.1007/s42212-019-0187-
+3?shared-article-renderer. 
+
+Schneider W, Stadelbacher S (2020): Palliative Care und Hospiz; 
+Handbuch Gesundheitssoziologie, 481-509; https://link.sprin-
+ger.com/chapter/10.1007/978-3-658-06392-4_28. 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Wahlbereich Wintersemester 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52840 
+ Lehrveranstaltungen 
+
+23BKrankenhausmanagement II 
+(Hospital management II) 
+S: Krankenhausmanagement II (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Vertiefung und Intensivierung der Erkenntnisse aus Krankenhaus-
+management I, insbesondere hinsichtlich der Herausforderungen 
+und Möglichkeiten für ein erfolgreiches Management von Kranken-
+häusern. Auch die Gebiete Finanzierung und Vergütung, Unter-
+stützung der Entscheidungsfindung durch Verfahren des mathe-
+matisch gestützten Operations Research sowie Kooperationen und 
+Spezialisierungen im Krankenhaussektor werden vertieft behan-
+delt. 
+Die Studierenden 
+-  analysieren und strukturieren das komplexe Wirkungsgeflecht 
+
+von Krankenhäusern 
+
+-  entwickeln für praxisorientierte Fallstudien eigene Lösungsvor-
+
+schläge und erhalten ein konstruktives Feedback dazu 
+
+-  erschließen sich vertiefte Kenntnisse für die Möglichkeiten und 
+Grenzen der Anwendbarkeit von Managementtechniken im 
+Krankenhausbereich 
+
+Da Krankenhausmanagement II inhaltlich auf Krankenhausma-
+nagement I aufbaut, muss das Modul Krankenhausmanagement I 
+vorher belegt worden sein. 
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52850 
+ Lehrveranstaltungen 
+
+24BGesundheitsökonomische Evaluationen II 
+(Health economic evaluations II) 
+S: Gesundheitsökonomische Evaluationen II (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Die Thematik wird in dieser Veranstaltung aufbauend auf der 
+Grundlagenveranstaltung im 1. Semester weiter vertieft. Insbeson-
+dere werden hier die Methoden der Lebensqualitätsmessung be-
+handelt und kritisch diskutiert. Weiterhin werden Modellierungen in 
+Form von Entscheidungsbäumen und Markov-Modellen theore-
+tisch und praktisch durchgeführt. Fallbeispiele runden diese Veran-
+staltung ab. 
+Die Studierenden 
+-  verstehen die Problematik und die Relevanz der Messung von 
+
+Lebensqualitätseffekten 
+
+-  können entsprechende Lebensqualitätsmessungen eigenständig 
+
+durchführen 
+
+-  sind in der Lage verschiedene Modellierungsansätze beurteilen 
+
+zu können 
+
+-  können einfache Modellierungen selbst konzipieren, durchfüh-
+
+ren und die Ergebnisse interpretieren. 
+
+Die Pflichtveranstaltung Gesundheitsökonomische Evaluationen I 
+sollte vor diesem Modul belegt worden sein. 
+
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Management: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+10 
+
+11 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Schöffski / Graf von der Schulenburg (Hrsg.): Gesundheitsökono-
+mische Evaluationen, 3. oder 4. Aufl., Berlin u. a., 2007, 2008 oder 
+2012. 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-56231 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+25BVersorgungsmanagement I 
+(Health services management I) 
+S: Vertiefung Versorgungsmanagement 
+(Anwesenheitspflicht) 
+PD Dr. Emmert 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+5 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+ Inhalt 
+
+Patient reported outcomes measures (PROMs) werden zuneh-
+mend in der medizinischen Versorgung betrachtet, wenn es um die 
+Messung der Versorgungsqualität von medizinischen Therapien 
+bzw. Leistungserbringern geht. Hierbei wird der Behandlungserfolg 
+aus der Patientenperspektive betrachtet, zumeist durch einen Ver-
+gleich der Situation vor und nach der Behandlung. Allerdings ist 
+der Einsatz im deutschen Gesundheitswesen noch relativ jung, an-
+dere Länder sind hier deutlich weiter fortgeschritten. Im Seminar 
+werden unterschiedliche Fragestellungen zum Einsatz der PROMs 
+in medizinischen Leistungsbereichen (Onkologie, Orthopädie etc.) 
+betrachtet. 
+Die Studierenden 
+
+-  Erlangen Kenntnisse über Patient reported outcomes mea-
+
+sures als relativ neues Feld zur Qualitätsmessung.  
+
+-  Erlangen ebenfalls vertiefte Kenntnisse zu den Auswirkun-
+gen des Einsatzes von ROMs auf die Versorgungsqualität 
+und der Patientenperspektive.  
+
+-  Erlernen die Grundlagen zur Erstellung eines systemati-
+
+schen Literaturreviews. 
+
+Grundkenntnisse im Gesundheitsmanagement (aber keine formale 
+Voraussetzung). Die Teilnehmerzahl ist begrenzt. Die Anmeldung 
+erfolgt per mail an Katrin.Docter@fau.de, der Anmeldezeitraum 
+wird rechtzeitig bekannt gegeben. 
+1. oder 3. Semester  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Wahlbereich 
+Master in Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Arbeit und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Hausarbeit (ca. 20 Seiten) und Präsentation (ca. 15 Minuten) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+  Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+ Studien- und Prüfungs-
+leistungen 
+
+11 
+
+ Berechnung Modulnote  Hausarbeit (70%) und Präsentation (30%) 
+
+12 
+13 
+
+ Turnus des Angebots 
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+Jährlich im WS 
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Deutsch und Englisch 
+
+•  Lützner (2017) Grundlagen patientenberichteter Ergebnisse 
+
+(Patient-reported Outcome – PRO). Orthopädie und Unfallchi-
+rurgie, 12:6 
+
+•  NHS Digital (2020) Patient Reported Outcome Measures 
+(PROMs). https://digital.nhs.uk/data-and-information/data-
+tools-and-services/data-services/patient-reported-outcome-
+measures-proms . 
+
+48 
+
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-53571 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+26BVersorgungsmanagement II 
+(Health services management II) 
+S: Vertiefung Versorgungsmanagement II 
+(Anwesenheitspflicht) 
+Prof. Schöffski, PD Dr. Emmert und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Die Versorgungslandschaft in der Onkologie in Deutschland steht 
+aktuell vor besonderen Herausforderungen. Ambulant niedergelas-
+sene Versorgungsstrukturen in der Onkologie wie sie in Deutsch-
+land vorherrschen sind europaweit einzigartig. Allerdings führen 
+unterschiedliche Trends wie Veränderung im ärztlichen Berufsbild 
+und steigende Fallzahlen zu einer Gefährdung der ambulant onko-
+logischen Versorgungslage. In diesem Seminar quantifizieren Sie 
+im ersten Schritt das mögliche zukünftige Versorgungsdefizit und 
+erarbeiten im zweiten Schritt verschiedene Lösungsmöglichkeiten 
+aus der Perspektive unterschiedlicher Stakeholder. Das Seminar 
+wird in Kooperation mit Novartis angeboten. 
+
+Die Studierenden: 
+
+-  Machen sich mit dem Themenkomplex der Onkologie und 
+
+Zentrenbildung vertraut  
+
+-  entwickeln selbst erarbeitete Ergebniskonzepte 
+- 
+
+stellen diese ebenso wie die erreichten Ergebnisse im Ple-
+num und vor Fachvertretern vor. 
+
+-  Erwerben besondere Kompetenzen im Hinblick auf die Vor-
+
+bereitung und Durchsetzung von Entscheidungen. 
+Keine. Die Teilnehmerzahl ist begrenzt. Die Anmeldung erfolgt per 
+Mail an Katrin.Docter@fau.de, der Anmeldeprozess wird rechtzei-
+tig bekannt gegeben. 
+1. oder 3. Semester.  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Sozialökonomik: sozialökonomischer Vertiefungsbereich o-
+der freier Vertiefungsbereich  
+Master Arbeit und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Hausarbeit (ca. 20 Seiten) und Präsentation (ca. 15 Minuten) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+10 
+
+ Studien- und Prüfungs-
+leistungen 
+
+11 
+
+ Berechnung Modulnote  Hausarbeit (70 %), Präsentation (30 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS.  
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch und Englisch 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+50 
+
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52832 
+ Lehrveranstaltungen 
+
+27BMedizinprodukte und E-Health 
+(Medical devices and e-health) 
+HS: Medizinprodukte und E-Health 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Der medizinisch-technische Fortschritt trägt zu einer Verbesserung 
+der Gesundheitsversorgung bei. Die Bandbreite der eingesetzten 
+Innovationen kann dabei von einfachen Erfindungen bis hin zu 
+technisch komplexen Gerätschaften sein. Für ausgewählte Tech-
+nologien sollen Anwendbarkeit, Nutzen oder ökonomischen As-
+pekte aus unterschiedlichen Perspektiven (u.a. Patient, Hersteller, 
+Kostenträger) betrachtet werden. Die Bereiche E-Health, Teleme-
+dizin und Medizinprodukte sind mittlerweile bedeutende Technolo-
+giefelder, die einen Einfluss auf die Versorgungsstrukturen im Ge-
+sundheitswesen haben. Ein Verständnis für die Technik als auch 
+für die Auswirkungen auf den Versorgungsprozess, gilt es daher 
+zu entwickeln. Studierende lernen anhand von Fallbeispielen, eine 
+Bewertung der Innovationen für strategische Entscheidungen vor-
+zunehmen.  
+Die Studierenden 
+-  lernen den Weg von der Idee zum Medizinprodukte kennen 
+-  analysieren die Auswirkungen von Gesundheitstechnologien auf 
+Versorgungsprozesse und bewerten die ökonomischen Aspekte 
+aus unterschiedlichen Perspektiven 
+
+-  vertiefen ihre Kenntnisse anhand aktueller Fallbeispiele, für die 
+
+sie eigenständig Lösungen entwickeln 
+
+Absolvierung des Pflichtprogramms des 1. Semesters 
+
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Präsentation (tw. in Gruppenarbeit, ca. 10 Minuten pro Person) 
+und Seminararbeit (tw. in Gruppenarbeit, ca. 10-15 Seiten pro Per-
+son) 
+
+Jährlich im WS. Diese Veranstaltung wird im WS 2020/2021 ein-
+malig nicht angeboten. 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+  Busse, R., Schreyögg, J., Stargadt, T. (Hrsg.) Management im 
+
+Gesundheitswesen, 4. Aufl. Berlin Heidelberg, 2017 
+
+  Schmitt-Rüth, S., Esslinger, A. S., Schöffski, O., Der Markt für 
+Medizintechnik, Schriften zur Gesundheitsökonomie 12, Burg-
+dorf, 2007. 
+
+51 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+ Studien- und Prüfungs-
+leistungen 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+ Berechnung Modulnote  Präsentation (30%) Seminararbeit (70%) 
+ Turnus des Angebots 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name 
+MiGG-52835 
+ Courses/lectures 
+
+3 
+
+ Lectureres 
+
+28BMedical technology management 
+(Medizintechnik Management)  
+S: Medical technology management 
+(Anwesenheitspflicht) 
+Daniela Balk, Dr. Arthur Dubowicz, René Holler, Ag-
+nes Mwagiru, Thomas Reuner, Stefanie Wicklein 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Schöffski  
+
+4 
+
+5 
+
+ Contents 
+
+In this course the market for medical services and solutions will be 
+analyzed from the perspective of a MedTech company. Given the 
+rapid transformation in healthcare and the increasing pressure to 
+deliver better outcomes at lower costs new kind of partnership 
+models are requested by providers. Providing a healthcare solution 
+that goes beyond medical equipment has become critical for 
+medtech providers to stay competitive while enabling healthcare 
+outcomes that really matter to society. These mega trends bear 
+implications for innovation cycles, business and market models, fi-
+nancing solutions, project management and procurement. Hence, 
+the course will provide insights into these healthcare megatrends 
+and on how medtech providers are adapting to anticipate and re-
+spond to these trends. Throughout the cause case studies and 
+other interactive formats will be used.  
+Students will understand the market situation from both the 
+healthcare provider and provider as well as medtech manufacturer 
+view. This course will deepen their knowledge on organizational 
+and supply chain driven organizations. 
+They will learn the micro economical perspective for solution offer-
+ings within a healthcare provider customer case.  
+The scientific development of the course contents and the interac-
+tive format will strengthen the skills to analyze, develop and evalu-
+ate cases between the different stakeholders. 
+None. Registration is by e-mail to katrin.docter@fau.de, the regis-
+tration period will be announced in due time. 
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended prere-
+quisites 
+ Integration in curricu-
+lum 
+Module compatibility 
+
+10 
+
+ Method of examination  Written examination (60 Min.) (partly with MC tasks) 
+
+11 
+
+ Grading procedure 
+
+Written examination (100%) 
+
+12 
+
+ Module frequency 
+
+Annually in the winter term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and examina-
+tion language 
+ (Recommended) rea-
+ding 
+
+Attendance: 45h 
+Independent study: 105h 
+1 Semester 
+
+English 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52820 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+29BPraxisseminar 
+(Practical seminar) 
+HS: Aktuelle Themen des Gesundheitsmanagements 
+(3 SWS) (Anwesenheitspflicht) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Aktuelle Themen des Gesundheitsmanagements, der Gesund-
+heitsökonomie sowie der Versorgungsforschung werden in Praxis-
+vorträgen vorgestellt. Experten aus der Ärzteschaft, dem Kranken-
+haussektor, der Pharmaindustrie, der Medizintechnikindustrie so-
+wie von Kostenträgern bringen aktuelle Themen und praxisnahe 
+Fallstudien als Gastvorträge in die Veranstaltung mit ein. Jedes 
+Thema wird anschließend mit den Studierenden bewertet und dis-
+kutiert. 
+Die Studierenden 
+-  erschließen sich selbst die Anwendung von Methoden aus Ge-
+
+sundheitsökonomie, -management sowie Versorgungsforschung 
+auf Problemstellungen aus der Praxis 
+
+-  tauschen sich mit Experten über Probleme und Lösungen aktu-
+
+eller Themenfelder des Gesundheitswesens aus 
+
+-  diskutieren praxisorientierte Fallstudien und aktuelle Themen mit 
+
+Experten 
+
+-  strukturieren und bewerten die komplexen Wechselwirkungen 
+
+zwischen Leistungserbringern, Kostenträgern und Patienten im 
+Gesundheitswesen 
+
+Kostenträger I, Ambulantes Management I, Krankenhausmanage-
+ment I, Pharmamanagement I und Gesundheitsökonomie I. 
+
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Wahlbereich 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+Jährlich im WS 
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+keine 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-55431 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+30BSoft Skills im Gesundheitswesen  
+(Soft skills in the healthcare system) 
+HS: Soft skills im Gesundheitswesen 
+(Anwesenheitspflicht) 
+Prof. Schöffski mit Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+Theoretische Grundlagen zu Präsentationstechniken und Verhand-
+lungsführung, praktische Übungen zu Intonation, Körperspannung, 
+Haltung, Stimmbildung, mehrere Präsentationen und Stegreifreden 
+inkl. Videofeedback und Einzelanalyse, Verhandlungssimulatio-
+nen, usw. 
+Die Studierenden 
+-  verstehen die Bedeutung von Feedback 
+-  erlernen die Grundregeln von Feedback, können Feedback äu-
+
+ßern und annehmen 
+
+-  lernen ihre rhetorischen Fähigkeiten einzuschätzen, identifizie-
+ren ihre eigenen Stärken und Schwächen und setzen sich kon-
+krete Ziele, an denen sie im Lauf der Veranstaltung arbeiten 
+-  setzen sich insbesondere mit den verschiedenen Mitteln der 
+
+nonverbalen Kommunikation auseinander  
+
+-  schulen ihre Teamfähigkeit in praktischen Übungen sowie im 
+
+Rahmen einer Gruppenarbeit 
+
+-  erarbeiten theoretische Grundlagen zu wichtigen Konzepten der 
+
+Verhandlungs-, Vortragstechnik etc. und stellen diese ihren 
+Kommilitonen- und Kommilitoninnen im Rahmen von Gruppen-
+präsentationen vor 
+
+Keine. Die Teilnehmeranzahl ist begrenzt. Die Anmeldung erfolgt 
+per Mail an katrin.docter@fau.de, der Anmeldezeitraum wird recht-
+zeitig bekannt gegeben. Der Bewerbungsprozess wird zentral von 
+Prof. Hartmann koordiniert. Die Auswahl der BewerberInnen er-
+folgt anhand der bisherigen Studienleistungen und Fachsemester.  
+https://www.scm.rw.fau.de/studium-lehre/lehrveranstaltungen/mas-
+ter/teamfaehigkeit-praesentations-und-verhandlungstechni-
+ken.shtml 
+3. Semester;  
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Pflichtbereich II (MIM-55430) 
+Präsentation (pro Gruppenmitglied je ca. 10 Minuten) 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (100%) 
+ Turnus des Angebots 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Jährlich im WS. Diese Veranstaltung wird im WS 2020/2021 ein-
+malig nicht angeboten. 
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch 
+
+Keine 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-52161 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+31BAngewandte empirische Gesundheitsökonomie 
+(Applied empirical health economics) 
+S: Projektseminar: Angewandte empirische Gesund-
+heitsökonomie (3 SWS) 
+Prof. Tauchmann und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Tauchmann 
+
+4 
+
+5 
+
+ Inhalt 
+
+Das Projektseminar soll an die angewandte empirische Forschung 
+im Bereich Gesundheitsökonomik heranführen. Hierfür stehen 
+zwei Optionen zur Wahl. Zum einen die Replikation und ggf. Er-
+weiterung einer empirischen gesundheitsökonomischen For-
+schungsarbeit, die von der BetreuerIn zugewiesen wird. Zum an-
+deren kann eigenständig eine empirische Arbeit durchgeführt wer-
+den, die sich an jeweils einem Kapitel des Lehrbuchs Jones, A. et 
+al. (2013): Applied Health Economics orientiert. Die einzelnen Ka-
+pitel des Buches behandeln jeweils eine Fragestellung der empiri-
+schen Gesundheitsökonomik, wie z.B. „Inequality in health“ wobei 
+im Vordergrund steht, wie Methoden der empirischen Wirtschafts-
+forschung und Ökonometrie (z.B. verallgemeinerte Lorenzkurven, 
+Probitregression für geordnete Kategorien, Intervallregression) für 
+die Auseinandersetzung mit der jeweiligen Fragestellung verwen-
+det und mit der Software Stata® praktisch angewendet werden 
+können. Die TeilnehmerInnen des Projektseminars arbeiten selb-
+ständig (aber mit Unterstützung) im PC-Pool an ihrem Thema. Op-
+tional wird im Vorfeld ein Stata® Crashkurs angeboten, mit dem 
+Stata-Kenntnisse erworben, aufgefrischt und vertieft werden kön-
+nen. Die TeilnehmerInnen schreiben eine Seminararbeit, in der sie 
+ihr Vorgehen und Ihre Ergebnisse dokumentieren, und stellen 
+diese in einem Blockseminar vor. 
+Die Studierenden  
+-  lernen für konkrete Fragestellungen der empirischen Gesund-
+heitsökonomik relevante Methoden kennen und anzuwenden, 
+bzw. vertiefen ihre in anderen Veranstaltungen erworbene Me-
+thodenkompetenz 
+
+-  erwerben die Kompetenz, eigenständig Forschungsfragen der 
+
+empirischen Gesundheitsökonomie zu bearbeiten  
+
+-  lernen empirische Forschungsergebnisse darzustellen und zu 
+
+diskutieren 
+
+-  solide Grundkenntnisse in Mikroökonometrie 
+-  Grundkenntnisse der ökonometrischen Software Stata® (zu Be-
+ginn der Veranstaltung wird optional ein Stata® Blockkurs ange-
+boten, der auch ohne Stata-Vorkenntnisse zur erfolgreichen 
+Teilnahme befähigen sollte) 
+
+-  Grundkenntnisse in Gesundheitsökonomik 
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Economics: Elective compulsory subjects (MiGG-52162) 
+
+55 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+11 
+12 
+13 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote 
+ Turnus des Angebots 
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsentation (ca. 20 Minuten) und Seminararbeit (ca. 15 Seiten) 
+
+ S: 35% Präsentation, 65% Seminararbeit 
+jährlich im WS 
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+Stata Blockkurs, Blockseminar (1 Semester) 
+
+Deutsch und Englisch 
+
+Jones A., Rice, N. Bago d’Uva, T. & Balia, S. (2013): Applied 
+Health Economics, 2nd ed., Routledge. 
+
+56 
+
+ 
+ 
+ 
+ 
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+1 
+
+ Modulbezeichnung 
+MiGG-52154 
+
+2 
+
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+32BMedizinische Entscheidungsfindung für Ökono-
+men  
+(Medical decision making for economists) 
+S: Medizinische Entscheidungsfindung für Ökonomen  
+(Anwesenheitspflicht) 
+Dr. Thomas Fleischmann  
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Da medizinische Entscheidungen weitreichende ökonomische Fol-
+gen haben können, werden in diesem Modul die verschiedenen 
+Wege der Entscheidungsfindung durch Ärzte betrachtet. Behandelt 
+werden Themen wie Einsatz und Grenzen von SOPs, Behand-
+lungspfaden, Leitlinien und Decision Instruments. System 1-Den-
+ken und System 2-Denken, Heuristiken, Bias und kognitive Verzer-
+rungen werden in ihrer Wirkung auf medizinische Entscheidungen 
+untersucht. Häufige Situationen, wie Entscheidungsfindung bei 
+Komplexität wie z.B. Multimorbidität, und Entscheidungen unter 
+Unsicherheit werden analysiert. Der Unterschied zwischen der 
+Entscheidungsfindung von Einzelnen und von Gruppen wird dar-
+gestellt. Zudem werden Faktoren wie Patientenwille, shared deci-
+sion making, end of life decisions und ethische Überlegungen auf 
+ihren Einfluss auf die medizinische Entscheidungsfindung unter-
+sucht. 
+Die Studierenden 
+
+-  erhalten eingehende Erkenntnisse über die verschiedenen 
+Wege und Instrumente zur Entscheidungsfindung in der 
+Medizin 
+lernen verschiedenen möglichen Denkweisen und Ent-
+scheidungswege von Ärzten in unterschiedlichen medizini-
+schen Situation kennen und verstehen 
+
+- 
+
+-  erkennen bewusste und weniger bewusste Einflussfaktoren 
+
+- 
+
+auf die Entscheidungen von Ärzten  
+verstehen Probleme und Herangehensweisen bei komple-
+xen Entscheidungen, z.B. bei Multimorbidität, und bei Ent-
+scheidungen unter Unsicherheit 
+
+-  betrachten die von Patienten ausgehende Einflussfaktoren 
+wie Willensäußerung, shared decision makung und end of 
+life decisions auf die medizinische Entscheidungsfindung 
+
+-  erkennen die Wirkung von unterschiedlichen ethischen 
+
+Überlegungen und Denkweisen auf medizinische Entschei-
+dungen 
+
+Die Pflichtveranstaltung Krankenhausmanagement I sollte vor die-
+sem Modul belegt worden sein. Die Anmeldung erfolgt per Mail an 
+Katrin.docer@fau.de, der Anmeldezeitraum wird rechtzeitig be-
+kannt gegeben. 
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Präsentation (tw. in Gruppenarbeit, 30-40 Minuten pro Person) 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation 100% 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-55501 
+ Lehrveranstaltungen 
+
+3 
+
+ Lehrende 
+
+33BPlanspiel: Krankenhausmanagement  
+(Business simulation: Hospital management) 
+HS: Entscheidungstraining Krankenhausmanagement 
+(3 SWS) (Anwesenheitspflicht) 
+Prof. Schöffski und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+ Inhalt 
+
+ Lernziele und Kompe-
+tenzen 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Ähnlich wie Piloten, die an einer Flugsimulatorschulung teilneh-
+men, trainieren Studierende in diesem Seminar Entscheidungen 
+an einem Kliniksimulator. Zudem wird eine Hausarbeit zu einem 
+aktuellen Krankenhausthema angefertigt. 
+Ziel ist es, eine virtuelle Klinik erfolgreich zu leiten. Die besondere 
+Komplexität des Systems Krankenhaus wird live erfahren. Jedes 
+Führungsteam aus zwei bis drei Studierenden erarbeitet eigene 
+Strategien zur Handhabung dieser Komplexität und setzt diese im 
+Laufe der Entscheidungsrunden um. Das Verständnis für die Sys-
+temzusammenhänge wächst dabei ebenso wie die Kompetenz im 
+Umgang mit Ungewissheit und Konkurrenz. Studierende entwi-
+ckeln normative Ziele für ihre Krankenhäuser und stellen diese 
+ebenso wie die erreichten Ergebnisse im Plenum und vor Fachver-
+tretern vor. Sie erwerben insbesondere Kompetenzen im Hinblick 
+auf die Vorbereitung und Durchsetzung von Teamentscheidungen 
+in umfangreichen, vernetzten Systemen. 
+Die Pflichtveranstaltung Krankenhausmanagement I muss vor die-
+sem Modul belegt worden sein. Die Teilnehmerzahl ist begrenzt. 
+Die Anmeldung erfolgt per Mail an katrin.docter@fau.de, der An-
+meldezeitraum wird rechtzeitig bekannt gegeben. 
+3. Semester; 
+
+ Studien- und Prüfungs-
+leistungen 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich 
+Master Management: Wahlbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Präsentationen und Diskussionsbeiträge (tw. in Gruppenarbeit) 
+gelten innerhalb des Seminars als (unbenotete) Studienleistungen. 
+Eine unbenotete, schriftliche Reflexion eines wissenschaftlichen 
+Textes dient der Vertiefung des Stoffes (Themenvergabe in einer 
+Vorbesprechung zu Semesterbeginn). Mit Hilfe einer abschließen-
+den Klausur (60 Minuten, tw. mit MC-Aufgaben) wird die Prüfungs-
+leistung ermittelt. 
+ Berechnung Modulnote  Klausur (100 %) 
+ Turnus des Angebots 
+
+Jährlich im WS. Diese Veranstaltung wird im WS 2020/2021 ein-
+malig nicht angeboten. 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+Modulbezeichnung 
+MSE-53043 
+ Lehrveranstaltungen 
+
+Ökonometrie 
+(Econometrics) 
+V/Ü: Ökonometrie (2 + 2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Riphahn mit Assistierenden 
+
+ Modulverantwortliche/r  Prof. Riphahn 
+
+1 
+
+2 
+
+Inhalt 
+
+3 
+
+ Lernziele und Kompe-
+tenzen 
+
+4 
+
+5 
+
+6 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Konzept der linearen Regression in Matrixnotation;  
+Inhaltliche und statistische Interpretation linearer Regressionsmo-
+delle; Heteroskedastie und Autokorrelation; Maximum Likelihood 
+Schätzung und Modelle für bivariate abhängige Variablen;  
+Praktische Umsetzung der Lerninhalte mit Hilfe der Statistiksoft-
+ware STATA 
+Die Studierenden erwerben umfassende und fundierte Kenntnisse 
+in linearen und nicht linearen Schätz- und Testverfahren und wen-
+den diese mit Hilfe der Statistiksoftware STATA an. Sie beurteilen 
+die Angemessenheit der Verfahren im praxisbezogenen Kontext 
+und erstellen eigene empirische Analysen im Rahmen einer freiwil-
+ligen Hausarbeit. 
+Grundkenntnisse Statistik und Ökonometrie im Umfang des ange-
+botenen Brückenkurses 
+
+1. Semester 
+
+-  Master Marketing für Studierende mit Studienbeginn ab 
+
+WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Statistik“ im Vertie-
+
+fungsbereich Marketing Management 
+
+-  Master Marketing (MARK-53042) für Studierende mit Studien-
+
+beginn vor WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Methoden“ im Vertie-
+
+fungsbereich Marketing Management 
+
+-  Master Sozialökonomik: Pflichtbereich 
+-  Master Arbeitsmarkt und Personal: Pflichtbereich 
+-  Master FACT: Vertiefungsbereich (Modulgruppe Interdiszipli-
+
+näre Module) 
+
+-  Master Management: Vertiefungsbereich  
+-  Master in Gesundheitsmanagement und Gesundheitsökonomie: 
+
+7 
+
+8 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  V & Ü:  
+
+V & Ü: Klausur (90 Min) 
+
+Wahlbereich 
+
+100 % Klausur (Bei Notenverbesserung ist eine freiwillige, vorle-
+sungsbegleitend erstellte Hausarbeit zu 20 % auf die Endnote an-
+rechenbar, in der auf Basis eines Datensatzes und mit Hilfe von 
+Stata eine empirische Fragestellung bearbeitet wird. Dabei kann 
+sich die Klausurnote um bis zu 0,7 Notenpunkte verbessern. Die 
+Prüfung ist nur bestanden, wenn auch die Klausur bestanden ist. 
+Die Hausarbeit wird nur in dem Semester gewertet, in dem sie er-
+stellt wurde.) 
+Jährlich im Wintersemester (geblockt in der ersten Semesterhälfte) 
+
+60 
+
+9 
+
+ Turnus des Angebots 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+ Arbeitsaufwand 
+
+11 
+
+ Dauer des Moduls 
+
+12 
+
+13 
+
+ Unterrichts- und Prü-
+fungssprache 
+(Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 60 h 
+Eigenstudium: 90 h 
+Erste Hälfte des Wintersemesters (geblockte Veranstaltung, pro 
+Woche 4 SWS Vorlesung und 4 SWS Übung) 
+Deutsch 
+
+Verbeek, Marno, 2012, A Guide to Modern Econometrics, 4. A., 
+Wiley. 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+Freies Wahlmodul Gesundheit I und II 
+
+Im Studiengang Gesundheitsmanagement und Gesundheitsökonomie (M.Sc.) können zwei 
+freie Wahlmodule Gesundheit à 5 ECTS aus dem gesamten Masterangebot der FAU ge-
+wählt werden. Voraussetzung ist, dass die Module einen Bezug zu Themen des Ge-
+sundheitswesens haben.  
+
+Über die Eignung eines vorgeschlagenen Kurses entscheidet der Studiengangskoordinator/ 
+die Studiengangskoordinatorin des Masters Gesundheitsmanagement und Gesundheitsöko-
+nomie. Die Einwilligung des Studiengangskoordinators/ der Studiengangskoordinatorin muss 
+vor Prüfungsanmeldung vorliegen. 
+
+Einen Überblick über alle wählbaren freien Vertiefungsmodule finden Sie auf der Lehrstuhl-
+homepage (www.gm.wiso.uni-erlangen.de  Lehre  Masterveranstaltungen MiGG-Master 
+Freies Wahlmodul Gesundheit I und II) 
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Modulbezeichnung 
+MiGG-55481 
+
+2 
+
+ Lehrveranstaltungen 
+
+34BMasterseminar zum Gesundheitsmanagement und 
+der Gesundheitsökonomie 
+(Master's seminar) 
+HS: Masterseminar (3 SWS) (Anwesenheitspflicht) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski, Prof. Tauchmann, Prof. Wrede 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+6 
+
+ Lernziele und Kompe-
+tenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+
+Diese Veranstaltung ist verpflichtend an dem Lehrstuhl zu absol-
+vieren an dem die Masterarbeit geschrieben wird. Den Studieren-
+den werden durch die Präsentation von sich in Bearbeitung befin-
+denden Abschlussarbeiten Methoden des wissenschaftlichen Ar-
+beitens vermittelt, die in der Masterarbeit Anwendung finden. Zu-
+dem stellen Sie ihr eigenes Thema vor und müssen hier Metho-
+den, Ergebnisse und Herausforderungen diskutieren. Daneben er-
+halten Sie hilfreiche Anregungen zum Projektmanagement und zur 
+Vorgehensweise bei praxisnahen Masterarbeiten. 
+Die Studierenden 
+-  erfahren, auf welche Art und Weise und mit Hilfe welcher Metho-
+
+den wissenschaftliche Arbeiten angefertigt werden 
+
+-  diskutieren und hinterfragen aktuelle Entwicklungen im Gesund-
+
+heitswesen 
+
+-  Stellen ihr eigenes Thema sowie die Vorgehensweise bei der Er-
+stellung der Masterarbeit vor und lernen so, fachbezogene Posi-
+tionen und Problemlösungen argumentativ zu verteidigen. 
+
+-  Lernen Feedback zu geben und ggf. Kritik angemessen zu for-
+
+mulieren 
+
+Voriger Besuch der Module des 1.-3. Semesters 
+
+3. oder 4. Semester (Semester der Masterarbeitserstellung) 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Masterphase  
+
+„Bitte beachten Sie, dass die Teilnahme am Masterseminar keinen 
+Anspruch auf die Betreuung einer Masterarbeit am Lehrstuhl für 
+Gesundheitsmanagement begründet. Da die Prüfungsleistung 
+(Präsentation) in Verbindung zur schriftlichen Ausarbeitung der 
+Masterarbeit steht, weisen wir Sie darauf hin, dass das Masterse-
+minar ohne eine (ggf. zeitlich verschobene) Masterarbeit nicht be-
+standen werden kann.“ 
+
+10 
+
+11 
+12 
+
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Präsentation (100%) 
+ Turnus des Angebots  WS und SS 
+
+Präsentation (ca. 20 Minuten) 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+ Unterrichts- und Prü-
+fungssprache 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+Deutsch und Englisch 
+
+63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+
+ (Vorbereitende) Litera-
+tur 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Modulbezeichnung-
+MiGG-1999 
+ Lehrveranstaltungen 
+
+35BMasterarbeit 
+(Master’s thesis)  
+Masterarbeit (0 SWS) 
+
+30 ECTS 
+
+30 ECTS 
+
+3 
+
+ Lehrende 
+
+PD Dr. Emmert, Prof. Schöffski, Prof. Tauchmann, 
+Prof. Wrede 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+ Inhalt 
+
+ Lernziele und Kompe-
+tenzen 
+
+Die Masterarbeit stellt eine freie wissenschaftliche Arbeit dar, die 
+sich mit Themen im Kontext des Gesundheitswesens und der Ge-
+sundheitswirtschaft beschäftigt.  
+Die Studierenden 
+-  strukturieren wissenschaftliche Fragestellungen  
+-  entwickeln Lösungsansätze zur Beantwortung der wissenschaftli-
+
+chen Fragestellungen und arbeiten diese aus 
+
+-  bewerten und diskutieren Optionen der Bearbeitung 
+Abgeschlossener Pflichtbereich 
+
+4. Semester 
+
+ Empfohlene Vorausset-
+zungen für die Teil-
+nahme 
+ Einpassung in Muster-
+studienplan 
+Verwendbarkeit des Mo-
+duls 
+ Studien- und Prüfungs-
+leistungen 
+ Berechnung Modulnote  Masterarbeit 100 % 
+ Turnus des Angebots  WS und SS 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Masterphase 
+Masterarbeit: Schriftliche Arbeit (ca. 80 Seiten) 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+12 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und Prü-
+fungssprache 
+ (Vorbereitende) Litera-
+tur 
+
+Präsenzzeit: 0 h 
+Eigenstudium: 900 h 
+1 Semester 
+
+Deutsch oder Englisch 
+
+65

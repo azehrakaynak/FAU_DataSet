@@ -1,0 +1,9142 @@
+Modulhandbuch im 
+Sommersemester 2020
+
+www.wiso.fau.de
+
+Study start: winter semester 2015/16 
+
+Please note:  
+Changes in the teaching offer due to Corona 
+
+FAU has published a statute regarding deviations from study regulations, examinations, 
+doctoral and habilitation study regulations due to the Corona virus SARS-CoV-2: 
+https://www.fau.de/files/2020/04/fau-corona-satzung_20200417.pdf 
+Based on this statute, the following scenarios are possible: 
+
+  Examination method unchanged 
+
+The method of examination remains as originally intended, e.g. an exam. In these cases, 
+module descriptions remain unchanged.  
+
+  Singular change of examination method in summer term 
+
+Changes in the method of examination are possible in case the originally planned method 
+of examination is not realizable due to the Corona virus. These changes are listed in the 
+module descriptions that are marked in orange color in the index. The original method of 
+examination is crossed out in these cases; the new method of examination is listed in 
+orange font color. 
+
+  Anchoring 
+
+and 
+
+deciding 
+
+methods 
+
+alternative 
+
+examination 
+
+later 
+The  statute  allows  for  another  option.  Two  alternative  methods  of  examination  can  be 
+determined. These changes are listed in the module descriptions that are also marked in 
+orange  color  in  the  index.  The  decision  for  one  method  will  be  made  by  the  module 
+responsible  and  must  be  communicated to the students  at  least four  weeks  prior to the 
+examination.  In  these  cases,  the  original  method  of  examination  remains  in  place,  the 
+alternative  method  is  stated  below,  in  orange  font  color.  Four  weeks  prior  to  the 
+examination,  the module  responsible  will  communicate the final  method of  examination. 
+Kindly note that you must register for the original method of examination in either case. A 
+potential change in examination methods can only be implemented after exam registration 
+on  MeinCampus.  In  this  case,  you  will  be  registered  for  the  alternative  method  of 
+examination automatically. 
+
+Remark regarding “digital examinations” 
+Kindly note that examinations may also take place in digital form, such as oral exams via 
+Zoom. If this is the case, the module responsible will make you aware of this method in due 
+course. 
+
+1 
+
+  
+ 
+ 
+ 
+ 
+ 
+Master‘s degree program
+Master in Economics
+Module handbook –– summer semester 2020
+
+Advanced 
+knowledge
+
+www.dmse.wiso.fau.de
+
+Study start: winter semester 2015/16 
+
+MODULE HANDBOOK 
+
+Master of Science in Economics 
+
+Study start: from winter semester 2015/16 
+
+12.05.2020 
+
+3 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Table of contents 
+
+Economics Study Plan ..............................................................................................6 
+
+Guideline for the form and extent of examinations ............................................... 7 
+
+Specialisations ......................................................................................................... 8 
+
+Compulsory Subjects ......................................................................... 11 
+Applied econometrics ...........................................................................................................11 
+Game theory ........................................................................................................................12 
+Macroeconomics: Business cycles .......................................................................................14 
+Macroeconomics: Economic growth .....................................................................................15 
+Mathematics for economists .................................................................................................17 
+Microeconomics ...................................................................................................................18 
+
+Elective compulsory subjects ............................................................ 19 
+
+Module group: Labor Economics .......................................................................... 19 
+Empirische Arbeitsmarktforschung .......................................................................................19 
+Labor and personnel economics ...........................................................................................20 
+Labor market policy ..............................................................................................................22 
+Literaturseminar zu aktuellen Fragen der Arbeitsmarktökonomie .........................................23 
+Panel- and evaluation methods ............................................................................................24 
+Mikroökonometrie und Machine Learning .............................................................................26 
+Personnel economics ...........................................................................................................28 
+Economics of Innovation ......................................................................................................61 
+
+Module group: Macroeconomics and Finance ..................................................... 29 
+Asset liability management (Versicherungen) .......................................................................29 
+Banking supervision: Bank rating, stress testing, financial stability .......................................31 
+Financial engineering and structured finance .......................................................................32 
+Finanz- und Bankmanagement .............................................................................................33 
+International finance .............................................................................................................34 
+Lebensversicherung .............................................................................................................37 
+Multivariate time series analysis ...........................................................................................39 
+Versicherungs- und Risikotheorie .........................................................................................41 
+International trade and labor .................................................................................................42 
+Bayesian Econometrics ........................................................................................................43 
+European topics in economics ..............................................................................................45 
+Public Budget Management .................................................................................................46 
+
+Module group: Public Economics ......................................................................... 47 
+Public economics .................................................................................................................47 
+Behavioral economics ..........................................................................................................48 
+Economic internship .............................................................................................................49 
+Ökonomie der Sozialpolitik ...................................................................................................50 
+Seminar behavioral economics 1 ..........................................................................................52 
+Seminar behavioral economics 2 ..........................................................................................54 
+
+4 
+
+  
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Seminar public economics 1 .................................................................................................55 
+Seminar public economics 2 .................................................................................................56 
+Spatial economics ................................................................................................................57 
+Taxation and labor supply ....................................................................................................58 
+Development economics ......................................................................................................59 
+
+Module group: Energy Markets ............................................................................. 62 
+Advanced industrial organization ..........................................................................................62 
+Linear optimization ...............................................................................................................63 
+Combinatorial optimization ...................................................................................................64 
+Methods and applications of mathematical optimization .......................................................65 
+Quantitative methods in energy market modelling ................................................................66 
+Seminar energy markets ......................................................................................................68 
+Mathematical optimization for communications & signal processing .....................................70 
+Seminar Optimierung in Energiemärkten ..............................................................................71 
+
+Module group: Health Economics ......................................................................... 72 
+Applied empirical health economics......................................................................................72 
+The economics of health insurance ......................................................................................74 
+The supply of medical services .............................................................................................76 
+Gesundheitsökonomische Evaluationen I .............................................................................78 
+Gesundheitsökonomische Evaluationen II ............................................................................79 
+
+Free elective modules ......................................................................... 80 
+
+Master’s thesis .................................................................................... 84 
+
+5 
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+Study start: winter semester 2015/16 
+
+Economics Study Plan (study start from winter 
+semester 2015/16) 
+
+Distribution of workload per 
+semester 
+3 
+2 
+
+1 
+
+4 
+
+1st semester: compulsory subjects – 6 compulsory modules 
+
+Type  ECTS  ECTS  ECTS  ECTS  ECTS 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+Mathematics for Economists 
+
+Microeconomics 
+
+Game Theory 
+
+Macroeconomics: Business Cycles 
+
+Macroeconomics: Economic Growth 
+
+Applied Econometrics  
+
+L 
+
+L 
+
+L 
+
+L 
+
+L 
+
+L 
+
+2nd and 3rd semester: elective subjects – choice of 10 
+economic elective modules + 2 free elective modules   
+
+Elective compulsory subjects: 10 modules worth 
+5 ECTS credits each, including at least one 
+economics seminar (5 ECTS) 
+
+-  Module group: Labor Economics 
+
+-  Module group: Macroeconomics and Finance 
+
+-  Module group: Public Economics 
+
+-  Module group: Energy Markets 
+
+-  Module group: Health Economics 
+
+Free elective modules: 2 modules worth 5 ECTS 
+credits each 
+
+4th semester: Master’s thesis 
+
+Master’s thesis 
+
+Master’s thesis seminar  
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+50 
+
+10 
+
+25 
+
+5 
+
+25 
+
+25 
+
+5 
+
+5 
+
+ECTS credits  120 
+
+30 
+
+30 
+
+30 
+
+25 
+
+5 
+30 
+
+Instructions for creating course schedule: 
+
+Students have the opportunity to create their own course schedule in our virtual course 
+database univis. All available courses of each semester can be found here, sorted by specific 
+areas of interest or a specific chair, including pieces of information about the lecturer, venues 
+and content. 
+
+By accessing the following link https://univis.fau.de/ >> Vorlesungsverzeichnis >> Rechts- 
+und Wirtschaftswissenschaftliche Fakultät (RW) >> Fachbereich Wirtschaftswissenschaften, 
+all courses of the FAU’s School of Business and Economics can be addressed. Bachelor’s 
+and Master’s courses can be selected hereafter. A guidance of how to create your final 
+course schedule can be found here (in German): www.wiso.fau.de/stundenplan  
+
+6 
+
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Study start: winter semester 2015/16 
+
+Guideline for the form and extent of examinations 
+
+The form of examination that is valid for examinations at the school of business is defined in 
+§16 of the examination regulation for master studies. Furthermore, the extent of examinations 
+is  regulated  by  §§17,  18  of  the  examination regulation for master  studies. The  examination 
+regulation can be accessed via the following link: 
+http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/rw.shtml#Wirtschaft  
+
+If the module  descriptions  do  not  indicate  othervise,  the following forms  of  examination  are 
+valid at the school of business: 
+
+a. 
+
+b. 
+
+c. 
+
+d. 
+
+e. 
+
+f. 
+
+g. 
+
+h. 
+
+i. 
+
+j. 
+
+k. 
+
+l. 
+
+m. 
+
+n. 
+
+o. 
+
+p. 
+
+q. 
+
+r. 
+
+Form of examination 
+
+1.  Written examination: 
+
+a. 
+
+b. 
+
+c. 
+
+Written examination 
+
+Written assignment 
+
+Seminar paper 
+
+2.  oral examination 
+
+3.  Special cases, in particular: 
+
+Research project/Project report 
+
+Placement report 
+
+Handout 
+
+Report 
+
+Short test 
+
+Presentation 
+
+Extent in the Master 
+
+60/90/120 minutes 
+
+ca. 15 pages 
+
+ca. 15 pages  
+
+ca. 20 minutes 
+
+ca. 30 pages 
+
+ca. 4 pages 
+
+ca. 2 pages 
+
+ca. 6 pages 
+
+ca. 15 minutes 
+
+ca. 25 minutes 
+
+Presentation/presentation paper 
+
+ca. 20 minutes/ca. 20 pages 
+
+Discussion paper 
+
+Moderation 
+
+Demonstration lesson 
+
+Case study 
+
+Class participation (formerly Discussion 
+participation)  
+Portfolio 
+
+Electronic examination 
+
+Multiple-choice tes 
+
+Research participation 
+
+Reflection paper 
+
+Strategic concept 
+
+ca. 10 pages 
+
+ca. 20 minutes 
+
+ca. 45 minutes  
+
+ca. 25 minutes and/or 10 pages 
+
+ca. 10 minutes 
+
+k.A.  
+
+ca. 90 minutes 
+
+ca. 30 minutes 
+
+ca. 60 minutes 
+
+ca. 10 minutes or 10 pages 
+
+ca. 6 pages 
+
+7 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Specialisations  
+Students can choose to study specialisations, in which a minimum of 15 ECTS are to be 
+completed. If a module is allocated to more than one specialisation students may decide 
+themselves which specialisation it is to be allocated to. To avoid confusion, please note that 
+specialisations and module groups are different concepts!  
+The five available specialisations and their respective modules are the following: 
+
+Term 
+
+Language  Module group* 
+
+Specialisation: Labor Economics 
+
+Public economics (54611) 
+
+Behavioral economics (53281) 
+
+Labor and personnel economics (52900) 
+
+Mikroökonometrie und Machine Learning (53106) 
+
+Ökonomie der Sozialpolitik (53082) 
+
+Personnel economics (53071) 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+Seminar behavioral economics 1 (52930) 
+
+S/W 
+
+Spatial economics (55960) 
+
+Taxation and labor supply (56410) 
+
+Empirische Arbeitsmarktforschung (53370) 
+
+Labor market policy (52910) 
+
+Labor markets: A macroeconomic perspective (53343) 
+Literaturseminar zu aktuellen Fragen der 
+Arbeitsmarktökonomie (52390) 
+Panel and evaluation methods (53055) 
+
+Seminar behavioral economics 2 (52940) 
+
+International trade and labor (57130)  
+
+Specialisation: Macroeconomics and Finance 
+
+Public economics (54611) 
+
+Asset liability management (56530) 
+
+Financial engineering und structured finance (56270) 
+
+Lebensversicherung (56540) 
+
+Mikroökonometrie und Machine Learning (53106) 
+
+Multivariate time series analysis (53313) 
+
+European Topics in Economics (57400) 
+
+Bayesian Econometrics (57340) 
+
+European Topics in Economics (57400) 
+Banking supervision: Bank rating, stress testing, 
+financial stability (52560) 
+Finanz- und Bankmanagement (53770) 
+
+International finance (5291) 
+
+S 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+S 
+
+W 
+
+W 
+
+W 
+
+8 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+DE 
+
+DE 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+Public 
+
+Public 
+
+Labor 
+
+Labor 
+
+Public 
+
+Labor 
+
+Public 
+
+Public 
+
+Public 
+
+Labor 
+
+Labor 
+
+Macro 
+
+Labor 
+
+Labor 
+
+Public 
+
+Macro 
+
+Public 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Labor 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Macro 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Labor markets: A macroeconomic perspective (53343) 
+
+Panel and evaluation methods (53055) 
+
+Versicherungs- und Risikotheorie (56470) 
+
+International trade and labor (57130) 
+
+Public Budget Management (57480) 
+
+Specialisation: Public Economics 
+
+Public economics (54611) 
+
+Behavioral economics (53281) 
+
+Ökonomie der Sozialpolitik (53082) 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+S 
+
+S 
+
+S 
+
+Seminar behavioral economics 1 (52930) 
+
+S/W 
+
+Seminar public economics 1 (52950) 
+
+Spatial economics (55960) 
+
+Economics of Innovation  (53295) 
+
+Taxation and labor supply (56410) 
+
+Panel and evaluation methods (53055) 
+
+Seminar behavioral economics 2 (52940) 
+
+Seminar public economics 2 (52960) 
+
+Development economics (57330) 
+
+Public Budget Management (57480) 
+
+Specialisation: Energy Markets 
+
+Advanced industrial organization (58050) 
+
+Behavioral economics (53281) 
+
+Seminar energy markets (52990) 
+
+Linear optimization (52971) 
+
+Combinatorial optimization (52972) 
+Methods and applications of mathematical optimization 
+(52980) 
+Quantitative methods in energy market modelling 
+(52591) 
+
+Seminar behavioral economics 2 (52940) 
+
+Seminar Optimierung in Energiemärkten (54340) 
+Mathematical optimization for communications & signal 
+processing (53180) 
+
+Specialisation: Health Economics 
+
+Public economics (54611) 
+
+Behavioral economics (53281) 
+
+Ökonomie der Sozialpolitik (53082) 
+
+S 
+
+S 
+
+S 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+S 
+
+S 
+
+S 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+W 
+
+S 
+
+S 
+
+S 
+
+Seminar behavioral economics 1 (52930) 
+
+The economics of health insurance (56792) 
+
+S/W 
+
+S 
+
+9 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+DE/EN 
+
+DE 
+
+DE 
+
+DE 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+EN 
+
+DE 
+
+EN 
+
+EN 
+
+Macro 
+
+Public 
+
+Macro 
+
+Macro 
+
+Macro 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Labor 
+
+Public 
+
+Public 
+
+Public 
+
+Macro 
+
+Energy 
+
+Public 
+
+Energy 
+
+Energy 
+
+Energy 
+
+Energy 
+
+Energy 
+
+Public 
+
+Energy 
+
+Energy 
+
+Public 
+
+Public 
+
+Public 
+
+Public 
+
+Health 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+The supply of medical services (52153) 
+
+Panel and evaluation methods (53055) 
+
+Applied empirical health economics (52162) 
+
+Seminar behavioral economics 2 (52940) 
+
+Gesundheitsökonomische Evaluationen I (54821) 
+
+Gesundheitsökonomische Evaluationen II (52850) 
+
+Miscellaneous  
+(Modules that do not belong to any specialisation) 
+Economic internship (56441) 
+
+Exchange module 1 (55693) 
+
+Exchange module 2 (55694) 
+
+S 
+
+W 
+
+W 
+
+W 
+
+S 
+
+W 
+
+W/S 
+
+W/S 
+
+W/S 
+
+DE 
+
+EN 
+
+DE 
+
+EN 
+
+DE 
+
+DE 
+
+Health 
+
+Labor 
+
+Health 
+
+Public 
+
+Health 
+
+Health 
+
+Public 
+
+Public 
+
+Public 
+
+*Module groups (Modulgruppen) as defined in the examination regulations and study plan: Labor 
+(Labor Economics), Public (Public Economics), Macro (Macroeconomics and Finance), Energy 
+(Energy Markets), and Health (Health Economics). 
+
+10 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+1 
+
+2 
+
+ Module name 
+MSE-52890 
+ Courses/lectures 
+
+Compulsory Subjects 
+
+Applied econometrics 
+
+Lecture & exercise: Applied econometrics 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Tauchmann / Simon Reif 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+The linear Regression model based on a firm theoretical basis and 
+using rigorous notation; endogeneity and instrumental variables 
+estimation; the generalized regression model and 
+heteroscedasticity, the basics of maximum likelihood estimation; 
+using STATA® for applied econometric work 
+The students deepen their knowledge of linear and non-linear 
+estimation techniques as well as their knowledge of hypotheses 
+testing; students learn how to apply their methodical knowledge to 
+empirical work using the software STATA® and how to interpret 
+estimation results. 
+Basic knowledge of statistics and econometrics as covered by the 
+optional preparatory course (levelling course). 
+
+1.  semester 
+
+Master Economics: Compulsory subjects 
+Master FACT: Vertiefungsbereich (Modulgruppe Interdisziplinäre 
+Module) 
+
+10 
+
+ Method of examination  90-minute written examiniation (100%, partly multiple choice). 
+
+Students can improve their grade through a written assignment of 
+about 2000 words based on an independent econometric analysis 
+using STATA®, which then accounts for 20% of the grade (this 
+requires the written exam to be graded not worse than 4.0; the 
+max. improvement is 0.7 grades)  
+Written examination (100%) 
+
+Annually in the winter term 
+Attendance: 60 h 
+Independent study: 90 h 
+Weekly 90 min. lecture and 90 min. exercise class over the lecture 
+period (1 semester) 
+
+English 
+
+Greene, W. H. (2012): Econometric Analysis, Pearson, 7th ed. 
+
+11 
+
+12 
+
+13 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+11 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+ Module name 
+MSE-53201 
+ Courses/lectures 
+
+Compulsory Subjects 
+
+Game theory  
+
+Lecture: Game theory (2 SWS) 
+Exercise: Game theory (2 SWS) 
+
+ Lecturers 
+
+Prof. Grimm and assistants 
+
+5 ECTS 
+
+5 ECTS 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+ Module coordinator 
+
+ Contents  
+
+Prof. Grimm 
+Game Theory analyzes the behavior of rational 
+agents in decision-making situations in which several agents are 
+involved. Unlike Decision Theory, Game Theory studies 
+situations in which the utilities of the individual agents are not only 
+dependent on their own decisions, but also on those of the other 
+agents. The course seeks to apply the basic game theoretical 
+concepts (e.g., Nash equilibrium, subgame perfect equilibrium) to 
+more complicated economic interactions. In addition, it introduces 
+advanced concepts, such as the analysis of the games with 
+incomplete information, auction theory and briefly, elements of 
+mechanism design. We discuss different equilibrium concepts and 
+their various refinements in the context of these games. 
+Students acquire a more formal understanding of  
+game theoretical concepts and learn to differentiate between 
+different types of games and their appropriate solution concepts. 
+They learn the applications of these concepts to advanced 
+economic problems. Students should be able to 
+formally approach real-world multi-person decision problems and 
+give economic predictions based on the equilibrium concepts 
+studied in the course. 
+
+Basic knowledge of game theory and its core applications 
+
+Master Economics: Compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+90 minute written examination (80%); written assignments 
+(individual or group work possible) of up to 2000 words based on 
+applying game theoretical concepts on economic issues (20%) 
+80% written examination and 20 % written assignments 
+
+Annually in the winter term 
+Attendance: 60 h 
+Independent study: 90 h 
+1 semester 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  1.  semester 
+ Module compatibility 
+
+10 
+
+ Method of examination 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload 
+
+ Module duration 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Main Textbook: 
+
+English 
+
+•  Fudenberg, D. and Tirole, J. (1991), Game Theory, 
+
+Cambridge, MIT Press. 
+
+•  Krishna, V. (2002), Auction Theory, Academic Press. 
+
+Further (helpful) reading: 
+
+12 
+
+  
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+•  Osborne, M. and Rubenstein, A. (1994), A Course in 
+
+Game Theory, Cambridge, MIT Press. 
+
+Maschler, M., Solan E. and Zamir, S. (2013), Game Theory, 
+Cambridge University Press 
+
+13 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+ Module name  
+MSE-53212 
+ Courses/lectures 
+
+Study start: winter semester 2015/16 
+
+Compulsory Subjects 
+
+Macroeconomics: Business cycles 
+
+5 ECTS 
+
+L: Advanced macroeconomics (2 SWS) 
+E: Exercise (2 SWS) 
+
+2,5 ECTS 
+2,5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Merkl 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Module coordinator 
+
+Prof. Merkl 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+-Stylized facts of the business cycle 
+-Business cycle theories 
+-Business cycle and the labor market 
+-Monetary theory and policy 
+Students 
+- 
+- 
+
+learn about modern dynamic business cycle theory 
+learn about dynamic labor market theory (search and 
+matching) 
+
+-  apply standard techniques (e.g., intertemporal optimization, 
+
+- 
+- 
+
+loglinearization or simple simulations) 
+learn about modern monetary theory 
+compare the implications of monetary theory with modern 
+policy making 
+
+Advanced Mathematics, Macroeconomics (Bachelor) 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  1. semester 
+ Module compatibility 
+
+Master Economics: Compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+
+10 
+
+ Method of examination  Written examination (60 Min.). Students can improve their grade 
+
+through two assignments: one programming assignment with 
+Matlab (about 30 lines of code) and one analytical problem (about 
+four written pages). This requires the written exam to be graded 
+not worse than 4.0; the max. improvement is 0.3 grades." 
+Written examination (100%) 
+Annually in the winter term 
+
+Attendance: 60 h 
+Independent study: 90 h 
+1 semester 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Gali, J., Monetary Policy, Inflation, and the Business Cycle: An 
+
+English 
+
+Introduction to the New Keynesian Framework, 2008. 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+14 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+Study start: winter semester 2015/16 
+
+Compulsory Subjects 
+
+Macroeconomics: Economic growth 
+
+L: Macroeconomics: Economic growth (2 SWS) 
+E: Macroeconomics: Economic growth (2 SWS) 
+Prof Büttner and assistants  
+
+5 ECTS 
+
+5 ECTS 
+
+  Module name 
+MSE-53221 
+
+  Courses/lectures 
+
+  Lecturers 
+
+  Module coordinator 
+
+Prof. Büttner 
+
+  Contents 
+
+The lecture is concerned with the development of the economy over 
+time, in particular with economic growth. In a first step the lecture 
+considers how dynamic issues are dealt with in the context of 
+traditional macroeconomics. We then go on and develop a dynamic 
+model in which households, firms, and the government form 
+expectations about future conditions and take account of future 
+implications of current decisions. This model is varied to see 
+implications of uncertainty and overlapping generations. Finally we 
+discuss the sources and limits of economic growth. 
+Students 
+- learn how to derive a standard macroeconomic model from a set of 
+optimal decisions of agents and their (intertemporal) constraints 
+
+- learn how to use the model for basic predictions about effects of 
+changes in endowments and starting conditions on short- and long-
+term equilibria 
+
+- learn to modify the basic model to take account of uncertainty, 
+infinite time and overlapping generations and understand the 
+difficulties that are associated with some of these extensions 
+
+- learn to apply techniques of intertemporal optimization 
+
+- get acquainted with basic characteristics of economic growth 
+
+- learn conditions under which the macroeconomic model is 
+consistent with continuous economic growth 
+
+- learn about the limits and determinants of economic growth 
+
+6 
+
+  Learning objectives and 
+
+skills 
+
+  Recommended 
+prerequisites 
+
+  Integration in curriculum  1.  Semester 
+
+Module compatibility 
+
+Master Economics: Compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+
+  Method of examination  Written examination (90 minutes)  
+
+  Grading procedure 
+
+Written examination (100%) 
+
+  Module frequency 
+
+Annually in the winter term  
+
+  Workload  
+
+14 
+
+  Module duration 
+
+Attendance: 45 h 
+Independent study: 90 h 
+1 semester 
+
+15 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+  Teaching and 
+
+English 
+
+examination language 
+
+16 
+
+  (Recommended) reading  Romer, D. (1996): Advanced Macroeconomics, 2. edition, Mc-Graw-
+
+Hill.  
+
+Study start: winter semester 2015/16 
+
+16 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Compulsory Subjects 
+
+1 
+
+2 
+
+ Module name  
+MSE-53231 
+ Courses/lectures 
+
+Mathematics for economists 
+
+5 ECTS 
+
+L: Mathematics for economists (2 weekly lecture hours) 
+E: Mathematics for economists (1 weekly lecture hour) 
+
+2.5 ECTS 
+2.5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Martin and assistants 
+
+4 
+
+ Module coordinator 
+
+Prof. Martin 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+5 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+
+Module compatibility 
+
+The main focus of this lecture is on vector spaces, eigenvalues, 
+quadratic forms, analysis of n variables including Taylor 
+derivatives, finite difference and differential equation as well as 
+optimization. 
+The aim of this module is to practice common mathematical 
+techniques, which are required for advanced courses in 
+Economics. 
+Basic knowledge as known from school and typical math courses 
+given within Bachelor programs on Economics, see for instance 
+Sydsætter, Knut und Hammond, Peter (2008), Essential 
+Mathematics for Economics Analysis, Prentice Hall, or 
+the Bachelor chapters in Mosler, Karl, Rainer Dyckerhoff und 
+Christoph Scheicher (2009), Mathematische Methoden für 
+Ökonomen, Springer-Verlag (in German). 
+1. semester: 
+This course is a block course at the beginning of the term and 
+starts before the official lecture period. 
+Master Economics: Compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+ Method of examination  Written examination (90 Min.) 
+
+ Grading procedure 
+
+Written examination (100 %) 
+
+ Module frequency 
+
+Annually in the winter term 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 45 h 
+Independent study: 105 h 
+1 semester 
+
+English 
+
+Sydsætter, Knut und Hammond, Peter (2008), Further 
+Mathematics for Economics Analysis, Prentice Hall; 
+Mosler, Karl; Dyckerhoff, Rainer und Scheicher, Christoph (2009), 
+Mathematische Methoden für Ökonomen, Springer Verlag (in 
+German). 
+
+17 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+1.    Module name  
+
+MSE-53191 
+2.    Courses/lectures 
+
+Compulsory Subjects 
+
+Microeconomics 
+
+Lecture: Microeconomics (2 SWS)  
+Exercise: Microeconomics (2 SWS) 
+
+3.    Lecturers 
+
+Prof. Rincke 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Module coordinator 
+
+Prof. Rincke 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+Theory of the Consumer, Theory of the Firm, Partial Equilibrium, 
+General Equilibrium, Anomalies 
+Students are made familiar with the fundamental concepts of 
+microeconomics on an advanced level, including advanced formal 
+mathematical methods. The lecture covers topics in the theory of 
+the consumer, the theory of the firm, partial equilibrium, general 
+equilibrium, and anomalies in behavior in relation to the standard 
+model. In the Exercises course, students learn how to apply these 
+concepts to selected economic problems in various settings. The 
+module is of fundamental importance for Master students who 
+want to advance to studying applied problems in all field of 
+applied micro, including labor economics, public economics, and 
+industrial organization. 
+
+Basic training in formal microeconomic techniques 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  1. semester 
+ Module compatibility 
+
+Master Economics): Compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Management: Vertiefungsbereich 
+
+ Method of examination  Written examination (90 minutes) and Presentation (Exercise) 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+Written examination 80% 
+Presentation 20% 
+Annually in the winter term 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Jehle, Geoffrey A. und Reny, Philip J. (2001), Advanced 
+
+English 
+
+Microeconomic Theory, 2nd ed., Addison-Wesley 
+
+18 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Study start: winter semester 2015/16 
+
+Elective compulsory subjects 
+
+Module group: Labor Economics 
+
+ Module name  
+A&P-53370 
+ Courses/lectures 
+
+Empirische Arbeitsmarktforschung 
+(Empirical labor market research) 
+HS: Empirische Arbeitsmarktforschung (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Lecturers 
+
+Prof. Schnabel  und Assistierende 
+
+ Module coordinator 
+
+Prof. Schnabel 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+Mittels vorgegebener Datensätze werden ökonometrische 
+Analysemethoden auf aktuelle Fragestellungen der 
+Arbeitsmarktökonomik angewendet und diese eigenständig 
+empirisch untersucht. 
+Die Studierenden lernen, Arbeitsmarktstudien kompetent zu 
+interpretieren, zu bewerten und zu hinterfragen. Sie verstehen 
+quantitative Methoden differenziert einzusetzen, Hypothesen zu 
+bilden und diese empirisch zu überprüfen. Durch eigenes 
+Arbeiten am PC werden sie in die Lage versetzt, selbständig 
+Forschungsdesigns zu entwickeln, ökonometrische Analysen 
+durchzuführen und deren Ergebnisse aufzubereiten. Zudem 
+verstehen sie es, Erkenntnisse aus fremden oder eigenen 
+empirischen Arbeiten prägnant darzustellen, kritisch zu bewerten 
+und der (Fach-) Öffentlichkeit zu vermitteln. 
+
+Kenntnisse in Arbeitsmarktökonomie und Ökonometrie 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  3. Semester 
+Module compatibility 
+
+ Method of examination 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+-  Kurztests und Hausarbeit  
+
+ Grading procedure 
+
+Durchschnittsnote: Kurztests 20%, Note Hausarbeit 80% 
+
+ Module frequency 
+
+Jährlich im Wintersemester 
+
+ Workload  
+
+ Module duration 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Wechselnde aktuelle Forschungsliteratur 
+
+Deutsch 
+
+19 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Labor Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-52900 
+ Courses/lectures 
+
+Labor and personnel economics 
+
+L: Labor and personnel economics 
+E: Excercise labor and personnel economics 
+
+5 ECTS 
+
+3 ECTS 
+2 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Schnabel and assistants 
+
+ Module coordinator 
+
+Prof. Schnabel 
+
+4 
+
+5 
+
+ Contents 
+
+- Labor supply 
+- Human capital 
+- Labor demand 
+- Search and matching 
+- Mobility and migration 
+- Wages 
+- Employment relationships and work incentives 
+- Unemployment 
+The course imparts the major methods and insights of the analysis 
+of labor markets and employment relationships. Students 
+- learn the major determinants of labor supply and demand 
+- understand the importance of human capital and work incentives 
+- analyze the functioning of labor markets and the main reasons for 
+unemployment 
+- critically reflect labor market theories 
+- are able to interpret and scrutinize empirical studies 
+- evaluate labor market policy and firms’ compensation policy. 
+Basic knowledge of microeconomics and empirical research 
+methods/econometrics 
+
+2. semester 
+
+Master in Economics: Elective compulsory subjects 
+Master Sozialökonomik: Vertiefungsbereich 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Written examination (90 minutes) 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+If initial examination can´t be realized due to Corona: 
+oral examination (15 minutes) 
+Written examination (100%) 
+
+If initial examination can´t be realized due to Corona: 
+oral examination (100%) 
+Annually in the summer term 
+(from summer term 2016) 
+Presence: 40 h 
+Individual studies: 110 h 
+1. Semester 
+
+English 
+
+Cahuc, P./Carcillo, S./Zylberberg, A.: Labor Economics, 2nd ed., 
+Cambridge, Mass. 2014 
+Garibaldi, P.: Personnel Economics in Imperfect Labour Markets, 
+Oxford 2006 
+
+20 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+21 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Labor Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-52910 
+ Courses/lectures 
+
+Labor market policy 
+
+S: Labor market policy 
+
+3 
+
+ Lecturers 
+
+Prof. Stephan 
+
+Study start: winter semester 2015/16 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Prof. Stephan 
+The module analyzes main topics in labor market policy, with a 
+focus on evaluation studies of labor market institutions and active 
+and passive labor market programs 
+Students  
+•  acquire specialized knowledge on policy debates, theoretical 
+backgrounds, evaluation techniques, and empirical evidence 
+for core labor market policies. 
+
+•  assess theoretical approaches, applied methods, and empirical 
+
+results of recent research papers.  
+
+•  clearly present and scrutinize complex facts and results. 
+•  discuss presentations of fellow students and provide 
+
+constructive feedback. 
+
+Solid knowledge in microeconomics and econometrics 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects  
+Master Arbeitsmarkt und Personal: Wahlbereich 
+ Method of examination  Seminar paper, presentation of seminar paper,  
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+class participation in terms of discussing a seminar paper of a 
+fellow student 
+Seminar paper (100 %), presentation of seminar paper (passed), 
+class participation in terms of discussing a seminar paper of a 
+fellow student (passed) 
+Annually in the winter term 
+(from winter term 2016/17) 
+Presence: 30 h 
+Independent study: 120 h 
+1 semester 
+
+English 
+
+Boeri, T., van Ours. J. (2013). The Economics of Imperfect Labor 
+Markets, 2nd edition. Princeton: Princeton University Press. 
+Varying recent literature 
+
+22 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Study start: winter semester 2015/16 
+
+Module group: Labor Economics 
+
+ Module name 
+MSE-52390 
+
+ Courses/lectures 
+
+ Lecturers 
+
+Literaturseminar zu aktuellen Fragen der 
+Arbeitsmarktökonomie 
+(Literature seminar on current issues of labor 
+economics) 
+S: Literaturseminar zu aktuellen Fragen der 
+Arbeitsmarktökonomie (3 SWS) 
+Prof. Bellmann  
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Bellmann 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+Auswertung, Interpretation und Diskussion bestehender Studien 
+zu aktuellen Arbeitsmarktthemen (wie z.B. Fragen der 
+Entlohnung, der Qualifikation und Bildung, der 
+Arbeitsbeziehungen und der Arbeitsmarktpolitik). Der 
+Schwerpunkt liegt dabei auf mikroökonometrischen Studien. 
+Die Studierenden lernen anhand aktueller empirischer Studien 
+aus der Literatur, Arbeitsmarktstudien kompetent zu 
+interpretieren, zu bewerten und zu hinterfragen. Sie verstehen 
+quantitative Methoden differenziert einzusetzen, Hypothesen zu 
+bilden und diese empirisch zu überprüfen. Zudem verstehen sie 
+es, Erkenntnisse aus fremden empirischen Arbeiten prägnant 
+darzustellen, kritisch zu bewerten und der (Fach-) Öffentlichkeit 
+zu vermitteln. Sie erschließen dabei eigenständig Informationen, 
+erstellen Präsentationen und geben Kommiliton(inn)en 
+wertschätzendes Feedback zu deren Präsentationen. 
+
+Kenntnisse in Arbeitsmarktökonomie und Ökonometrie 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  3. Semester 
+ Module compatibility 
+
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomie: Sozialökonomische Vertiefungsbereich 
+
+ Method of examination  Hausarbeit und Präsentation 
+ Grading procedure 
+
+Note Hausarbeit 80 %, Note Präsentation 20 % 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+Jährlich im Wintersemester 
+Präsenzzeit 45 h 
+Eigenstudium 105 h 
+1 Semester 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Wechselnde aktuelle Forschungsliteratur 
+
+Deutsch 
+
+23 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+Study start: winter semester 2015/16 
+
+Module group: Labor Economics 
+
+ Module name 
+MSE-53055 
+ Courses/lectures 
+
+ Lecturers 
+
+Panel and evaluation methods 
+
+L: Panel and evaluation methods (2 SWS) 
+E: Panel and evaluation methods (1 SWS) 
+Prof. Riphahn and assistants 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Riphahn 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+Endogeneity in the linear regression model; instrumental variables 
+estimation; static and dynamic panel data models; matching; 
+difference-in-differences estimation; regression discontinuity 
+design; quantile regression; practical application of methods using 
+statistics software STATA 
+Based on the introductory econometrics module „Ökonometrie 1“ 
+students acquire specialized knowledge in panel und evaluation 
+methods and apply it using the statistics software STATA. 
+Students evaluate to what degree empirical patterns can be 
+interpreted as causal and decide to what extent problems of 
+endogeneity can be solved via panel data or exogeneous variation 
+Students can produce own empirical analyses. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+Basic knowledge in statistics and econometrics 
+
+3. semester 
+
+Master Arbeitsmarkt und Personal: compulsory subject (MSE-
+30555) 
+Master Marketing für Studierende mit Studienbeginn ab WS17/18:  
+
+-  Vertiefungsbereich Marketing Research  
+-  Wahlpflichtbereich der Modulgruppe „Statistik“ im 
+
+Vertiefungsbereich Marketing Management (MSE-3054) 
+Master Marketing für Studierende mit Studienbeginn vor WS17/18: 
+
+-  Vertiefungsbereich Marketing Research  
+
+-  Wahlpflichtbereich der Modulgruppe „Methoden“ im 
+
+Vertiefungsbereich Marketing Management (MSE-3054) 
+
+Master Sozialökonomik: Pflichtbereich „Vertiefung Methoden“ oder 
+freier Vertiefungsbereich 
+Master FACT: Vertiefungsbereich (Modulgruppe Interdisziplinäre 
+Module)  
+Master Economics: Elective compulsory subjects  
+Master Management: Vertiefungsbereich  
+
+ Method of examination  Written exam (60 Min.) 
+ Grading procedure 
+
+100 % written exam (a voluntarily submitted homework can 
+account for 20 % of the final grade if it improves the grade. In the 
+homework an empirical analysis is performed based on Stata. The 
+final grade can be improved by up to 0.7 points. However, the 
+exam must be passed. The homework only counts towards final 
+
+24 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Study start: winter semester 2015/16 
+
+grades in the semester in which they are produced, i.e. only in the 
+winter semester.   
+
+Annually in the winter semester (blocked format in the 2nd half of 
+the semester) 
+Presence: 45 h 
+Independent study: 105 h 
+Second half of the winter semester (blocked, each week 4 SWS 
+lecture and 2 SWS exercise) 
+
+Englisch 
+
+Hsiao, Cheng (2003), Analysis of Panel Data, 2nd ed. Cambridge 
+Univ. Press. 
+Lee, Myoung-Jae (2005), Micro-Econometrics for Policy, Program 
+and Treatment Effects, Oxford Univ. Press. 
+Wooldridge, J.M.(2010), Econometric Analysis of Cross Section 
+and Panel Data, 2.A., MIT Press. 
+Verbeek, Marno (2012), A Guide to Modern Econometrics, 4. A., 
+Wiley. 
+
+25 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Labor Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-53105 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Mikroökonometrie und Machine Learning 
+(Microeconometrics and Machine Learning) 
+V: Mikroökonometrie und Maschinelles Lernen (2 
+SWS) 
+Ü: Mikroökonometrie und Maschinelles Lernen (1 
+SWS) 
+Prof. Riphahn und Assistierende 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Riphahn 
+
+4 
+
+5 
+
+ Contents 
+
+Konzept der Maximum-Likelihood-Schätzung in Matrixnotation; 
+Schätz- und Testverfahren für diskrete abhängige Variablen, Tobit-
+Modelle, Selektionsmodelle, Verweildauermodell, 
+Zähldatenmodelle; Maschinelles Lernen für stetige und diskrete 
+abhängige Variablen, supervised und unsupervised learning; 
+Praktische Umsetzung der Lerninhalte mit Hilfe der 
+Statistiksoftware STATA 
+Aufbauend auf der Veranstaltung „Ökonometrie“ erwerben die 
+Studierenden spezialisierte Kenntnisse in nicht linearen Schätz- 
+und Testverfahren sowie in den Verfahren des maschinellen 
+Lernens und wenden diese mit Hilfe der Statistiksoftware STATA 
+an. Sie diskutieren und bewerten die Geeignetheit verschiedener 
+Modelle im praxisbezogenen Kontext und erstellen eigene 
+empirische Analysen im Rahmen einer freiwilligen Hausarbeit. 
+Grundkenntnisse Statistik und Einführungsveranstaltung 
+Ökonometrie 
+
+2. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich oder im 
+Pflichtbereich „Vertiefung Methoden“  
+Master in Management: Vertiefungsbereich  
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Methoden“  
+Master Arbeitsmarkt und Personal: Wahlbereich  
+
+100 % Klausur (Bei Notenverbesserung ist eine freiwillige, 
+vorlesungsbegleitend ggf. in Gruppenarbeit erstellte Hausarbeit zu 
+20 % auf die Endnote anrechenbar, in der auf Basis eines 
+Datensatzes und mit Hilfe von Stata eine empirische Fragestellung 
+bearbeitet wird. Dabei kann sich die Klausurnote um bis zu 0,7 
+Notenpunkte verbessern. Die Prüfung ist nur bestanden, wenn 
+auch die Klausur bestanden ist. Die Hausarbeit wird nur in dem 
+Semester gewertet, in dem sie erstellt wurde.) 
+Jährlich im Sommersemester  
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+10 
+
+11 
+
+ Method of examination  Klausur (60 Min.) 
+ Grading procedure 
+
+12 
+
+13 
+
+ Module frequency 
+
+ Workload  
+
+14 
+
+ Module duration 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+26 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Study start: winter semester 2015/16 
+
+Deutsch 
+
+Cameron, Colin und Pravin K. Trivedi (2005), Microeconometrics. 
+Methods and Applications, Cambridge Univ. Press. 
+Verbeek, Marno (2012), A Guide to Modern Econometrics, 4. A., 
+Wiley. 
+Wooldridge, J.M.(2010), Econometric Analysis of Cross Section 
+and Panel Data, 2.A., MIT Press. 
+Hastie, T., R. Tibsharani, und J., 2009, The Elements of Statistical 
+Learning: Data Mining, Inference and Prediction, Springer 
+
+27 
+
+  
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Labor Economics 
+ Module name 
+MSE-53071 
+ Courses/lectures 
+
+Personnel economics 
+
+S: Personnel economics (2SWS) 
+(Compulsory attendance) 
+Prof. Riphahn and team 
+
+ Lecturers 
+
+ Module coordinator 
+
+Prof. Riphahn 
+
+5 ECTS 
+
+5 ECTS 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+The module addresses key topics of modern personnel economics 
+research, such as hiring, contract design, motivation, training, 
+teamwork, and group incentives. 
+Students acquire specialized knowledge of personnel economics 
+theories and research questions. By preparing short thesis papers 
+and a seminar paper students learn to evaluate and critically 
+discuss methodological choices and substantive conclusions 
+drawn in recent empirical research papers. Students assess 
+theoretical approaches, applied empirical methods and results of 
+recent research papers. Students present and scrutinize complex 
+facts and results. They discuss the theoretical background, 
+empirical method, and empirical evidence on personnel economics 
+research contributions, discuss presentations of fellow students 
+and provide constructive feedback. 
+Compulsory attendance is required for discussion and feedback 
+processes. 
+
+Basic knowledge of microeconomics and econometrics 
+
+2. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich  
+oder im Bereich „Spezielle VWL“ 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+
+S Seminar paper (group work), Handouts 
+S: Seminar paper (60%), Handouts (40%) 
+annually in the summer term (not in summer term 2020, instead 
+ones in winter term 2020/21) 
+Presence: 45 hours 
+Independent study: 105 hours 
+1 Semester 
+English, written contributions can be submitted in German 
+language 
+Garibaldi, Pietro (2006), Personnel Economics in Imperfect Labour 
+Markets, Oxford Univ. Press. 
+Neilson, William S. (2007), Personnel Economics, Pearson Educ. 
+Inc. 
+Lazear, Edward P. (1998), Personnel Economics, MIT Press. 
+Sowie eine Aufsatzsammlung. 
+
+28 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination 
+
+11 
+
+12 
+
+ Grading procedure 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+1 
+
+2 
+
+ Module name 
+FACT-56530 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Asset liability management (Versicherungen) 
+(Asset liability management (insurance) 
+V + Ü (2 + 1 SWS): Asset liability management (Versi-
+cherungen) 
+(Asset liability management (insurance)) 
+Prof. Gatzert und Mitarbeitende  
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+5 
+
+ Module coordinator 
+ Contents 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination 
+
+11 
+
+ Grading procedure 
+
+Prof. Gatzert 
+- Darstellung von Konzepten zum Asset Management 
+(grundsätzliche Überlegungen, Risikostreuung in der Praxis, 
+rechtliche Rahmenbedingungen und strategische Aspekte der 
+Kapitalanlagepolitik; Performancemessung) 
+- Liability Management (Rückversicherungsformen, Alternativer 
+Risikotransfer) 
+- Asset Liability Management mit Fokus auf Versicherungen 
+(Immunisierungsansätze (Cashflow und Duration Matching), 
+Optimierungsstrategien, Szenarioanalysen und Dynamische 
+Finanzanalyse) 
+- Die Studierenden erlernen, untersuchen und hinterfragen die 
+grundlegenden und vertiefenden Konzepte des Asset sowie 
+Liability Managements eines Versicherungsunternehmens 
+- Hieraus folgern sie Methoden eines ganzheitlichen Asset-
+Liability-Managements 
+
+Keine 
+
+WS: 2. Semester; SS: 1. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungsbereich (Modulgruppe Finance and 
+Insurance) 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Management: Vertiefungsbereich 
+60-minütige Klausur 
+
+Zusätzlich aufgrund von Corona: 
+Es besteht die Möglichkeit einer freiwilligen Notenverbesserung, 
+wobei eine Verbesserung um bis zu 0,3 Notenstufen erfolgen 
+kann. Dazu können Studierende auf StudOn Online-Kurztests 
+(Quizze) zur Aufbereitung des Vorlesungsstoffs bearbeiten. Die 
+Notenverbesserung erfolgt, wenn die Quizze erfolgreich bearbeitet 
+wurden sowie die Klausur mit der Note 4,0 oder besser bestanden 
+wurde. 
+Klausur 100% 
+
+Zusätzlich aufgrund von Corona: 
+Es besteht die Möglichkeit einer freiwilligen Notenverbesserung, 
+wobei eine Verbesserung um bis zu 0,3 Notenstufen erfolgen 
+
+29 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+kann. Dazu können Studierende auf StudOn Online-Kurztests 
+(Quizze) zur Aufbereitung des Vorlesungsstoffs bearbeiten. Die 
+Notenverbesserung erfolgt, wenn die Quizze erfolgreich bearbeitet 
+wurden sowie die Klausur mit der Note 4,0 oder besser bestanden 
+wurde. 
+Jährlich im Sommersemester 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+  Die vorbereitende Literatur und auch die weitergehende, 
+forschungsbezogene Literatur werden im Rahmen der 
+Veranstaltung bekannt gegeben. 
+
+12 
+13 
+
+14 
+15 
+
+16 
+
+ Module frequency 
+ Workload  
+
+ Module duration 
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+30 
+
+  
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+ Module name 
+FACT-52560 
+ Courses/lectures 
+
+Banking supervision: Bank rating, stress testing, 
+financial stability 
+L: Central banking (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Lecturers 
+
+Dr. Thomas Kick 
+
+ Module coordinator 
+
+Prof. Merkl 
+
+ Contents 
+
+This course covers a wide range of topics in banking supervision 
+(e.g., bank rating models and risk assessment in banking 
+supervision; different concepts of stress testing credit, market, and 
+liquidity risk; development and analysis of bank stability indicators; 
+bank resolution; financial stability and macroprudential oversight in 
+the EU). Basic analytical concepts will be provided as a background; 
+the last EBA/SSM Stress Test will be used to analyze the 
+implications of such an exercise for banks, policy makers, and 
+international organizations. A case study based on the econometrics 
+software Stata will be used to develop empirical bank rating and 
+stress testing tools.  
+
+Students 
+-learn about banking structure, regulation, bank bailouts, and 
+corporate governance in banking. 
+- understand and apply different concepts of bank rating and stress 
+testing; develop tools using the econometrics software Stata. 
+- analyze competition and efficiency in banking markets and 
+understand the concept of financial stability. 
+
+6 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+Macroeconomics (Bachelor) 
+
+1. and 3. semester 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungsbereich (Modulgruppe Finance and 
+Insurance) 
+
+ Method of examination  Written examination (60 minutes) 
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+Written examination (100%) 
+[The grade can be improved up to 0.7 units with a voluntary project 
+work.] 
+Annually in the winter term 
+Presence: 30 h 
+Independent study: 120 h 
+1 semester 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Presentation slides and relevant literature will be provided. 
+
+English 
+
+31 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+ Module name 
+FACT-56270 
+ Courses/lectures 
+
+ Lecturers 
+
+Financial engineering and structured finance 
+
+5 ECTS 
+
+V + Ü: Financial engineering and structured finance (2 
++ 1 SWS) 
+Prof. Scholz and assistants  
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Scholz 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+- Darstellung und Bewertung von Aktien-, Zinssatz- & Bondoptionen 
+- Strukturierter Produkte im Fixed Income und Equity Bereich 
+- Kapitalstruktur und Optionspreistheorie 
+- Darstellung und Bewertung von Kreditderivaten 
+Die Studierenden 
+-  erarbeiten  sich  ein  tiefgehendes  Wissen  über  Aktien-,  Zinssatz 
+und Bondoptionen, können deren Einsatzmöglichkeiten beurteilen 
+und ihren Wert bestimmen. 
+
+-  wenden  zentrale  Kenntnisse  der  Optionspreistheorie  an,  um 
+Bestandteile komplexer, strukturierter Fixed Income- und Equity-
+Produkte  zu  analysieren,  diese  zu  bewerten  und  deren 
+Wertbeitrag für Kunden einer Bank zu evaluieren. 
+
+-  können  unter  Berücksichtigung 
+
+von  Kundenpräferenzen 
+
+eigenständig innovative Finanzprodukte entwickeln. 
+
+-  sind  in  der  Lage  die  Positionen  Eigen-  und  Fremdkapital  von 
+Unternehmen auf Basis der Optionspreistheorie zu bewerten. 
+-  können Instrumente zum Kreditrisikotransfer erläutern und deren 
+
+Einsatzmöglichkeiten kritisch hinterfragen. 
+
+Finanz- und Bankmanagement, Kapitalmarktorientierte 
+Unternehmenssteuerung 
+
+WS: 2. Semester SS: 1. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Management: Vertiefungsbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+ Method of examination  60-minütige Klausur 
+ Grading procedure 
+
+Klausur (100%) 
+
+ Module frequency 
+
+Jährlich im Sommersemester 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Hull, John C.: Options, futures and other derivatives. 
+Weitergehende, forschungsbezogene Literatur wird im Rahmen der 
+Veranstaltung bekannt gegeben 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+32 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+9 
+
+10 
+11 
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+ Module name 
+FACT-53770 
+ Courses/lectures 
+
+Finanz- und Bankmanagement 
+(Financial and bank management) 
+V + Ü: Finanz- und Bankmanagement (2 + 1 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Lecturers 
+
+Prof. Scholz and assistants 
+
+ Module coordinator 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  WS: 1. Semester SS: 2. Semester 
+Module compatibility 
+
+keine 
+
+Prof. Scholz 
+- Klassische Ansätze zum Management von Marktzinsrisiken 
+- Darstellung und Bewertung moderner Finanzinstrumente und 
+  Finanzprodukte (z.B. Optionen, Futures, Forwards und Swaps) 
+- „Value at Risk“ zur Messung finanzieller Risiken 
+- Aufbau und Funktion von Finanzsystemen 
+- Steuerungssysteme für Finanzunternehmen 
+Die Studierenden 
+-  ermitteln  Zinsrisiken  von  Anleiheportfolios  und  beurteilen 
+Instrumente zur Reduktion von Zinsrisiken und deren Einsatz aus 
+Kundensicht. 
+
+-  können  diverse  Fixed-Income  Produkte  wie  Kupon-Anleihen, 
+Floating  Rates  Notes  und  Zinsswaps  bewerten  und  deren 
+Chancen-Risiko-Profile beurteilen. 
+
+-  bestimmen die Kennzahl „Value at Risk“ für Portfolios und unter 
+Anwendung verschiedene Konzepte der Volatilitätsschätzung. 
+-  können den generellen Aufbau und die Funktion des Banken- und 
+
+Finanzsystems erläutern 
+
+-  beurteilen  auf  Basis  der  Marktzinsmethode  die Geschäftspolitik 
+
+einer Bank. 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Management: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Pflichtbereich, sofern nicht im Wahlbereich 
+in Block 3 belegt; Studienrichtung II: fachwissenschaftlicher 
+Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+60-minütige Klausur 
+Klausur (100%) 
+Jährlich im Wintersemester 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+ Method of examination 
+ Grading procedure 
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Hartmann-Wendels, T. / Pfingsten, A. / Weber, M.: 
+
+Deutsch 
+
+Bankbetriebslehre, Berlin. Weitergehende, forschungsbezogene 
+Literatur wird im Rahmen der Veranstaltung bekannt gegeben 
+
+33 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Macroeconomics and Finance 
+
+Study start: winter semester 2015/16 
+
+1 
+
+2 
+
+ Module name 
+MSE-52290 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+4 
+
+5 
+
+ Module coordinator 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+International finance 
+
+Lecture: International finance, theory and policy (2 
+SWS) 
+Exercise: International finance, theory and policy (1 
+SWS) 
+Prof. Merkl 
+
+5 ECTS 
+
+5 ECTS 
+
+Prof. Merkl 
+This course covers a wide range of topics (e.g., exchange rates 
+and exchange rate regimes, national accounts and capital flows, 
+international financial system, international banking and central 
+banking). Basic economic concepts will be provided as a 
+background. Statistics and empirical results will be shown to 
+understand the validity of these concepts. Recent real life 
+examples/case studies will be used to analyze the implications for 
+policy makers, international organisations and business. 
+Students 
+
+­  understand and apply basic concepts of exchange rate 
+
+determination and their validity. 
+learn about driving forces of capital flows. 
+
+­ 
+­  analyze how international (central) banking and the 
+
+international financial system work. 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+­  apply their knowledge in a presentation (either in case 
+
+study style or in a small quantitative project). 
+
+Macroeconomics (Bachelor) 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+Master IBS: Core courses Master  
+Master FACT: Vertiefungsbereich (Modulgruppe Finance and 
+Insurance) 
+
+10 
+
+ Method of examination  Written examination (60min) 80% 
+
+Presentation 20% 
+These three partial examinations are one uniform examination in 
+which the individual partial examinations are inseparable. For the 
+existence of the module, according to § 19 (1) sentences 2 and 4 
+of the MPOWiWi, as amended, all partial examinations must be 
+passed in the same semester. Notwithstanding § 25 (1) sentences 
+2 and 3 of the MPOWIWI, it is not possible to repeat only one of 
+the failed partial examinations because of the inseparable relation 
+of the partial examinations to each other. Failure to receive one of 
+the partial services requires the repetition of the entire examination 
+Written examination + presentation (100%) 
+
+Annually in the winter term 
+Presence: 45 h 
+Independent study: 105 h 
+
+34 
+
+11 
+
+12 
+
+13 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+1 semester 
+
+English 
+
+Presentation slides and relevant literature will be provided 
+
+Study start: winter semester 2015/16 
+
+35 
+
+  
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+1 
+
+  Module name 
+MSE-53343 
+
+2 
+
+  Courses/lectures 
+
+3 
+
+  Lecturers 
+
+Labor markets: A macroeconomic perspective 
+
+5 ECTS 
+
+S: Topics in macro-labor (2 SWS) 
+L: Introduction to macro-labor theory and empirics  
+(1 SWS) 
+Dr. Stüber 
+
+4 ECTS 
+1 ECTS 
+
+  Module coordinator 
+
+Prof. Merkl 
+
+4 
+
+5 
+
+  Contents 
+
+6 
+
+  Learning  objectives  and 
+
+skills 
+
+-Stylized macroeconomic facts of the labor market 
+-The labor market and business cycle dynamics 
+-Modern  dynamic 
+macroeconomic models 
+-The importance of wage rigidities 
+
+labor  market  models  and 
+
+their 
+
+role 
+
+in 
+
+Students learn 
+- to analyze macroeconomic stylized facts of the labor market  
+-  to  critically  evaluate  the  ability  of  dynamic  labor  market  models 
+(e.g., search and matching) to replicate business cycle facts 
+- to evaluate macroeconomic (policy) implications. 
+
+7 
+
+8 
+
+9 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+Macroeconomics 1, Econometrics 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich  
+
+10    Method of examination  Seminar  paper  (15  pages),  presentation  of  seminar  paper  (30 
+minutes), and class participation 
+Seminar paper (85%), presentation (15%) 
+
+11    Grading procedure 
+
+12    Module frequency 
+
+Annually in the winter term 
+
+13    Workload  
+
+14    Module duration 
+
+Presence: 20 h 
+Independent study: 130 h 
+1 semester 
+
+15    Teaching and 
+
+English 
+
+examination language 
+
+16    (Recommended) reading  Pissarides,  C.  Equilibrium  Unemployment.  2000,  MIT  Press, 
+
+Cambridge. Chapters 1 & 9. 
+Recent research articles 
+
+36 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+ Module name 
+FACT-56540 
+ Courses/lectures 
+
+ Lecturers 
+
+Lebensversicherung  
+(Life insurance) 
+V + Ü (2 + 1 SWS): Lebensversicherung 
+(Life insurance) 
+Prof. Gatzert und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+ Module coordinator 
+
+ Contents 
+
+Prof. Gatzert 
+- Einführung in den Lebensversicherungsmarkt 
+- Darstellung von klassischen und innovativen 
+Lebensversicherungsprodukten (und den darin enthaltenen 
+impliziten Optionen) 
+- Versicherungsmathematische Aspekte: Bestimmung von Prämien 
+und Deckungsrückstellungen auf Basis der typischen aktuariellen 
+Rechnungsgrundlagen (Zins, Sterbetafeln) 
+- Analyse und Bewertung von Fondsprodukten mit Garantien 
+- Absicherung von Garantien in Fondsprodukten mit 
+Kapitalanlagestrategien (u.a. Constant Proportion Portfolio 
+Insurance) 
+
+- Die Studierenden können aktuelle Entwicklungen im 
+Lebensversicherungsmarkt beurteilen und hinterfragen diese 
+- Die Studierenden berechnen Prämien und 
+Deckungsrückstellungen von klassischen 
+Lebensversicherungsverträgen 
+- Des Weiteren bewerten sie klassische und fondsgebundene 
+Lebensversicherungsprodukte mit verschiedenen Garantien und 
+vergleichen verschiedene Methoden der Bewertung 
+- Die Studierenden schätzen ein, wie verschiedene Arten von 
+Finanzgarantien abgesichert werden müssen und wenden hierfür 
+auch Kapitalanlagestrategien an 
+
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Elective compulsory subjects  
+Master Management: Vertiefungsbereich 
+60-minütige Klausur 
+
+Zusätzlich aufgrund von Corona: 
+Es besteht die Möglichkeit einer freiwilligen Notenverbesserung, 
+wobei eine Verbesserung um bis zu 0,3 Notenstufen erfolgen kann. 
+Dazu können Studierende auf StudOn Online-Kurztests (Quizze) 
+zur Aufbereitung des Vorlesungsstoffs bearbeiten. Die 
+Notenverbesserung erfolgt, wenn die Quizze erfolgreich bearbeitet 
+wurden sowie die Klausur mit der Note 4,0 oder besser bestanden 
+wurde. 
+Klausur 100% 
+
+37 
+
+6 
+
+ Learning objectives and 
+skills 
+
+10 
+
+ Method of examination 
+
+11 
+
+ Grading procedure 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  WS: 2. Semester; SS: 1. Semester 
+Module compatibility 
+
+keine 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Zusätzlich aufgrund von Corona: 
+Es besteht die Möglichkeit einer freiwilligen Notenverbesserung, 
+wobei eine Verbesserung um bis zu 0,3 Notenstufen erfolgen kann. 
+Dazu können Studierende auf StudOn Online-Kurztests (Quizze) 
+zur Aufbereitung des Vorlesungsstoffs bearbeiten. Die 
+Notenverbesserung erfolgt, wenn die Quizze erfolgreich bearbeitet 
+wurden sowie die Klausur mit der Note 4,0 oder besser bestanden 
+wurde. 
+jährlich im Sommersemester 
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Die vorbereitende Literatur und auch die weitergehende, 
+
+Deutsch 
+
+forschungsbezogene Literatur werden im Rahmen der 
+Veranstaltung bekannt gegeben. 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+38 
+
+  
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+1  Module name 
+
+MSE-53313 
+
+Multivariate time series analysis 
+
+2 
+
+3 
+
+Courses/lectures 
+
+L: Multivariate time series analysis (2SWS) 
+E: Multivariate time series analysis (2SWS) 
+
+Lecturers 
+
+Prof. Dr. Jonas Dovern and colleagues 
+
+5 ECTS 
+
+2.5 ECTS 
+2.5 ECTS 
+
+4  Module coordinator 
+5 
+
+Contents  
+
+6 
+
+Learning objectives and 
+skills 
+
+7 
+
+8 
+
+Recommended 
+prerequisites 
+
+Integration in 
+curriculum 
+
+9  Module compatibility 
+
+Prof. Dr. Jonas Dovern and assistants 
+
+Brief repetition of concepts of univariate time series analysis; 
+stationary vector autoregressive (VAR) processes: basics, 
+estimation, lag order selection, specification testing, forecasting; 
+structural VAR models: various methods for identifying 
+macroeconomic shocks; non-stationary/integrated processes: 
+spurious correlation vs. cointegration, error correction models; 
+multivariate GARCH models. 
+Ability to independently analyze multivariate stationary time series 
+using vector autoregressive processes; ability to explain the 
+problems of identifying structural macroeconomic shocks and 
+ability to estimate and interpret SVAR models; ability to test for 
+spurious correlations between integrated time series and ability to 
+specify and estimate models for cointegrated time series; ability to 
+explain and estimate basic multivariate GARCH models; skills for 
+using existing functions in R for time series analysis and for 
+developing proprietary functions for analyzing multivariate time 
+series in R. 
+
+Proficiency in univariate time series analysis and basic concepts of 
+econometrics 
+
+2. semester 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich  
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (MSE-
+53313) 
+ Master in Marketing (start before WS17/18): Wahlpflichtbereich 
+Modulgruppe “Methoden” 
+Master in Marketing (start since WS17/18): Wahlpflichtbereich 
+Modulgruppe “Data Science”  
+Master in Sozialökonomik: freier Vertiefungsbereich (MSE-53313) 
+
+10  Method of examination  written examination (60 minutes) 
+
+11  Grading procedure 
+
+If initial examination can´t be realized due to Corona: 
+homework assignment (“Hausarbeit”) 
+written examination (100%) 
+
+12  Module frequency 
+
+If initial examination can´t be realized due to Corona: 
+homework assignment (100%) 
+Good results for online quizzes during the semester can improve 
+the grade up to 0,7 points. 
+Annually in the summer term 
+
+39 
+
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+13  Workload 
+
+14  Module duration 
+15  Teaching and 
+
+16 
+
+examination language 
+(Recommended) 
+reading 
+
+Study start: winter semester 2015/16 
+
+Presence: 60h 
+Independent study: 90h 
+1 semester 
+
+English 
+
+Lütkepohl, H. (2005), New Introduction to Multiple Time Series 
+
+Analysis, Springer. 
+
+Kilian, L. and H. Lütkepohl (2017), Structural Vector 
+
+Autoregressive Analysis (Themes in Modern Econometrics), 
+Cambridge University Press, Cambridge. 
+
+Tsay, R.S. (2005), Analysis of Financial Time Series, 2nd edition, 
+Wiley. (alternatively 3rd edition from 2010). 
+Verbeek, M. (2008), A Guide to Modern Econometrics,, 3rd edition, 
+Wiley. 
+
+40 
+
+  
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+Modulbezeichnung 
+FACT- 56470 
+Lehrveranstaltungen 
+
+Lehrende 
+
+Versicherungs- und Risikotheorie  
+(Risk and insurance theory) 
+V + Ü (2 + 1 SWS): Versicherungs- und Risikotheorie  
+(Risk and insurance theory) 
+Prof. Gatzert und Mitarbeitende 
+
+5 ECTS 
+
+5 ECTS 
+
+Modulverantwortliche/r  Prof. Gatzert 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Inhalt 
+
+6 
+
+Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+Entscheidung bei Sicherheit, Unsicherheit, Risiko; 
+Risikomessung, Risikowahrnehmung, Risikobeeinflussung 
+(Vorgehen und Methoden); Risikobewertung am Beispiel der 
+Versicherungsnachfrage und des Versicherungsangebots 
+(individuell und aus Unternehmenssicht); Problematik der 
+Informationsasymmetrien (Adverse Selektion, Moral Hazard); 
+Enterprise Risk Management 
+- Die Studierenden können Kenntnisse über die zentralen 
+Konzepte der Risikobewertung und der Risikotheorie beurteilen 
+und hinterfragen 
+- Die Studierenden können die moderne Methodik der 
+ökonomischen Theorie von Erstversicherungsentscheidungen 
+erschließen und diese auf relevante Fragestellungen anwenden 
+- Die Studierenden erlernen den Umgang mit Risiken, die 
+Bewertung von Unternehmen sowie die internationale 
+Kapitalbeschaffung  
+keine 
+
+WS: 1. Semester; SS: 2. Semester 
+
+Master FACT: Pflichtbereich 
+Master Management: Vertiefungsbereich  
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Wahlbereich  
+Master Arbeitsmarkt und Personal: Wahlbereich  
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich  
+60-minütige Klausur 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+Studien- und 
+Prüfungsleistungen 
+Berechnung Modulnote  Klausur (100%) 
+
+Turnus des Angebots 
+
+jährlich im WS 
+
+Arbeitsaufwand 
+
+Dauer des Moduls 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1. Semester 
+
+Unterrichts- und 
+Prüfungssprache 
+
+(Vorbereitende) 
+Literatur 
+
+Deutsch 
+
+Die vorbereitende und weitergehende, forschungsbezogene 
+Literatur wird im Rahmen der Veranstaltung bekannt gegeben. 
+
+41 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Macroeconomics and Finance 
+
+Study start: winter semester 2015/16 
+
+1 
+
+2 
+
+ Module name 
+MIBS-57130 
+ Courses/lectures  
+
+3 
+
+ Lecturers 
+
+International trade and labor  
+
+V: International trade and labor (2 SWS) 
+Ü: International trade and labor (2 SWS) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Christoph Moser 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+ Recommended 
+prerequisites 
+
+8 
+
+9 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+This module deals with the consequences of globalization for the 
+domestic labor market and discusses the winners and losers of 
+trade liberalization. The module focuses on the impact of 
+international economic integration on domestic wages, jobs and 
+inequality, in particular in Germany and the United States. 
+Students are made familiar with the main relevant concepts of 
+international trade and aquire specialized knowledge of the labor 
+market effects of trade liberalization. Students learn about key 
+theoretical predictions, their empirical evidence and the empirical 
+strategies to assess their relevance. The module focuses on topics 
+at the intersection between international trade and labor. 
+Basic knowledge of microeconomics and econometrics. (e.g., 
+Varian, Hal (2014), Intermediate Microeconomics: A Modern 
+Approach, 9th international edition) and econometrics (e.g., 
+Wooldridge, Jeffrey (2013), Introductory Econometrics: A Modern 
+Approach, 5th international edition). 
+ Semester 1 or 3 
+
+Master Economics: elective course (Wahlbereich) 
+Master IBS: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+
+10 
+
+ Method of examination  Written examination 60 min. (Klausur 60 Min.) 
+
+11 
+
+ Grading procedure 
+
+Written examination result 100% (Prüfungsergebnis 100%) 
+
+12 
+
+ Module frequency 
+
+Winter term (WS) 
+
+13 
+
+ Workload 
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60h 
+Self-study: 90h 
+1 semester 
+
+English 
+
+Krugman, P., M. Obstfeld and M. Melitz (2017/18), “International 
+Trade: Theory and Policy” OR “International Economics: Theory 
+and Policy,” 11th global edition. 
+
+42 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+1  Module name 
+MARK 57340 
+Courses/lectures  
+
+2 
+
+Bayesian Econometrics  
+
+5 ECTS 
+
+Lecture: Bayesian Econometrics (2 SWS) 
+Practice session: Bayesian Econometrics (2 SWS) 
+
+2,5 ECTS 
+2,5 ECTS 
+
+Lecturers 
+
+Prof. Dr. Jonas Dovern and colleagues 
+
+Module coordinator 
+
+Prof. Dr. Jonas Dovern 
+
+3 
+
+4 
+
+5 
+
+Contents  
+
+6 
+
+Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+Recommended 
+prerequisites 
+
+Integration in 
+curriculum 
+Module compatibility 
+
+Basics of Bayesian statistics; Bayesian estimation of linear 
+regression models with various priors; Bayesian estimation of 
+models for limited dependent variables; Bayesian VAR models; 
+forecasting with Bayesian models; Bayesian estimation of 
+macroeconomic DSGE models; posterior simulation techniques 
+(Monte Carlo integration, importance sampling, Gibbs sampler, 
+Metropolis-Hastings algorithm); implementation of methods in R 
+Ability to explain the differences between Bayesian and frequentist 
+econometrics; ability to derive posterior parameter distributions for 
+different priors for a range of empirical models; ability to 
+investigate how sensitive results are with respect to prior choices; 
+ability to interpret results of Bayesian analyses in academic 
+research papers; skills to implement Bayesian estimations of the 
+covered models in R 
+Basic knowledge in statistics 
+Courses: “Applied econometrics” and “Mathematics for 
+economists” 
+2. or 4. semester 
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Marketing für Studierende mit Studienbeginn ab 17/18: 
+Wahlpflichtbereich der Modulgruppe „Data Science“ 
+Master Marketing für Studierende mit Studienbeginn vor 17/18: 
+Wahlpflichtbereich der Modulgruppe „Methoden“ 
+Master Sozialökonomik: Freier Vertiefungsbereich 
+
+10  Method of examination  Oral examination (20 minutes) 
+
+11  Grading procedure 
+
+Oral examination (100 %) 
+
+12  Module frequency 
+
+Annually in the summer term 
+
+13  Workload 
+
+14  Module duration 
+
+Attendance: 60h 
+Independent study: 90h 
+1 semester 
+
+15  Teaching and 
+
+English 
+
+16 
+
+examination language 
+(Recommended) 
+reading 
+
+Koop, G. (2003), Bayesian Econometrics, Wiley, West Sussex.  
+Del Negro, M. and F. Schorfheide (2011), Bayesian 
+Macroeconomics, in: Geweke, J., G. Koop, and H. van Dijk (eds.), 
+The Oxford Handbook of Bayesian Econometrics, p.293–389, 
+Oxford University Press, Oxford. 
+Kilian, L. and H. Lütkepohl (2017), Structural Vector 
+Autoregressive Analysis, Cambrige University Press, Cambridge. 
+
+43 
+
+  
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+44 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Macroeconomics and Finance 
+
+1 
+
+2 
+
+ Module Name 
+MSE-57400 
+ Courses/Lectures 
+
+European topics in economics 
+
+S: European topics in economics 
+
+3 
+
+ Lecturers 
+
+Prof. Merkl and Assistants 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Module coordinator 
+
+Prof. Merkl 
+
+ Contents 
+
+- European topics in economics 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatability 
+
+Students 
+
+-  use a microeconomic or macroeconomic dataset. 
+-  apply advanced econometric techniques to answer 
+economic questions related to the European Union. 
+-  write a seminar work that describes key empirical results. 
+-  present their results in Brussels. 
+
+ „Macroeconomics: Business Cycles“ and „Applied Econometrics“  
+
+2. or 4. Semester 
+
+Master in Economics –Specialization Macroeconomics and 
+Finance 
+
+10   Method of examination  Written seminar work (15 pages) and presentation (15 minutes) 
+
+11   Grading procedure 
+
+S: 100% 
+
+12   Module frequency 
+
+Module will be offered once during the summer term 2020. 
+
+13   Workload 
+
+14   Module duration 
+
+Presence time: 45 h  
+Own work: 105 h  
+1 Semester 
+
+15   Teaching and 
+
+English 
+
+examination procedure 
+
+16   (Recommended)  
+
+. 
+
+reading 
+
+45 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Macroeconomics and Finance 
+
+1 
+
+2 
+
+ Module Name 
+MWI 57480 
+ Courses/Lectures 
+
+Public Budget Management 
+
+S: Public Budget Management 
+
+3 
+
+ Lecturers 
+
+Prof. Merkl and Assistants 
+
+Study start: winter semester 2015/16 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Module coordinator 
+
+Prof. Merkl 
+
+ Contents 
+
+- Public Budget Management 
+
+ Learning objectives and 
+skills 
+
+Students 
+
+-  use a dataset provided by the City of Munich. 
+-  apply econometric techniques to answer questions related 
+
+to the budget of the City of Munich. 
+
+-  write a seminar work that describes key empirical results. 
+-  present their results at the City Treasury in Munich. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatability 
+
+„Applied Econometrics“  
+
+2. or 4. Semester 
+
+Master in Economics 
+
+10 
+
+ Method of examination  Written seminar work (15 pages) and presentation (15 minutes) 
+
+11 
+
+ Grading procedure 
+
+S: 100% 
+
+12 
+
+ Module frequency 
+
+Module will be offered once during the winter term 19/20. 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+Presence time: 45 h  
+Own work: 105 h  
+1 Semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination procedure 
+ (Recommended)  
+reading 
+
+German 
+
+. 
+
+46 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-54611 
+ Courses/lectures 
+
+Public economics  
+
+L: Public Economics (2 hours) 
+T: Public Economics(2 hours) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Büttner, Dr. Boryana Madzharova and assistants 
+
+ Module coordinator 
+
+Prof. Büttner 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+The lecture provides an introduction in public economics at the 
+intermediate level. The course first derives the basic theoretical 
+foundations for an optimal design of public policy. In the second 
+step, the course discusses specific aspects of public policy, such 
+as taxation and redistribution, social security, tax evasion, debt 
+finance, interjurisdictional competition and fiscal federalism. It 
+supplements theory by exploring practical problems. 
+Students know how to characterize efficient public policies using 
+microeconomic decision models. They can use this framework to 
+study public policy in a rigorous and consistent general equilibrium 
+context. Students are acquainted with important empirical 
+approaches to evaluate public policies quantitatively. Moreover, 
+they acquire knowledge about options, methods and limits to 
+implement efficient public policy 
+Basic microeconomics 
+
+2nd Semester in MSE, FACT,  
+2nd Semester in Wing 
+Master Economics: Elective compulsory subjects 
+Master Wirtschaftsingenieurwesen: Wahlbereich 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+ Method of examination  Written exam (90 minutes) 
+ Grading procedure 
+
+Written exam (100%) 
+
+ Module frequency 
+
+ Workload  
+
+Summer semester 
+Attendance: 60 h 
+Independent Study: 90 h 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+1 semester 
+
+English 
+
+Hindriks, J., and Myles, G., (2006), Intermediate Public 
+Economics, MIT Press, Cambridge 
+Atkinson, A.B., Stiglitz, J. E., (1980), Lectures on Public 
+Economics . MacGraw-Hill, New York 
+Lecture notes are provided at the beginning of the course 
+
+47 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-53281 
+ Courses/lectures 
+
+Behavioral economics 
+
+Lecture: Behavioral economics (2 SWS) 
+Exercise: Behavioral economics (1 SWS) 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Grimm and assistants 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Module coordinator 
+
+Prof. Grimm 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+The course provides a theoretical and empirical introduction into 
+the area of “Behavioral Economics”. This relatively new area of 
+economics research wants to identify important deviations from the 
+predictions of classical economics models and to extend existing 
+models to account for these findings. 
+In the course the method of experimental economics is introduced 
+and its use for behavioral oriented research is learned. Students 
+learn the skill of using empirical and experimental studies as 
+complements to theory in the study of strategic interactions. 
+Completed Bachelor degree in Economics or in a related 
+discipline, Microeconomics I and II 
+
+2. semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Marketing mit Studienbeginn ab WS17/18: Wahlmodul in 
+der Modulgruppe „Interdisziplinäre Module“  
+Master Marketing mit Studienbeginn vor WS17/18: Wahlmodul in 
+der Modulgruppe „Sonstiges“ 
+ Method of examination  Written examination (90 min.) 
+ Grading procedure 
+
+Written examination (100%) 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Annually in the summer term 
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+English 
+
+Camerer, Colin F. (2003), Behavioral Game Theory: Experiments 
+on Strategic Interaction, Princeton Univ. Press. 
+Journale articles, announcement on chair website 
+
+48 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+  Module name 
+MSE-56441 
+
+Economic internship 
+
+2 
+
+  Courses/lectures 
+
+P: External economic internship 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+  Lecturers 
+
+Prof. Büttner / Prof. Grimm / Prof. Merkl / Prof. Riphahn 
+/ Prof. Tauchmann 
+
+4 
+
+  Module coordinator 
+
+5 
+
+  Contents 
+
+6 
+
+  Learning objectives and 
+
+skills 
+
+7 
+
+8 
+
+  Recommended 
+prerequisites 
+Integration in 
+curriculum 
+
+9 
+
+  Module compatibility 
+
+Prof. Büttner / Prof. Grimm / Prof. Merkl / Prof. Riphahn / Prof. 
+Tauchmann 
+Economic internship with research institutes, international organ-
+izations, research departments of firms in relation to the Master 
+specialisation (Public, Labor, Macro & Finance, Health, or Energy) 
+Students obtain the chance to familiarize themselves with labor 
+market opportunities for economists and learn how to apply eco-
+nomic concepts and methods in practice. Students also expand 
+their command of important soft skills, including presentation 
+techniques and communication skills. The participants exchange 
+their practical experiences and insights and develop a critical 
+reflection on economic practice and job market opportunities. 
+Students should have completed all courses of the first semester. 
+
+Internship typically during the summer break. Presentation during 
+the following semester. Please take notice of the application 
+deadlines (communicated by the lecturer responsible for the re-
+spective specialisation)  
+Master Economics: Elective compulsory subjects 
+ (Module does not belong to any specialisation) 
+
+10    Method of examination  Completed internship; written self-report; presentation of self-
+
+11    Grading procedure 
+
+12    Module frequency 
+
+13    Workload  
+
+report 
+No grades (passed/failed) 
+Internship typically during the summer break. Presentation during 
+the following semester. Please take notice of the application 
+deadlines (communicated by the responsible lecturers for the 
+respective specialisation) 
+300 h (= 6 weeks internship (full time), self-report, presentation) 
+
+14    Module duration 
+
+1 Semester 
+
+15    Teaching and 
+
+16   
+
+examination language 
+(Recommended) 
+reading 
+
+German and English 
+
+Please note:  
+The number of internships is limited. Interested students have to 
+apply at the external institution with recommendation by the lec-
+turer responsible for the respective specialisation. Students can in 
+principle also be credited for other internships provided they are 
+sufficiently associated with economic research and fit into one of 
+the areas. An upfront written agreement with the respective 
+lecturer is required. 
+
+49 
+
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+ Modulbezeichnung 
+A&P- 53082 
+ Lehrveranstaltungen 
+
+1 
+
+2 
+
+Ökonomie der Sozialpolitik  
+(Economics of Social Policy) 
+S: Ökonomie der Sozialpolitik (3 SWS) 
+(Anwesenheitspflicht) 
+Prof. Wrede und Mitarbeiter/in 
+
+3 
+
+ Lehrende 
+
+5 ECTS 
+
+5 ECTS 
+
+4  Modulverantwortliche/r  Prof. Wrede 
+
+5 
+
+Inhalt 
+
+6  Lernziele und 
+Kompetenzen 
+
+7  Empfohlene 
+
+Voraussetzungen für 
+die Teilnahme 
+8  Einpassung in 
+
+9 
+
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10  Studien- und 
+
+Prüfungsleistungen 
+
+Ausgewählte ökonomische Analysen der Sozialpolitik unter 
+Einschluss ethischer und ökonomischer Grundlagen sowie 
+institutioneller Aspekte 
+-  Studierende kennen  ausgewählte  Bereiche  der Sozialpolitik  und 
+
+können diese beschreiben und international vergleichen. 
+
+-  Studierende  können  ethische  und  ökonomische  Grundlagen 
+staatlicher Eingriffe in ausgewählten Bereichen sozialer Sicherung 
+darstellen, interpretieren und diskutieren. 
+
+-  Studierende können Wirkungen sozialpolitisch relevanter Größen 
+theoretisch und empirisch verstehen, bewerten und hinterfragen. 
+-  Studierende können sozialpolitische Maßnahmen unter Effizienz- 
+und Gerechtigkeitsgesichtspunkten bewerten und hinterfragen. 
+
+-  Studierende  geben 
+
+Ihren  Kommilitonen 
+
+im  Rahmen 
+
+ihrer 
+
+Präsentationen strukturiertes Feedback. 
+
+-  Studierende 
+
+fördern  die  Fachkenntnisse  der  anderen 
+
+Studierenden durch themenspezifische Diskussionsbeiträge. 
+
+-  Studierende  erfassen,  bewerten  und  diskutieren  ausgewählte 
+aktuelle,  meist  englischsprachige  Forschungsarbeiten  in  Ihrer 
+Seminararbeit. 
+
+Mikroökonomische und ökonometrische Kenntnisse 
+
+2. Semester 
+
+Master Arbeitsmarkt und Personal: Wahlpflichtbereich (A&P 3081) 
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich  
+Master Economics: Wahlbereich  
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Wahlbereich; 
+Studienrichtung II: Wahlbereich im Zweitfach Sozialkunde 
+Master Sozialökonomik: sozialökonomischer Vertiefungsbereich 
+oder freier Vertiefungsbereich 
+
+Modulprüfung bestehend aus Seminararbeit (15 S.), Präsentation 
+(20 Min.), Diskussionsbeitrag (10 Min.)  
+
+Es handelt sich um eine zusammenhängende Prüfung, deren Teile 
+untrennbar verbunden sind und nicht einzeln wiederholt werden 
+können. Die Prüfung muss in einem Semester vollständig 
+bestanden werden (im Sinne von § 19 Abs. 1 Satz 4 MPOWiSo). 
+Bei Nichtbestehen eines einzelnen Teils ist die gesamte Prüfung 
+zu wiederholen (abweichend von § 25 Abs. 1 Satz 2 MPOWiSo). 
+11  Berechnung Modulnote  Seminararbeit 60%, Präsentation 30%, Diskussionsbeitrag 10% 
+
+50 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+12  Turnus des Angebots 
+
+13  Arbeitsaufwand 
+
+14  Dauer des Moduls 
+
+15  Unterrichts- und 
+Prüfungssprache 
+
+Jährlich im Sommersemester 
+Präsenzzeit: 45 h 
+Selbststudium: 105 h 
+1 Semester 
+Deutsch 
+
+51 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Public Economics 
+
+Study start: winter semester 2015/16 
+
+1 
+
+2 
+
+ Module name 
+MSE-52930 
+ Courses/lectures 
+
+Seminar behavioral economics 1  
+
+S: Seminar behavioral economics 1 (3 SWS) 
+(Compulsory attendance) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Grimm, Prof Utikal, and assistants 
+
+ Module coordinator 
+
+Prof. Grimm and Prof. Utikal 
+
+4 
+
+5 
+
+ Contents  
+
+The seminar sheds light on various issues in “market and 
+institution design” focusing on selected applications. Market and 
+institution design applies methods of game theory and 
+(behavioral) economics to develop effective market rules. In this 
+seminar, the focus will lie on market rules of various markets such 
+as labor-markets or markets in the sector of health or public 
+economics. In different market environments, phenomena like 
+trust, social preferences, or bounded rationality are important. 
+Understanding these aspects is of key importance for specifying 
+the details of a particular market environment. In the seminar, we 
+will analyse the peculiarities of selected markets and their 
+implications for the effective organization of those markets from a 
+theoretical and/or behavioural perspective.  
+Students 
+
+-  Analyze the peculiarities of markets and their operating 
+
+mode within the frame of complex theoretic and behavioral 
+models, 
+
+-  Discuss the validity of those models based on 
+
+experimental or empirical studies, 
+
+-  Evaluate, based on the literature, different market and 
+
+institution designs, 
+
+-  Autonomously analyze complex questions and develop 
+
+solution concepts 
+
+-  Are able to write a relevant theoretic or empirical scientific 
+
+essay, 
+
+-  Develop their presentation skills. 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  2. or 3. semester 
+
+Solid knowledge of microeconomics 
+
+ Module compatibility 
+
+Master Economics: Elective compulsory subjects 
+Master Marketing für Studierende mit Studienbeginn ab WS17/18: 
+Wahpflichtbereich der Modulgruppe „Statistik“ 
+
+10 
+
+ Method of examination  Developing and writing a seminar paper (50%), presentation of 
+
+11 
+
+ Grading procedure 
+
+12 
+
+13 
+
+ Module frequency 
+
+ Workload 
+
+the paper (30%), class participation: discussion of a fellow 
+student’s paper (20%) 
+50% written seminar paper, 30% presentation, 20% class 
+participation 
+Each term 
+Presence: 45h 
+Independent study: 105h 
+
+52 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+1 semester 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Changing recent scientific literature 
+
+English 
+
+Study start: winter semester 2015/16 
+
+53 
+
+  
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-52940 
+ Courses/lectures 
+
+Seminar behavioral economics 2  
+
+S: Seminar behavioral economics 2 (3 SWS) 
+(Compulsory attendance) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Grimm, Prof. Utikal, and assistants 
+
+ Module coordinator 
+
+Prof. Grimm and Prof. Utikal 
+
+4 
+
+5 
+
+ Contents 
+
+The seminar deals with theories and methods from behavioural 
+and experimental economics. Although behavioral and 
+experimental economics are relatively recent fields of research, 
+many insights have been gained from applying the methods of the 
+field to key economic questions. Relevant topics include, but are 
+not limited to, nudging (in the sector of health, labor, public and 
+energy economics), norm compliance (mainly public and labor 
+economics), social preferences (mainly health and labor 
+economics) or uncertainty preferences (energy economics). 
+Depending on the topic of the seminar, questions of experimental 
+design, conducting studies and analysis of behavioural data can 
+be dealt with.  
+Students 
+
+-  Gain fundamental understanding of the methods of 
+
+behavioral and experimental economics, 
+-  Learn to autonomously apply those methods, 
+-  Conceptualize own research ideas, 
+-  Analyze the peculiarities of complex economic situations, 
+-  Develop their presentation skills. 
+
+Solid knowledge of microeconomics 
+
+2. or 3. semester 
+
+Master Economics: Elective compulsory subjects 
+Master Marketing für Studierende mit Studienbeginn ab WS17/18: 
+Wahpflichtbereich der Modulgruppe „Statistik“ 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+10 
+
+ Method of examination  Developing and writing a seminar paper (50%), presentation of the 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+paper (30%), class participation: discussion of a fellow student’s 
+paper (20%) 
+50% written seminar paper, 30% presentation, 20% class 
+participation 
+Annually in the winter term 
+
+Presence: 45h 
+Independent study: 105h 
+1 semester 
+
+English 
+
+Camerer, Löwenstein and Rabin (2003), Advances in Behavioral 
+Economics, Princeton University Press. 
+Changing recent scientific literature 
+
+54 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Public Economics 
+ Module name 
+MSE-52950 
+ Courses/lectures 
+
+Seminar public economics 1 
+
+Seminar public economics 1 (3 SWS)  
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+1 
+
+2 
+
+4 
+
+5 
+
+6 
+
+3 
+
+ Lecturers 
+
+Prof. Büttner, Prof. Rincke, Prof. Wrede 
+
+ Module coordinator 
+
+Prof. Büttner, Prof. Rincke, Prof. Wrede 
+
+ Contents 
+
+Topics in Public Economics 
+
+ Learning objectives and 
+skills 
+
+Students 
+- study selected parts of the academic literature in public 
+economics (mostly from scientific journals) and learn how to deal 
+with this literature 
+- learn how to identify relevant contributions in large bodies of 
+economic literature 
+- learn what up-to-date methods (theory and empirics) in public 
+economics are 
+- learn how to read economic papers and to evaluate and assess 
+contributions, both in terms of theory and empirical methods 
+- learn how to delineate conclusions from the academic literature in 
+terms of policy implications and recommendations 
+- learn how to structure and write academic theses in economics 
+- expand their skills in terms of presentation techniques and 
+participation in academic discussion 
+All techniques and methods that are part of the curriculum in the 
+first semester 
+2. semester 
+
+Master Economics: Elective compulsory subjects 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+10 
+
+ Method of examination  Seminar paper (15 pages), Presentation, class participation: 
+
+Discussion of other participants’ presentations 
+
+This is a complete examination which means that the partial 
+achievements cannot be separated. Pursuant to Section 19 (1) (4) 
+MPOWIWI, all partial achievements must be completed in the 
+same semester to pass the module. As the partial achievements 
+are connected, repeating only one partial achievement is not 
+permitted in deviation to Section 25 (1)(2) MPOWIWI. Failing one 
+partial achievement requires the entire examination to be repeated.  
+Seminar paper 50%, Presentation 30%, class participation 20% 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+Annually in the summer term 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Seminar attendance: 45 h 
+Independent study: 105 h 
+1 semester 
+
+English 
+
+Will be provided  
+
+55 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Public Economics 
+
+1 
+
+  Module name 
+MSE-52960 
+1.    Courses/lectures 
+
+Seminar public economics 2 
+
+Seminar public economics 2 (3 SWS)  
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+2 
+
+ Lecturers 
+
+Prof. Büttner, Prof. Rincke, Prof. Wrede 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+ Module coordinator 
+
+Prof. Büttner, Prof. Rincke, Prof. Wrede 
+
+ Contents 
+
+Topics in Public Economics 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+Students 
+- study selected parts of the academic literature in public 
+economics (mostly from scientific journals) and learn how to deal 
+with this literature 
+- learn how to identify relevant contributions in large bodies of 
+economic literature 
+- learn what up-to-date methods (theory and empirics) in public 
+economics are 
+- learn how to read economic papers and to evaluate and assess 
+contributions, both in terms of theory and empirical methods 
+- learn how to delineate conclusions from the academic literature in 
+terms of policy implications and recommendations 
+- learn how to structure and write academic theses in economics 
+- expand their skills in terms of presentation techniques and 
+participation in academic discussion 
+All techniques and methods that are part of the curriculum in the 
+first semester 
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+ Method of examination  Seminar paper (15 pages), Presentation, class participation: 
+
+Discussion of other participants’ presentations 
+
+This is a complete examination which means that the partial 
+achievements cannot be separated. Pursuant to Section 19 (1) (4) 
+MPOWIWI, all partial achievements must be completed in the 
+same semester to pass the module. As the partial achievements 
+are connected, repeating only one partial achievement is not 
+permitted in deviation to Section 25 (1)(2) MPOWIWI. Failing one 
+partial achievement requires the entire examination to be repeated. 
+Seminar paper 50%, Presentation 30%, class participation 20% 
+
+10 
+
+ Grading procedure 
+
+11 
+
+ Module frequency 
+
+Annually in the winter term 
+
+12 
+
+ Workload  
+
+13 
+
+14 
+
+15 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Seminar attendance: 45 h 
+Independent study: 105 h 
+1 semester 
+
+English 
+
+Will be provided  
+
+56 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Public Economics 
+
+1 
+
+  Module name 
+MSE-55960 
+
+2 
+
+  Courses/lectures 
+
+3 
+
+  Lecturers 
+
+Spatial economics 
+
+L: Spatial economics (2 SWS) 
+E: Spatial economics (2 SWS) 
+Prof. Wrede and assistants 
+
+Study start: winter semester 2015/16 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+Module coordinator 
+
+Prof. Wrede 
+
+Contents 
+
+Learning objectives and 
+skills 
+
+Urban Economics, Trade, Mobility, and Agglomeration, Spatial 
+Concentration, Regional Policy 
+At the end of this course,  
+
+-  Students are able to describe and to internationally 
+
+compare the regional patterns of major economic activities 
+in terms of stylized facts. 
+
+-  Students are able to present, interpret, and discuss 
+selected theories in regional and urban economics. 
+
+-  Students are able to apply and assess selected empirical 
+
+methods in spatial economics. 
+
+-  Students are able to assess empirical tests of selected 
+
+hypotheses from theories in regional and urban economics 
+to evaluate and critically examine their informative value. 
+-  Students are able to discuss and evaluate regional political 
+implications of selected economic theories in regional and 
+urban economics. 
+
+-  Students will assess, evaluate and discuss selected recent 
+
+research papers in English. 
+
+Microeconomics, Econometrics I 
+
+2nd Semester or later 
+
+Master Economics: Elective compulsory subjects 
+
+L&T: written examination (60 min.) and presentation during the 
+lecture (in groups, 10 min.); students need to pass the written 
+examination 
+Written examination 80%, presentation 20% 
+
+Annually (summer semester); registration at the end of the winter 
+term 
+Presence: 60 h 
+Independent study: 90 h 
+1 semester 
+
+English 
+
+Brakman, S., H. Garretsen und C. van Marrewijk (2020). An 
+Introduction to Geographical and Urban Economics. Cambridge 
+University Press. Cambridge, UK, 3. Ed. 
+
+57 
+
+7 
+
+8 
+
+9 
+
+Recommended 
+prerequisites 
+Integration in 
+curriculum 
+Module compatibility 
+
+10  Method of examination 
+
+11  Grading procedure 
+
+12  Module frequency 
+
+13  Workload  
+
+14  Module duration 
+
+15  Teaching and 
+
+16 
+
+examination language 
+(Recommended) 
+reading 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+2 
+
+ Module name 
+MSE-56410 
+ Courses/lectures 
+
+Taxation and labor supply  
+
+5 ECTS 
+
+L: Taxation and labor supply (2 semester hours) 
+E: Taxation and labor supply (2 semester hours) 
+
+2,5 ECTS 
+2,5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Büttner and assistants  
+
+ Module coordinator 
+
+Prof. Büttner 
+
+4 
+
+5 
+
+ Contents 
+
+The module is concerned with the effects of taxation and welfare 
+programs on the labor supply of private households from a 
+theoretical as well as an empirical perspective. The module covers 
+implications for the supply of hours, participation decisions, and tax 
+evasion. Various details of the tax system are considered including 
+progressive income taxes and allowances, consumption taxes, 
+and also welfare aid. Key contributions and controversies are 
+reviewed and recent approaches to empirical testing and 
+identifying tax effects in the data are discussed.  
+Students are able to apply the economic decision model to 
+questions of household taxation and to analyse the consequences 
+of key features of the tax system on labour supply decisions 
+including hours and participation. Students understand how 
+microeconomic theory can be used to make quantitative 
+assessments of tax systems, and how to analyse the main 
+empirical results and studies which are used in the current policy 
+studies. Moreover, they are acquainted with new econometric 
+approaches to study effects of taxation on labour supply decisions. 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+Microeconomics 
+
+3. semester  
+
+Master Economics: Elective compulsory subjects 
+Master FACT: Vertiefungs- und Ergänzungsbereich  
+Master Arbeitsmarkt und Personal: Wahlbereich 
+
+10 
+
+11 
+
+ Method of examination  Written examination (90 minutes) 
+ Grading procedure 
+
+Written examination (100%) 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+Winter semester 
+Attendance: 60 h 
+Independent study: 90 h 
+
+14 
+
+ Module duration 
+
+1. Semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+English 
+
+Prescott, E. C., (2004), Why do Americans work so much more 
+than Europeans, Federal Reserve Bank of Minneapolis Quarterly 
+Review, 28, 2-13.Lecture notes are provided at the beginning of 
+the course. 
+
+58 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+1 
+
+  Module name 
+MSE-57330 
+
+2 
+
+  Courses/lectures 
+
+Development economics 
+
+5 ECTS 
+
+Lecture: Development economics (2 SWS)  
+Exercise: Development economics (2 SWS) 
+
+2,5 ECTS 
+2,5 ECTS 
+
+3 
+
+  Lecturers 
+
+Prof. Rincke and Assistants 
+
+Module coordinator 
+
+Prof. Rincke 
+
+4 
+
+5 
+
+Contents  
+
+The lecture covers the principles of modern development 
+economics and, using various examples from the current literature, 
+highlights the core topics, the methodological challenges, and the 
+key findings derived in this sub-discipline of economics. The 
+lecture covers decisions of individuals and households and thus 
+has a clear microeconomic focus. A core topic of the lecture is why 
+poor individuals and households are often struggling to leave 
+poverty and to advance to more adequate living conditions, and 
+which policies can help to overcome poverty traps. In the exercise 
+course, the focus is on advanced empirical methods and their 
+application to problems of development. Students work with data 
+sets and replicate core findings from the literature. 
+The module aims at providing students with a comprehensive set of 
+advanced conceptual and methodological tools to analyse problems 
+in development economics. Specifically, students 
+- get an overview of modern development economics and 
+  the history of thought in this sub-discipline 
+- learn how to analyse specific problems in development 
+  economics, based on the current journal literature 
+- deal intensively with applied methods in modern development  
+  economics, in particular with experimental methods and  
+  advanced methods of data analysis 
+- learn to understand, evaluate and replicate empirical studies in 
+  development economics 
+- advance their ability to perform independent data analyses using 
+  complex data sets from the academic literature 
+Completion of all compulsory courses in the MSE program, in 
+particular Microeconomics, Applied Econometrics, and 
+Mathematics for Economists 
+3. Semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+- Written exam (60 min) 
+- Presentation (30 min) 
+Written exam: 50%, presentation 50% 
+
+6 
+
+Learning objectives and 
+skills 
+
+7 
+
+8 
+
+Recommended 
+prerequisites 
+
+Integration in 
+curriculum 
+
+ 9  Module compatibility 
+
+10  Method of examination 
+
+11  Grading procedure 
+
+12  Module frequency 
+
+Each year (winter term) 
+
+13  Workload 
+
+14  Module duration 
+
+Lecture and exercise attendance: 45 h 
+Individual studies: 105 h 
+1 Semester 
+
+59 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15  Teaching and 
+
+English 
+
+16 
+
+examination language 
+(Recommended) 
+reading 
+
+Selection of journal articles, provided on StudOn 
+
+Study start: winter semester 2015/16 
+
+60 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+ Module name 
+MSE-53295 
+ Courses/lectures  
+
+Economics of Innovation   
+
+L: Economics of Innovation  (2 SWS) 
+T Economics of Innovation  (2 SWS 
+
+ECTS 
+5 
+ECTS 
+5 
+
+1 
+
+2 
+
+4 
+
+5 
+
+3 
+
+ Lecturers 
+
+Prof. Dr. Markus Nagler  
+
+ Module coordinator 
+
+Prof. Dr. Markus Nagler 
+
+ Contents  
+
+The lecture provides an introduction to economic issues of 
+innovation and new ideas. The course first sets out general 
+problems in the economics of innovation such as the public goods 
+nature of ideas and the importance of innovation for economic 
+prosperity. In the second part, the course analyses issues in 
+intellectual property rights and public economics topics such as  
+public funding of research or the role of universities. In the last 
+part, the course discusses labor and personnel issues in 
+innovation policy, for example the impact of immigration on 
+innovation. 
+Students know the key issues in the economics of innovation and 
+the impacts of potential public policies to promote innovation. They 
+are able to assess current research in the economics of innovation 
+and are able to relate its results to fundamental policy questions in 
+the area. Students are acquainted with important empirical 
+approaches in the area. 
+Basic microeconomics, basic econometrics 
+
+2nd semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+Master in Management: elective course (Vertiefungsbereich) 
+Master International Business Studies: elective course 
+Master Arbeitsmarkt und Personal: freier Vertiefungsbereich 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Method of examination  Written exam (90 minutes) 
+
+ Grading procedure 
+
+Written exam (100%) 
+
+ Module frequency 
+
+Summer term 
+
+ Workload 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 60 h 
+Independent study: 90 h 
+Lecture notes are provided throughout the course (usually around 
+one week in advance). 
+1 semester 
+
+English 
+
+Scotchmer, Suzanne. “Innovation and incentives”. MIT press, 
+2004. 
+
+61 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Energy Markets 
+
+1 
+
+2 
+
+ Module name 
+MSE-58050 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Advanced industrial organization 
+
+L: Advanced industrial organization 
+ (2 SWS) 
+E: Advanced industrial organization 
+ (1 SWS) 
+Prof. Zöttl 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+ Module coordinator 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+Prof. Zöttl 
+The goal of this course is to analyze topics that are important for 
+an understanding of decision-making and firm behavior. Besides 
+standard concepts such as price competition, product choice and 
+market power, the course takes on topics such as free entry, 
+switching costs, specific forms of price differentiation and bundling, 
+asymmetric information, tying and platform markets.  
+The integration of real-world cases in the course permits to focus 
+on novel issues, such as competition policy in network markets, 
+platform design, as well as pricing under asymmetric information. 
+Students then know how to model and analyze specific problems 
+arising in the organization of different industries. 
+They are able to connect real-world cases with the tools obtained 
+in class and are able to propose own solution concepts for the 
+situations considered.   
+Solid knowledge in microeconomics, especially game theory (as 
+taught in Bachelorprogrammes)  
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master FACT: Vertiefungs- und Ergänzungsbereich 
+Master Management: Vertiefungsbereich 
+
+ Method of examination  Written examination (90 minutes) 
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Written examination (100%). Students can improve their grade 
+through a written assignment which then accounts for 20% of the 
+grade. 
+Annually in the winter term 
+
+Presence: 45 h  
+Independent Study: 105 h 
+1 semester 
+
+English 
+
+Belleflamme/Peitz (2010, 1. Auflage), Industrial Organization: 
+Markets and Strategies, Cambridge University Press, ISBN 978-0-
+521-68159-9. 
+
+62 
+
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Energy Markets   
+
+1 
+
+2 
+
+ Module name 
+MSE-52971 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Linear optimization 
+
+L: Linear and combinatorial optimization  (4 weekly 
+lecture hours during the second half of the term) 
+E: Linear and combinatorial optimization  (2 weekly 
+lecture hours during the second half of the term) 
+Prof. Martin, other lecturers of the Mathematics 
+department possible 
+
+5 ECTS 
+
+5 ECTS 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+ Module coordinator 
+
+Prof. Martin 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+The main focus of this lecture is on the theory and solution of 
+linear optimization problems. We will address geometric aspects of 
+linear programming, duality, model creation and sensitivity 
+analysis. This course also covers the Simplex Method for solving 
+linear programs. 
+Students will 
+
+•  autonomously recognize and analyze problems in linear 
+
+optimization, 
+
+•  discuss basic algorithmic concepts and apply them 
+
+systematically, 
+
+•  classify methods of this field of study, 
+•  gather and assess relevant information and set it in 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+context. 
+
+Linear Algebra 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+ Method of examination 
+
+•  Written examination (60 minutes) 
+
+ Grading procedure 
+
+ Module frequency 
+
+Written examination (100 %) 
+Annually in the winter term, in Erlangen Südgelände 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+German 
+
+•  Lecture notes 
+•  Schrijver: Combinatorial Optimization, Springer 2003 
+•  Chvátal: Linear Programming, W.H. Freeman & Co, 1983 
+
+63 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Energy Markets   
+
+1 
+
+2 
+
+ Module name 
+MSE-52972 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Combinatorial optimization 
+
+L: Linear and combinatorial optimization  (4 weekly 
+lecture hours during the first half of the term) 
+E: Linear and combinatorial optimization  (2 weekly 
+lecture hours during the first half of the term) 
+Prof. Martin, other lecturers of the Mathematics 
+department possible 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Martin 
+
+4 
+
+5 
+
+ Contents 
+
+The main focus of this lecture is on the theory and solution of 
+combinatorial optimization problems. We will address typical 
+problems in graph theory like the Shortest Path Problem, the 
+Spanning Tree or the Max-Flow Min-Cut Theorem. This course 
+also covers basic algorithmic concepts such as Sorting, Greedy 
+algorithm, Depth-first search/Breadth-first search and heuristics. 
+Students will 
+
+•  autonomously recognize and analyze problems in 
+
+combinatorial optimization, 
+
+•  discuss basic algorithmic concepts and apply them 
+
+systematically, 
+
+•  classify methods of this field of study, 
+•  gather and assess relevant information and set it in 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+context. 
+
+Linear Algebra 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+ Method of examination 
+
+•  Written examination (60 minutes) 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+ Grading procedure 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Written examinationon (100 %) 
+Annually in the winter term, in Erlangen Südgelände 
+(from winter term 2016/17) 
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+German 
+
+•  Lecture notes 
+•  Schrijver: Combinatorial Optimization, Springer 2003 
+•  Korte/Vygen: Combinatorial Optimization, Springer 2005 
+
+64 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Energy Markets  
+
+1 
+
+2 
+
+ Module name 
+MSE-52980 
+ Courses/lectures 
+
+3 
+
+ Lecturers 
+
+Methods and applications of mathematical 
+optimization 
+L: Methods and applications of mathematical 
+optimization (2 weekly lecture hours) 
+E: Methods and applications of mathematical 
+optimization (1 weekly lecture hour) 
+Prof. Liers, Prof. Schmidt and further lecturers from the 
+Department of Mathematics 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Liers, frauke.liers@fau.de 
+
+4 
+
+5 
+
+ Contents 
+
+The focus of this module is on methods for modelling and solving 
+optimization problems as they occur in the field of industry and 
+economics. Advantages and disadvantages of different modelling 
+techniques will be outlined and different reformulations will be 
+presented in order to achieve efficient solution approaches. 
+Students will learn how to present optimization results properly as 
+well as how to interpret and evaluate these results for practical 
+applications. This module covers topics such as optimization of 
+transport networks (gas, water, energy), mathematical modelling 
+and optimization techniques for market mechanisms in the energy 
+sector and dealing with uncertain data. 
+The students 
+
+•  will  gain  an  overview  over  applications  of  mathematical 
+
+• 
+
+• 
+
+optimization 
+learn  mathematical  optimization  modeling  and  solution 
+techniques 
+learn  to  decide  which  solution  approaches  are  suitable  for 
+which class of models 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+10 
+
+ Method of examination 
+
+Linear and Combinatorial Optimization 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+(one worksheet per week) 
+
+• 
+•  Written examination (90 minutes) or oral examination (15 
+
+11 
+
+12 
+
+ Grading procedure 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+minutes) 
+
+Written examination (100%) 
+Annually in the winter term 
+(from winter term 2016/17) 
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+German 
+
+•  Lecture Notes 
+•  Recent research literature 
+
+65 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Energy Markets  
+
+1 
+
+2 
+
+ Module name 
+MSE-52592 
+ Courses/lectures 
+
+Quantitative methods in energy market modelling    5 ECTS 
+
+Lecture: Quantitative methods in energy market 
+modelling (2 SWS) 
+Exercise: Quantitative methods in energy market 
+modelling (1 SWS) 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Zöttl  
+
+ Module coordinator 
+
+Prof. Zöttl 
+
+4 
+
+5 
+
+ Contents 
+
+It is the purpose of the course to understand and quantitatively 
+analyse the economic interaction of the players and institutions in 
+liberalized energy markets.  
+Liberalized electricity markets can be segmented in a regulated 
+part (the networks) and the non-regulated parts (generation and 
+retail) where private companies interact in a market environment. 
+The interaction of the different agents is analysed with 
+computational equilibrium frameworks based the concepts applied 
+in industrial organization. Next to the fundamental understanding 
+of the relevant market interaction, the models allow for a 
+quantitative analysis of proposals for the design of energy markets. 
+The participants thus develop the tools for an autonomous 
+assessment of currently discussed policies in liberalized electricity 
+markets (e.g. changed support schemes for renewables, changed 
+network tariff systems, impact of capacity markets). 
+
+The course aims at students in the field of economics /business as 
+well as students in the fields of engineering and mathematics. An 
+integral part of the course id formed by homework assignments 
+conducted in groups. The ability to cooperate also beyond the 
+classical limits of each discipline is an important qualification for 
+the students’ careers, which should be stimulated in the context of 
+this course. 
+The students: 
+
+-  develop a clear picture of the relevant market participants 
+in liberalized electricity markets and understand their 
+incentives and objectives 
+learn fundamental concepts and models which allow to 
+analyze the interaction at those markets 
+
+- 
+
+-  get to know important publically available data sources 
+which allow for a quantitative analysis of the market 
+situations considered 
+know the current challenges when designing those markets 
+and can quantitatively analyze the solutions proposed in 
+the current policy debate.    
+
+- 
+
+The students should be familiar with the mathematical methods 
+acquired during their Bachelor degree. 
+Institutional knowledge of electricity markets is not required.  
+2. semester. 
+
+66 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+9 
+
+Module compatibility 
+
+Master Economics: Elective compulsory subjects 
+Master Engineering 
+Master Mathematics 
+
+10 
+
+ Method of examination  Portfolio: Written Examination 90 min (80%) and Written 
+
+11 
+
+12 
+
+13 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload  
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Assignment (20%) 
+Written Examination (80%) and Written Assignment (20%) 
+
+The course takes place during the summer term (SS) 
+Presence: 30h 
+Independent study: 120h 
+The module duration is 1 semester. To facilitate participation of 
+students from the faculties of science and engineering the lectures 
+will be condensed (ca. 5 appointments) 
+
+English  
+
+-  Daniel Kirschen and Goran Strbac: Power System 
+
+Economics, Wiley 2004. 
+
+-  Steven Stoft: Power System Economics, Wiley 2002. 
+-  Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael 
+Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+
+67 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Energy Markets  
+
+1 
+
+2 
+
+ Module name 
+MSE-52990 
+ Courses/lectures 
+
+Seminar energy markets 
+
+Seminar energy markets 
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+3 
+
+ Lecturers 
+
+Prof. Grimm, Prof. Zöttl and assistants 
+
+ Module coordinator 
+
+Prof. Grimm and Prof. Zöttl 
+
+4 
+
+5 
+
+ Contents 
+
+It is the purpose of the seminar to deepen the understanding of the 
+economic interaction of the players and institutions in liberalized 
+energy markets.  
+The participants learn and develop the tools for an autonomous 
+economic assessment of currently discussed policies in liberalized 
+electricity markets (e.g. changed support schemes for renewables, 
+changed network tariff systems, impact of capacity markets). 
+In cooperation with experts from the industry, students are also 
+confronted with the practitioners’ perspective which requires a 
+more detailed application of the economic concepts employed.   
+
+The course aims at students in the field of economics /business as 
+well as students in the fields of engineering and mathematics. In 
+the final workshop, all Students present and mutually discuss their 
+results together with practitioners from the industry. The ability to 
+communicate also beyond the classical limits of each discipline is 
+an important qualification for the students’ careers, which should 
+be stimulated in the context of this seminar. 
+The students 
+
+- 
+
+learn fundamental concepts and models which allow to 
+analyze the economic interaction at energy markets, 
+
+-  Learn to autonomously apply those methods, 
+-  Conceptualize coherent analysis of current policy 
+discussion of how to design energy markets, 
+In close exchange with a practitioner from industry, learn to 
+apply in meaningful way the conceptual analysis and 
+discussions to real world problems.  
+
+- 
+
+-  Develop their presentation skills.  
+
+The students should be familiar with the mathematical methods 
+acquired during their Bachelor degree. 
+Institutional knowledge of energy markets is helpful but not 
+required.  
+
+2. semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Engineering 
+Master Mathematics 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Development of a written seminar paper 15 pages (50%), 
+
+11 
+
+ Grading procedure 
+
+presentation of the seminar paper 20 minutes (30%) and class 
+participation: discussion of a fellow student’s seminar paper (20%) 
+50% seminar paper 
+30% presentation 
+
+68 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+12 
+
+ Module frequency 
+
+Each term 
+
+20% class participation 
+
+13 
+
+ Workload  
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+Summer Term: German (due to cooperation with practice partners) 
+Winter Term: English 
+
+-  Daniel Kirschen and Goran Strbac: Power System 
+
+Economics, Wiley 2004. 
+
+-  Steven Stoft: Power System Economics, Wiley 2002. 
+-  Wolfgang Ströbele, Wolfgang Pfaffenberger, Michael 
+Heuterkes: Energiewirtschaft, Oldenbourg 2010. 
+
+69 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Energy Markets  
+
+1 
+
+2 
+
+ Module name 
+MSE-53180 
+ Courses/lectures 
+
+Mathematical optimization for communications & 
+signal processing 
+Lecture: (2 SWS), Exercise (1 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+3 
+
+ Lecturers 
+
+Prof. Liers, further lecturers from the Department of 
+Mathematics 
+
+ Module coordinator 
+
+Prof. Liers 
+
+4 
+
+5 
+
+ Contents 
+
+The focus of this module is on methods for modeling and solving 
+optimization problems as they occur in the field communication 
+and signal processing. Starting from practical applications, 
+different classes of optimization problems are introduced that 
+include linear, mixed-integer linear, continuous non-linear as well 
+as mixed-integer non-linear optimization problems.  Advantages 
+and disadvantages of different modeling techniques will be 
+outlined and different reformulations will be presented in order to 
+achieve efficient solution approaches. Students will learn how to 
+present optimization results properly as well as how to interpret 
+and evaluate these results for practical applications in 
+communications and signal processing. 
+The students 
+
+-  have an overview over mathematical optimization in practice 
+-  apply  mathematical  optimization  modeling  and  solution 
+
+techniques 
+
+-  decide  which  solution  approaches  are  suitable  for  which 
+
+class of models  
+know available software and how to use it 
+
+- 
+
+A bachelor course in Mathematics for Engineers. Recommended 
+are 3-4 courses in Mathematics for Engineers.   
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+6 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Method of examination  Written examination (90min) 
+
+ Grading procedure 
+
+Written examination (100%) 
+
+ Module frequency 
+
+Annually in the winter term 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+Teaching is in English only. In the exam, each student can choose 
+between English and German. 
+
+70 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Energy Markets  
+
+1 
+
+2 
+
+ Module name 
+MSE-54340 
+ Courses/lectures 
+
+Seminar Optimierung in Energiemärkten 
+(Seminar optimiziation in energy markets) 
+Seminar Optimierung in Energiemärkten (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+3 
+
+ Lecturers 
+
+Prof. Liers, Prof. Martin 
+
+ Module coordinator 
+
+Prof. Liers 
+
+4 
+
+5 
+
+6 
+
+ Contents 
+
+ Learning objectives and 
+skills 
+
+Die aktuell angebotenen Themen werden von den Dozenten 
+rechtzeitig bekannt gegeben. 
+Die Studierenden 
+
+-  Erarbeiten sich vertiefende Fachkompetenzen im Bereich 
+
+der Optimierung von Energiemärkten; 
+
+-  Analysieren Fragestellungen und Probleme im Bereich der 
+Optimierung von Energiemärkten und lösen diese mit 
+wissenschaftlichen Methoden; 
+
+-  Verwenden relevante Präsentations- und 
+
+Kommunikationstechniken und präsentieren die 
+mathematischen Sachverhalte in mündlicher und 
+schriftlicher Form; 
+
+-  Tauschen sich untereinander und mit dem Dozenten über 
+
+Informationen, Ideen, Probleme und Lösungen auf 
+wissenschaftlichem Niveau aus. 
+
+lineare und kombinatorische Optimierung 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination  Präsentation 90 Minuten (75%) 
+
+11 
+
+ Grading procedure 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Präsentationspapier 5-10 Seiten (25%) 
+Präsentation 90 Minuten (75%) 
+Präsentationspapier 5-10 Seiten (25%) 
+Annually in the winter term 
+
+Presence: 45 h 
+Independent study: 105 h 
+1 semester 
+
+Deutsch und Englisch 
+
+71 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Health Economics 
+
+1 
+
+2 
+
+ Module name 
+MiGG-52162 
+ Courses/lectures 
+
+Applied empirical health economics 
+
+S: Seminar applied empirical health economics (3 
+SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Tauchmann and assistants 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+4 
+
+5 
+
+ Contents 
+
+The project seminar aims on introducing students to empirical 
+research in the field of health economics. . For this, two options 
+are available. The first is to replicate and possibly extend an 
+empirical analysis found in a research paper that is selected by the 
+lecturer.  The second is to conduct an independent empirical 
+analysis based on one chapter of the textbook Jones, A. et al. 
+(2013): Applied Health Economics. Each chapter of the book 
+covers a topic of empirical health economics such as „inequality in 
+health“, with a focus on specific methods (generalized Lorenz 
+curve, probit regression for ordered categorical data, interval 
+regression etc.) that are well suited for analyzing the specific 
+research question. In particular, using these methods using the 
+statistical software Stata® und using them for applied empirical 
+work is key for the seminar. Each student individually works on an 
+empirical project. Support and advise how to do this is provided on 
+the individual student level. In order to get (more) familiar with 
+stata, students may participate in a Stata-crash course prior to 
+working on their projects. Students write a seminar thesis in which 
+they describe and communicate their research and give a 
+presentation of their thesis in a seminar. 
+Students  
+-  become familiar with specific methods which are relevant in 
+
+empirical health economics in health and learn to apply them to 
+specific research questions 
+
+-  deepen their methodological competences by using them in 
+
+applied work 
+
+-  acquire competences in developing and empirically addressing 
+
+research questions in health economics 
+learn to present and to discuss results of empirical research 
+
+- 
+•  Profound Knowledge in micro econometrics 
+•  Basic knowledge in the statistical software Stata ® (the course 
+starts with an elective Stata® course, which is intended to 
+quality students who do not know Stata® to successfully 
+participate in the seminar) 
+
+•  Basic knowledge in health economics 
+
+3. semester 
+
+Master Economics: Elective compulsory subjects  
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Wahlbereich (MiGG-2161) 
+Master Management: Vertiefungsbereich (MiGG-2161) 
+Master Arbeitsmarkt und Personal: Wahlbereich (MiGG-2161) 
+Master Sozialökonomik: freier Vertiefungsbereich (MiGG-2161) 
+
+72 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+ Recommended 
+prerequisites 
+
+8 
+
+9 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+ Method of examination  Presentation (Präsentation, 20 minutes) and seminar paper 
+
+Study start: winter semester 2015/16 
+
+11 
+
+ Grading procedure 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+ Module frequency 
+
+ Workload  
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+(Seminararbeit, 15 pages) 
+35% presentation (Präsentation), 65% seminar paper 
+(Seminararbeit) 
+yearly in the winter term 
+
+Seminar attendance: 30 h 
+Independent study: 120 h 
+1 semester 
+
+German and English 
+
+Jones A., Rice, N. Bago d’Uva, T. & Balia, S. (2013): Applied 
+Health Economics, 2nd ed., Routledge. 
+
+73 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Module group: Health Economics 
+
+Module name 
+MiGG-56792 
+ Courses/lectures 
+
+1 
+
+The economics of health insurance 
+
+L & E: The economics of health insurance 
+
+5 ECTS 
+
+5 ECTS 
+
+Study start: winter semester 2015/16 
+
+2 
+
+ Lecturers 
+
+Prof. Harald Tauchmann / Simon Reif 
+
+3 
+
+4 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+ Contents 
+
+The course covers the economics of health care taking a 
+microeconomic perspective. The course focusses on the market 
+for health insurance and its imperfections that originate from the 
+specific characteristics of health as a commodity and result in 
+market failure and hence undesirable market outcomes such as 
+adverse selection, moral hazard, and risk selection. Based on the 
+theoretical analysis implications for the question of how to design 
+a health (insurance) system are derived. 
+
+5 
+
+ Learning objectives and 
+skills 
+
+learn to analyze the market for health insurance  
+
+The students 
+- 
+-  acquire knowledge about the institutions of the German health 
+insurance system and how to assess them from a theoretical 
+perspective 
+test the theoretical predictions using empirical analyses 
+
+- 
+
+Solid skills in microeconomics, basic skills in econometrics 
+
+6 
+
+7 
+
+8 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  2. semester 
+ Module compatibility 
+
+Master Economics: Elective compulsory subjects 
+Master Arbeitsmarkt und Personal: Wahlbereich (MiGG-6790)  
+Master Sozialökonomik: freier Vertiefungsbereich oder in Bereich 
+„Spezielle VWL“ (MiGG-6790) 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+(MiGG-6790) 
+Master Management: Vertiefungsbereich (MiGG-6790) 
+Master in Gesundheitsmanagement und Gesundheitsökonomie 
+(MiGG-6790) 
+ (cannot be combined with the equivalent German language 
+module “Gesundheitsökonomie I (Health Economics I)” 
+90-minute written examination (100%).  
+Students can improve their grade through giving a 20 minute 
+presentation on a research paper that is related to a topic covered 
+by the lecture, which then accounts for 20% of the grade (this 
+requires the written exam to be graded not worse than 4.0; the 
+max. improvement is 0.7 grades) 
+Written examination (100 %) 
+
+Presence: 45 h 
+Independent study: 105 h 
+Weekly 90 min. lecture and fortnightly 90 min. exercise class over 
+the lecture period (1 semester) 
+
+74 
+
+9 
+
+ Method of examination 
+
+ Module frequency 
+
+Annually in the summer term 
+
+ Grading procedure 
+
+10 
+
+11 
+
+12 
+
+ Workload  
+
+13 
+
+ Module duration 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+
+15 
+
+ Teaching and 
+examination language 
+ (Recommended) reading  Zweifel, P., Breyer, F., Kifmann, M. (2009): Health Economics, 
+
+English 
+
+Springer 2nd ed. 
+
+Study start: winter semester 2015/16 
+
+75 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Health Economics 
+
+1 
+
+ Module name 
+
+The supply of medical services  
+
+5 ECTS 
+
+MiGG-52153 
+
+2 
+
+ Courses/lectures 
+
+L & E: The supply of medical services  (2+1 SWS) 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Tauchmann and Assistants 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+4 
+
+5 
+
+ Contents 
+
+In this course the market for medical services and in particular the 
+supply of services from physicians and hospitals is analyzed. The 
+focus is on behavioural incentives and how they are shaped by the 
+charactaristics of health as a special good as well as by institutional 
+settings.  Topics  to  be  covered  are  “supplier  induced  demand”, 
+“quality-quantity-relationship 
+“optimal 
+in 
+reimbursement  schemes”.  The  course  will  also  cover  individual 
+health  behaviour.  Throughout  the  course  microeconomic  models 
+will be used.  
+
+hospitals” 
+
+and 
+
+Students 
+
+•  Understand 
+
+the  behavior  of  physicians 
+
+from  a 
+
+microeconomic perspective 
+
+•  Can  evaluate  governmental  regulations  in  health  care 
+
+markets 
+
+•  Can discuss reforms in the health care sector. 
+
+- 
+
+Solid knowledge of microeconomics and econometrics 
+
+2. Semester 
+
+6 
+
+ Learning objectives and 
+skills 
+
+ Recommended 
+prerequisites 
+
+ Integration in 
+curriculum 
+
+7 
+
+8 
+
+9 
+
+Module compatibility 
+
+Master Economics: Elective compulsory subjects 
+
+Master  Gesundheitsmanagement  und  Gesundheitsökonomie: 
+Wahlbereich  
+
+Master Management: Vertiefungsbereich  
+
+Master  Sozialökonomik:  sozialökonomischer  Vertiefungsbereich 
+oder freier Vertiefungsbereich  
+
+-Master  Arbeitsmarkt  und  Personal:  Wahlbereich  Master 
+Wirtschaftspädagogik, Studienrichtung I: Wahlbereich  
+
+10 
+
+ Method of examination  Written examination (90 Min.) 
+
+11 
+
+12 
+
+ Grading procedure 
+
+Written examination (100%) 
+
+ Module frequency 
+
+Annually in the summer term 
+
+76 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+13 
+
+ Workload  
+
+Attendance: 45 h 
+
+Independent study: 105 h 
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+1 Semester  
+
+ Teaching and 
+examination language 
+
+German (In Summer Term 2018 also English) 
+
+ (Recommended) 
+reading 
+
+Zweifel, P., Breyer, F., Kifmann, M. (2013): Gesundheitsökonomik, 
+Springer Gabler, 6. Aufl. 
+
+77 
+
+  
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Health Economics 
+
+1 
+
+2 
+
+ Modulbezeichnung 
+MiGG-54821 
+ Lehrveranstaltungen 
+
+Gesundheitsökonomische Evaluationen I 
+(Health economic evaluations I) 
+S: Gesundheitsökonomische Evaluationen I 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Bei allen öffentlichen Großprojekten sind Kosten-Nutzen-Analysen 
+zwingend vorgeschrieben. Die Methodik wurde im 
+Gesundheitswesen weiterentwickelt, wo auch „intangible“ Effekte 
+(z.B. Lebensqualität) berücksichtigt werden müssen. In der 
+Veranstaltung werden die unterschiedlichen Studienformen, die 
+Grundprinzipien, das Design von gesundheitsökonomischen 
+Studien und insbesondere das QALY- und das 
+Effizienzgrenzenkonzept behandelt. 
+Die Studierenden 
+-  ermessen den Unterschied zwischen Effektivität und Effizienz im 
+
+Gesundheitswesen 
+
+-  diskutieren verschiedene Möglichkeiten der Berechnung von 
+Kosten und Nutzen medizinischer Maßnahmen und setzen 
+Kosten und Nutzen verschiedener medizinischer Maßnahmen 
+zueinander in Beziehung 
+
+-  beurteilen aktuelle Diskussionen zu dieser Thematik  
+-  vergleichen die verschiedenen Grundformen und -prinzipien 
+gesundheitsökonomischer Evaluationen sowie die damit 
+verbundenen Konzepte  
+
+-  schätzen das QALY-Konzept im Hinblick auf seine Relevanz ein 
+-  skizzieren das Design einer gesundheitsökonomischen Studie 
+Keine 
+
+2. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich  
+Master Management: Pflichtbereich II (MIM-54820) 
+Master Economics:Elective compulsory subjects 
+60 min. Klausur (tw. mit MC-Aufgaben) 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im SS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Schöffski / Graf von der Schulenburg (Hrsg.): 
+Gesundheitsökonomische Evaluationen, 3. oder 4. Aufl., Berlin u. 
+a., 2007, 2008 oder 2012. 
+
+78 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Health Economics 
+ Modulbezeichnung 
+MiGG-52850 
+ Lehrveranstaltungen 
+
+Gesundheitsökonomische Evaluationen II 
+(Health economic evaluations II) 
+S: Gesundheitsökonomische Evaluationen II 
+
+1 
+
+2 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lehrende 
+
+Prof. Schöffski und Mitarbeitende 
+
+ Modulverantwortliche/r  Prof. Schöffski 
+
+4 
+
+5 
+
+ Inhalt 
+
+Die Thematik wird in dieser Veranstaltung aufbauend auf der 
+Grundlagenveranstaltung im 1. Semester weiter vertieft. 
+Insbesondere werden hier die Methoden der 
+Lebensqualitätsmessung behandelt und kritisch diskutiert. 
+Weiterhin werden Modellierungen in Form von 
+Entscheidungsbäumen und Markov-Modellen theoretisch und 
+praktisch durchgeführt. Fallbeispiele runden diese Veranstaltung 
+ab. 
+Die Studierenden 
+-  verstehen die Problematik und die Relevanz der Messung von 
+
+Lebensqualitätseffekten 
+
+-  können entsprechende Lebensqualitätsmessungen eigenständig 
+
+durchführen 
+
+-  sind in der Lage verschiedene Modellierungsansätze beurteilen 
+
+zu können 
+
+-  können einfache Modellierungen selbst konzipieren, 
+
+durchführen und die Ergebnisse interpretieren. 
+
+Die Pflichtveranstaltung Gesundheitsökonomische Evaluationen I 
+sollte vor diesem Modul belegt worden sein. 
+
+3. Semester 
+
+Master Gesundheitsmanagement und Gesundheitsökonomie: 
+Pflichtbereich 
+Master Management: Vertiefungsbereich 
+Master Economics: Elective compulsory subjects 
+Klausur (60 Min.) (tw. mit MC-Aufgaben) 
+
+6 
+
+ Lernziele und 
+Kompetenzen 
+
+7 
+
+8 
+
+9 
+
+ Empfohlene 
+Voraussetzungen für 
+die Teilnahme 
+ Einpassung in 
+Musterstudienplan 
+Verwendbarkeit des 
+Moduls 
+
+10 
+
+11 
+
+ Studien- und 
+Prüfungsleistungen 
+ Berechnung Modulnote  Klausur (100 %) 
+
+12 
+
+ Turnus des Angebots 
+
+Jährlich im WS 
+
+13 
+
+ Arbeitsaufwand 
+
+14 
+
+ Dauer des Moduls 
+
+15 
+
+16 
+
+ Unterrichts- und 
+Prüfungssprache 
+ (Vorbereitende) 
+Literatur 
+
+Präsenzzeit: 45 h 
+Eigenstudium: 105 h 
+1 Semester 
+
+Deutsch 
+
+Schöffski / Graf von der Schulenburg (Hrsg.): 
+Gesundheitsökonomische Evaluationen, 3. oder 4. Aufl., Berlin u. 
+a., 2007, 2008 oder 2012. 
+
+79 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Free elective modules 
+
+-  Up to 2 free elective modules worth 5 ECTS credits each may be taken. These are modules 
+offered by the Faculty. When choosing modules, a subject-specific increase in expertise 
+compared to the preceding Bachelor's degree must be proven. The programme coordinator 
+must approve the suitability of the proposed courses. 
+
+-  An  overview  on  the  available  modules  can  be  found  here:  https://www.campus.uni-
+erlangen.de/stgstruct/ Master of Science (65) Economics (636) PO-Version: 20152 / 1860 
+Miscellaneous. 
+
+-  Languages as free elective modules: One course independent of level. Second course 
+
+must be of level B2 or higher. 
+
+ Module name 
+MSE-55691 
+ Courses/lectures 
+
+ Lecturers 
+
+Study abroad module 1  
+
+5 ECTS 
+
+Study abroad module 1 (Auslandsmodul 1) 
+
+5 ECTS 
+
+Lecturers in foreign University 
+Dozierende an Universität im Ausland 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+ Contents 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+EN: The content of the courses visited in the foreign university 
+must be related to the topic of the master’s content. 
+The master coordinator decides on the suitability of the courses 
+using German or English documents. 
+
+DE: Die an der ausländischen Universität besuchten 
+Lehrveranstaltungen sollten einen thematischen Bezug zu den 
+Inhalten des Masters haben. 
+Eine Prüfung der Eignung der Lehrveranstaltungen erfolgt durch 
+den Masterkoordinator auf der Basis deutsch- oder 
+englischsprachiger Unterlagen. 
+EN: Students acquire comprehensive, detailed and specialised 
+knowledge on the research frontier. They are able to communicate 
+this knowledge in a clear and unambiguous way in a foreign 
+language. Besides gaining expertise students gain intercultural 
+and social skills. Students can organize themselves and respond 
+to changing requirements independently and in a problem-solving 
+attitude.  
+
+DE: Die Studierenden verfügen über umfassendes, detailliertes 
+und spezialisiertes Wissen auf dem neuesten Erkenntnisstand der 
+Wissenschaft. Sie können dieses Wissen in klarer und eindeutiger 
+Weise auch in einer Fremdsprache vermitteln. Neben den 
+Fachkompetenzen erwerben die Studierenden interkulturelle und 
+soziale Kompetenzen. Die Studierenden können sich selbst 
+organisieren und auf sich verändernde Anforderungen 
+eigenständig und lösungsorientiert reagieren. 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+Learning Agreement 
+
+2. or 3. semester 
+
+Master Economics: Free elective modules 
+
+80 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+
+ Method of examination  EN: In accordance with the method of examination of the foreign 
+
+Study start: winter semester 2015/16 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+ Module duration 
+
+14 
+
+15 
+
+16 
+
+University. 
+DE: In Übereinstimmung mit den Studien- und Prüfungsleistungen 
+der ausländischen Universität. 
+EN: Dependent on the grading scale and ECTS of the course. 
+
+DE: Vom Notenschlüssel und den ECTS der Lehrveranstaltung 
+abhängig. 
+EN: In accordance with the course offer at the foreign University. 
+
+DE: In Übereinstimmung mit dem Kursangebot an der 
+ausländischen Universität. 
+EN: In accordance with the time input of the courses of the foreign 
+University. 
+
+DE: In Übereinstimmung mit dem Arbeitsaufwand der 
+Lehrveranstaltungen an der ausländischen Universität. 
+1 Semester 
+
+ Teaching and 
+examination language 
+
+EN: In accordance with the lecture language of the foreign 
+university. 
+
+ (Recommended) 
+reading 
+
+DE: Unterrichtssprache des Landes der ausländischen Universität 
+EN: Considering the specifications of the course at the foreign 
+university. 
+
+DE: Berücksichtigung der Angaben zu den Lehrveranstaltungen 
+an der ausländischen Universität 
+
+81 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+Module group: Public Economics 
+
+ Module name 
+MSE-55692 
+ Courses/lectures 
+
+ Lecturers 
+
+Study abroad module 2  
+
+5 ECTS 
+
+Study abroad module 2 (Auslandsmodul 2) 
+
+5 ECTS 
+
+Lecturers in foreign University 
+Dozierende an Universität im Ausland 
+
+ Module coordinator 
+
+Prof. Tauchmann 
+
+ Contents 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+EN: The content of the courses visited in the foreign university 
+must be related to the topic of the master’s content. 
+The master coordinator decides on the suitability of the courses 
+using German or English documents. 
+
+DE: Die an der ausländischen Universität besuchten 
+Lehrveranstaltungen sollten einen thematischen Bezug zu den 
+Inhalten des Masters haben. 
+Eine Prüfung der Eignung der Lehrveranstaltungen erfolgt durch 
+den Masterkoordinator auf der Basis deutsch- oder 
+englischsprachiger Unterlagen. 
+EN: Students acquire comprehensive, detailed and specialised 
+knowledge on the research frontier. They are able to communicate 
+this knowledge in a clear and unambiguous way in a foreign 
+language. Besides gaining expertise students gain intercultural 
+and social skills. Students can organize themselves and respond 
+to changing requirements independently and in a problem-solving 
+attitude.  
+
+DE: Die Studierenden verfügen über umfassendes, detailliertes 
+und spezialisiertes Wissen auf dem neuesten Erkenntnisstand der 
+Wissenschaft. Sie können dieses Wissen in klarer und eindeutiger 
+Weise auch in einer Fremdsprache vermitteln. Neben den 
+Fachkompetenzen erwerben die Studierenden interkulturelle und 
+soziale Kompetenzen. Die Studierenden können sich selbst 
+organisieren und auf sich verändernde Anforderungen 
+eigenständig und lösungsorientiert reagieren. 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+Learning Agreement 
+
+2. or 3. semester 
+
+Master Economics: Free elective modules 
+
+10 
+
+ Method of examination  EN: In accordance with the method of examination of the foreign 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+University. 
+
+DE: In Übereinstimmung mit den Studien- und Prüfungsleistungen 
+der ausländischen Universität. 
+EN: Dependent on the grading scale and ECTS of the course. 
+
+DE: Vom Notenschlüssel und den ECTS der Lehrveranstaltung 
+abhängig. 
+EN: In accordance with the course offer at the foreign University. 
+
+DE: In Übereinstimmung mit dem Kursangebot an der 
+ausländischen Universität. 
+
+82 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+13 
+
+ Workload  
+
+EN: In accordance with the time input of the courses of the foreign 
+University. 
+
+14 
+
+15 
+
+16 
+
+ Module duration 
+
+DE: In Übereinstimmung mit dem Arbeitsaufwand der 
+Lehrveranstaltungen an der ausländischen Universität. 
+1 Semester 
+
+ Teaching and 
+examination language 
+
+EN: In accordance with the lecture language of the foreign 
+university. 
+
+ (Recommended) 
+reading 
+
+DE: Unterrichtssprache des Landes der ausländischen Universität 
+EN: Considering the specifications of the course at the foreign 
+university. 
+
+DE: Berücksichtigung der Angaben zu den Lehrveranstaltungen 
+an der ausländischen Universität 
+
+83 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study start: winter semester 2015/16 
+
+  Module name 
+
+MSE-1997 
+
+  Courses/lectures 
+
+  Lecturers 
+
+Master’s thesis 
+
+Master’s thesis  
+
+Master’s thesis (0 SWS) 
+S: Master's thesis seminar (2 SWS) 
+All professors of the Master in Economics 
+
+30 ECTS 
+
+25 ECTS 
+5 ECTS 
+
+  Module coordinator 
+
+All professors of the Master in Economics 
+
+  Contents 
+
+EN: Students write their master's thesis. 
+In the seminar students present and discuss their master's thesis. 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+  Learning objectives 
+
+and skills 
+
+7 
+
+8 
+
+9 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+DE: Die Studierenden erstellen Ihre Masterarbeit. 
+Im  Rahmen  des  Seminars  präsentieren  und  diskutieren  die 
+Studierenden ihre Masterarbeiten. 
+EN: 
+Master's thesis:  
+In the master's thesis students show that they are able to work 
+on a topic or an economic issue within a prescribed period 
+independently and with scientific methods. They can prepare the 
+findings concisely and interpret them competently. 
+Master’s thesis seminar: 
+Students discuss their own and other contributions to economic 
+research. The seminar should assist students in the preparation 
+of the master’s thesis and give them important support to the 
+independent solution and presentation of issues. 
+DE: 
+Masterarbeit: 
+In der Masterarbeit zeigen Studierende, dass sie in der Lage 
+sind innerhalb einer vorgegebenen Frist ein Thema bzw. eine 
+ökonomische Fragestellung selbständig und mit 
+wissenschaftlichen Methoden zu bearbeiten sowie die 
+Erkenntnisse prägnant aufzubereiten und kompetent zu 
+interpretieren.  
+Seminar zur Masterarbeit: 
+Studierende diskutieren eigene und andere Beiträge zur 
+volkswirtschaftlichen Forschung. Das Seminar soll die 
+Studierenden bei der Anfertigung der Masterarbeit unterstützen 
+und ihnen wichtige Hilfen zur selbständigen Lösung und 
+Darstellung von Problemen geben. 
+EN: Courses from the 1. – 3. semesters 
+DE: Besuch der Veranstaltungen des 1. - 3. Semesters  
+
+4. semester 
+
+Master Economics 
+
+10 
+
+  Method of examination  EN:  
+
+Master’s thesis: written thesis paper 
+Master’s thesis seminar: presentation of the master’s thesis 
+DE: 
+
+84 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+
+  Grading procedure 
+
+12 
+
+  Module frequency 
+
+13 
+
+  Workload  
+
+Study start: winter semester 2015/16 
+
+Masterarbeit: Schriftliche Arbeit 
+Seminar: Präsentation zur Masterarbeit 
+EN:  
+Master’s thesis 25 ECTS 
+Presentation in the seminar 5 ECTS 
+DE: 
+Masterarbeit 25 ECTS 
+Präsentation im Seminar 5 ECTS 
+EN:  
+Master’s thesis: flexible timing 
+Master’s thesis seminar: annually in the summer term 
+DE: 
+Masterarbeit: Angebot zeitlich flexibel  
+Seminar zur Masterarbeit: Jährlich im Sommersemester 
+EN:  
+Master’s thesis:  
+Independent study: 750 h 
+Master’s thesis seminar:  
+Presence: 30 h  
+Independent study: 120 h 
+DE: 
+Masterarbeit:  
+Eigenstudium: 750 h 
+Seminar zur Masterarbeit: 
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 semester (6 months) 
+
+  Module duration 
+
+14 
+
+15 
+
+  Teaching and 
+
+German or English 
+
+examination language 
+
+16 
+
+  (Recommended) 
+
+reading 
+
+EN: Changing current research literature 
+DE: Wechselnde aktuelle Forschungsliteratur 
+
+85

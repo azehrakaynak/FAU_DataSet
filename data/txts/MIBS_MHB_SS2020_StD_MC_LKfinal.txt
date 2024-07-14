@@ -1,0 +1,9924 @@
+Modulhandbuch im 
+Sommersemester 2020
+
+www.wiso.fau.de
+
+Please note:  
+
+Changes in the teaching offer due to Corona 
+
+FAU has published a statute regarding deviations from study regulations, examinations, 
+doctoral and habilitation study regulations due to the Corona virus SARS-CoV-2: 
+https://www.fau.de/files/2020/04/fau-corona-satzung_20200417.pdf 
+Based on this statute, the following scenarios are possible: 
+
+  Examination method unchanged 
+
+The method of examination remains as originally intended, e.g. an exam. In these cases, 
+module descriptions remain unchanged.  
+
+  Singular change of examination method in summer term 
+
+Changes in the method of examination are possible in case the originally planned method 
+of examination is not realizable due to the Corona virus. These changes are listed in the 
+module descriptions that are marked in orange color in the index. The original method of 
+examination is crossed out in these cases; the new method of examination is listed in 
+orange font color. 
+
+  Anchoring 
+
+and 
+
+deciding 
+
+methods 
+
+alternative 
+
+examination 
+
+later 
+The  statute  allows  for  another  option.  Two  alternative  methods  of  examination  can  be 
+determined. These changes are listed in the module descriptions that are also marked in 
+orange  color  in  the  index.  The  decision  for  one  method  will  be  made  by  the  module 
+responsible  and  must  be  communicated to the students  at  least four  weeks  prior to the 
+examination.  In  these  cases,  the  original  method  of  examination  remains  in  place,  the 
+alternative  method  is  stated  below,  in  orange  font  color.  Four  weeks  prior  to  the 
+examination,  the module  responsible  will  communicate the final  method of  examination. 
+Kindly note that you must register for the original method of examination in either case. A 
+potential change in examination methods can only be implemented after exam registration 
+on  MeinCampus.  In  this  case,  you  will  be  registered  for  the  alternative  method  of 
+examination automatically. 
+
+Remark regarding “digital examinations” 
+Kindly note that examinations may also take place in digital form, such as oral exams via 
+Zoom. If this is the case, the module responsible will make you aware of this method in due 
+course. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Master‘s degree program 
+International
+Business Studies
+Module handbook –– summer semester 2020
+
+A d v a n c e d  
+k n o w l e d g e
+
+www.wiso.fau.de/mibs
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+ECTS  ECTS 
+
+20  
+
+2 
+ECTS 
+20  
+
+3 
+ECTS 
+20  
+
+4 
+ECTS 
+
+Master in International Business Studies 
+
+Core Courses (Kernbereich) (60 out of 90 ECTS/60 aus 90 ECTS) 
+
+Modulbereich: Environment of international business 
+Issues in international political economy 
+International and european trade law 
+
+Modulbereich: Foundations of international management 
+Foundations of international management I 
+Foundations of international management II 
+Modulbereich: International strategic management 
+Business strategy  
+Advanced methods of management research IV  
+Modulbereich: International functional management 
+International marketing 
+Global operations strategy 
+Modulbereich: International information management 
+E-Business projects and innovation 
+Service innovation 
+Modulbereich: Soft skills  
+Managing intercultural relations 
+International management solutions 
+Modulbereich: International finance and change management 
+International finance 
+Change Management 
+Modulbereich: International corporate sustainability 
+Business ethics and corporate social responsibility 
+Management and organization theories through the lens of mission-driven 
+organizations 
+Modulbereich: International relations  
+The organization of the international system 
+Power, order and institutions in world politics 
+Elective Courses (Wahlbereich) 
+Modulbereich: Area studies (1 Area out of 4) * 
+Modulbereich: English speaking countries (English)** 
+Area specific language courses – English speaking countries* 
+Issues in political economy 
+Issues in global governance 
+Issues in international trade 
+International trade and labor 
+Issues in global economic governance 
+Economics of Innovation 
+Managerial economics and business strategy 
+Free specialisation module (Area studies: English speaking countries)*** 
+Courses exchange semester (Area studies: English speaking countries)**** 
+Modulbereich: Romance countries (Spanish, French)** 
+Area specific language courses – Romance countries* 
+Agile Arbeitsweisen im Kontext Lateinamerikas  
+Development economics and politics 
+International relations and Latin America 
+Latin America in the era of globalisation 
+Topical Issues in International Politics and International Economics 
+Free specialisation module (Area studies: Romance countries)*** 
+Courses exchange semester (Area studies: Romance countries)**** 
+Modulbereich: Asia (English)** 
+Area specific language courses – Asia* 
+Organizing for digital transformation Digital transformation project 
+Research projects in international management I 
+Research projects in international management II 
+Human Resource Management in Asia 
+Free specialisation module (Area studies: Asia)*** 
+Courses exchange semester (Area studies: Asia)**** 
+Modulbereich: Europe (German)** 
+Area specific language courses - Europe* 
+
+60 
+10 
+5 
+5 
+
+10 
+5 
+5 
+10 
+5 
+5 
+10 
+5 
+5 
+10 
+5 
+5 
+10 
+5 
+5 
+10 
+5 
+5 
+10 
+5 
+
+5 
+10 
+5 
+5 
+
+30 
+30 
+
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+
+ 30  
+
+5 
+5 
+5 
+5 
+5 
+
+30 
+
+5 
+5 
+5 
+5 
+
+30 
+
+10  
+
+10  
+
+10  
+
+5 
+
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+Die europäische Integration nach dem Zweiten Weltkrieg 
+Europäische Mediensysteme und Öffentlichkeit I 
+Europäische Mediensysteme und Öffentlichkeit II 
+Europäisches Verfassungsrecht 
+Europäisches Wirtschaftsrecht 
+Fallkolloquium Europäisches Wirtschaftsrecht 
+Internationalisierung mittelständischer Unternehmungen  
+Branchen- und themenspezifisches Nachhaltigkeitsmanagement 
+International Trade and Labor 
+Issues in Political Economy 
+Economics of Innovation 
+Managerial economics and business strategy 
+Free specialisation module (Area studies: Europe)*** 
+Courses exchange semester (Area studies: Europe)**** 
+Further elective modules can be listed in the module handbook 
+Masterthesis 
+Masterthesis 
+
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+5 
+
+30 
+30 
+
+30 
+
+SWS 
+ECTS 
+
+120 
+
+30 
+
+30 
+
+30 
+
+30 
+
+* MIBS students can take up to 10 ECTS of language courses. This means students are free to 
+integrate either 0 ECTS, 5 ECTS, or 10 ECTS of language courses into their Area Studies. 
+Requirements for language courses being counted as ECTS are the following: 
+Minimum language level English: C1, all other languages: 5 ECTS minimum A2, 5 ECTS minimum B1. 
+Example: In case a language courses at the A2 level is taken in any language other than English, only 
+the first 5 ECTS count towards the Area Studies, e.g. German A2.1 can be integrated, while the 
+course German A2.2 will not count; however, German B1.1 would count again. 
+
+** You can choose among all courses mentioned for your area in the Module Handbook (30 ECTS). 
+Out of those 30 ECTS, you can take up to 10 ECTS of language courses. 
+Students can take up to 10 ECTS in languages. Alternatively, other courses of the respective area can 
+be used as substitutes for the language courses. 
+
+*** You can choose among all other courses offered at our university that are accepted by the 
+respective program coordinator. These courses are called Free Specialisation Modules (FSM). A 
+detailed explanation can be found at the end of this document. 
+
+**** You can take courses at one of our partner universities or other universities (up to 30 ECTS). Of 
+those 30 ECTS, up to 10 ECTS can be language courses that are accepted by the program 
+coordinator or other departments (through learning agreements). 
+
+6 
+
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Information concerning the selection of courses in the 
+Area Studies(30 ECTS) 
+
+Generally, a minimum of 10 ECTS from courses listed in the MHB* in the respective Area Studies have to 
+be achieved.  
+A maximum of 20 ECTS can be achieved in FSM**. 
+A maximum of 10 ECTS can be achieved in languages. 
+As long as those prerequisites are fulfilled, various combinations of MHB courses, FSM and language 
+courses are possible: 
+
+MHB* courses for your area 
+(30 ECTS) – listed under the 
+respective Area in this 
+document 
+
+FSM** courses (your choice) 
+(20 ECTS) 
++ 
+MHB* courses for your area 
+(10 ECTS) 
+
+FSM** courses (your choice) 
+(20 ECTS) 
++ 
+Language courses for your 
+area 
+(10 ECTS) 
+
+OR… A blend. 
+
+Example for a blend: 
+
+FSM** courses (your choice) 
+(20 ECTS) 
++ 
+MHB* courses for your area 
+(5 ECTS) 
++ 
+Language courses for your 
+area 
+(5 ECTS) 
+
+*MHB = Module Handbook  
+
+**FSM = Free Specialization Module 
+
+Instructions for creating a course schedule: 
+
+Students  have  the  opportunity  to  create  their  own  course  schedule  in  our  virtual  course 
+database  univis.  Most  available  courses  for  each  semester  can  be  found  there,  sorted  by 
+specific areas of interest or a specific chair, including pieces of information about the lecturer, 
+venues, and content. 
+By  accessing  the  following  path  https://univis.fau.de/  >>  Vorlesungsverzeichnis  >>  Rechts- 
+und Wirtschaftswissenschaftliche Fakultät (RW) >> Fachbereich Wirtschaftswissenschaften, 
+all  courses  of  the  FAU’s  School  of  Business,  Economics  and  Society  can  be  addressed. 
+Bachelor’s and Master’s courses can be selected on this page. A guidance on how to create 
+your final course schedule can be found here (in German): www.wiso.fau.de/stundenplan 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Hinweis zu Art und Umfang von Prüfungsleistungen 
+
+Die  Art  der  am  Fachbereich  Wirtschaftswissenschaften  gültigen  Prüfungsleistungen  ist 
+definiert  in  §16  Prüfungsarten  der  Master-Rahmenprüfungsordnung  (MPO).  Darüber  hinaus 
+sind  Prüfungsumfänge  in  den  §§17,  18  MPO  geregelt.  Die  Prüfungsordnungen  sind  unter 
+folgendem Link einzusehen: http://www.zuv.fau.de/universitaet/organisation/recht/studiensatzungen/rw.shtml#Wirtschaft  
+Soweit  die  einzelnen  Modulbeschreibungen  nichts  Genaueres  definieren,  sind  für  die 
+Masterstudiengänge  am  Fachbereich  folgende  Prüfungsformen  mit  den  entsprechenden 
+Prüfungsumfängen gültig: 
+
+English: Those are the valid assessment forms used in this institution: 
+
+Prüfungsart (examination form) 
+
+Assessment 
+
+1.  schriftliche Prüfung (written assessment forms) 
+
+a. 
+
+b. 
+
+c. 
+
+Written examination 
+
+Written assignment 
+
+Seminar paper 
+
+60/ 90/ 120 minutes 
+
+Approx. 15 pages 
+
+Approx. 15 pages 
+
+1.  mündliche Prüfung (Oral examination) 
+
+Approx. 20 minutes 
+
+2.  Sonderformen (other assessment forms) 
+
+1.  Research project/Project report 
+
+2.  Placement report 
+
+3.  Handout 
+
+4.  Report 
+
+5.  Short test 
+
+6.  Presentation 
+
+7.  Presentation/Presentation paper 
+
+8.  Discussion paper 
+
+9.  Moderation 
+
+10.  Demonstration lesson 
+
+11.  Case Study 
+
+12.  Class participation 
+
+13.  Portfolio 
+
+14.  Electronic examination 
+
+15.  Multiple-choice test 
+
+16.  Research participation 
+
+17.  Reflection paper 
+
+18.  Strategic concept 
+
+Approx. 30 pages 
+
+Approx. 4 pages 
+
+Approx. 2 pages 
+
+Approx. 6 pages 
+
+Approx. 15 minutes 
+
+Approx. 25 minutes 
+
+Approx. 20 minutes /approx. 20 
+pages 
+Approx. 10 pages 
+
+Approx. 20 minutes 
+
+Approx. 45 minutes 
+
+Approx. 25 minutes and/or 
+approx. 10 pages 
+Approx. 10 minutes 
+
+Not specified  
+
+Approx. 90 minutes 
+
+Approx. 30 minutes 
+
+Approx. 60 minutes 
+
+Approx. 10 minutes or approx. 10 
+pages  
+Approx. 6 pages 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rechtsbelehrung 
+
+Alle Angaben sind ohne Gewähr. 
+Im Zweifelsfall gilt die Master-Prüfungsordnung. 
+Wenden Sie sich bei Fragen bitte direkt 
+an den zuständigen Modulverantwortlichen. 
+
+ Stand: 
+12. Mai 2020 
+
+Legal instructions 
+
+No responsibility is taken for the correctness of the details provided. 
+In case of doubt, the examination regulations of the respective Master’s degree are valid. 
+In case of any further questions, please directly contact  
+the responsible person or coordinator of the course. 
+
+Last updated: 
+12 May 2020 
+
+Programmkoordinator / Program coordinator:  
+
+Laura Kirste, M.Sc. & Marcus Conrad, M.Sc.   
+University of Erlangen-Nürnberg  
+School of Business & Economics 
+Department of International Management 
+Lange Gasse 20 
+90403 Nürnberg 
+Germany 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Index 
+
+Issues in international political economy ...............................................................................13 
+International and European trade law ...................................................................................14 
+Foundations of international management I ..........................................................................15 
+Foundations of international management II .........................................................................17 
+Business strategy .................................................................................................................19 
+Advanced methods of management research IV ..................................................................21 
+International marketing .........................................................................................................22 
+Global operations strategy ....................................................................................................23 
+E-business projects and innovation ......................................................................................25 
+Service innovation ................................................................................................................27 
+Managing intercultural relations ............................................................................................29 
+International management solutions .....................................................................................31 
+International finance .............................................................................................................32 
+Change management ...........................................................................................................33 
+Business ethics and corporate social responsibility ..............................................................35 
+Management and organization theories through the lens of mission-driven organizations ....37 
+The organization of the international system ........................................................................39 
+Power, order and institutions in world politics .......................................................................41 
+Area specific language courses – English speaking countries ..............................................44 
+Issues in political economy ...................................................................................................45 
+Issues in global governance .................................................................................................46 
+Issues in international trade ..................................................................................................47 
+International trade and labor .................................................................................................48 
+Issues in global economic governance .................................................................................49 
+Economics of Innovation ......................................................................................................50 
+Managerial economics and business strategy ......................................................................51 
+Courses exchange semester (Area studies: English speaking countries) .............................52 
+Free specialisation module (FSM) (Area studies: English speaking countries) .....................53 
+Area specific language courses – Romance countries .........................................................54 
+Negotiation Skills based on the Zurich Negotiating Model ® .................................................56 
+Agile Arbeitsweisen im Kontext Lateinamerikas ...................................................................57 
+Development economics and politics ....................................................................................58 
+Latin America in the era of globalisation ...............................................................................59 
+International relations and Latin America ..............................................................................60 
+Topical Issues in International Politics and International Economics.....................................61 
+Courses exchange semester (Area studies: Romance countries) .........................................62 
+Free specialisation module (FSM) (Area studies: Romance countries) .................................63 
+Area specific language courses – Asia .................................................................................64 
+Organizing for digital transformation .....................................................................................65 
+Digital transformation project (ones in summer term 2020) ...................................................67 
+Research projects in international management I .................................................................68 
+Research projects in international management II ................................................................69 
+Human Resource Management in Asia ................................................................................70 
+Courses exchange semester (Area studies: Asia) ................................................................71 
+Free specialisation module (FSM) (Area studies: Asia) ........................................................72 
+Area specific language courses – Europe ............................................................................73 
+Europäische Mediensysteme und Öffentlichkeit I .................................................................75 
+Europäische Mediensysteme und Öffentlichkeit II ................................................................76 
+Europäisches Verfassungsrecht (Europarecht 1)..................................................................77 
+Europäisches Wirtschaftsrecht (Europarecht 2) ....................................................................78 
+Fallkolloquium Europäisches Wirtschaftsrecht ......................................................................79 
+Internationalisierung mittelständischer Unternehmungen .....................................................80 
+
+10 
+
+ 
+ 
+ 
+Branchen- und themenspezifisches Nachhaltigkeitsmanagement ........................................82 
+International trade and labor .................................................................................................84 
+Issues in political economy ...................................................................................................85 
+Economics of Innovation ......................................................................................................86 
+Managerial economics and business strategy ......................................................................87 
+Courses exchange semester (Area studies: Europe) ............................................................88 
+Free specialisation module (FSM) (Area studies: Europe) ....................................................89 
+Master thesis international business studies .........................................................................90 
+Free Specialization Module (FSM)........................................................................................91 
+
+11 
+
+ 
+ 
+List of abbreviations 
+
+ECTS   
+
+European Credit Transfer System 
+
+MIBS   
+
+Master in International Business Studies 
+
+SS 
+
+WS 
+
+Lect 
+
+Ex 
+
+S 
+
+Summer semester/term 
+
+Winter semester/term 
+
+Lecture 
+
+Exercise 
+
+Seminar 
+
+SWS 
+
+Time a module will be held per week. One SWS is 45 minutes 
+
+P 
+
+H 
+
+Min 
+
+Tbd 
+
+Tba 
+
+Presentation 
+
+Hours 
+
+Minutes 
+
+To be determined 
+
+To be announced  
+
+FSM 
+
+Free Specialization Module 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54440 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Issues in international political economy 
+
+5 ECTS 
+
+V: Issues in international political economy (2 SWS) 
+Ü: Issues in international political economy (2 SWS) 
+Prof. Christoph Moser and staff 
+
+2,5 ECTS 
+2,5 ECTS 
+
+4. 
+
+5. 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+  Contents  
+
+This course deals with international trade policy. The focus will be 
+on  the  political  and  economic  determinants  and  consequences  of 
+trade  liberalization  as  well  as  trade  policies  that  increase  trade 
+barriers. The  course  will  provide  important  insights  into the global 
+governance  of 
+the  World  Trade 
+Organization  and  the  role  of  the  United  States,  China  and  the 
+European Union. 
+
+international 
+
+flows, 
+
+trade 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+Students gain an understanding of the importance and evolution of 
+the  international  trading  system  and  how  it  affects  multinational 
+corporations  (MNCs).  Students  learn  about  different  trade  policy 
+tools, their economic consequences and their political constraints, 
+in particular in the United States, China and the European Union. 
+Students learn to critically assess trade-related news in the media. 
+Basic knowledge of microeconomics (e.g., Varian, Hal (2014), 
+Intermediate Microeconomics: A Modern Approach, 9th 
+international edition). 
+Semester 2, 4 
+
+Master IBS: core course (Pflichtbereich) 
+Master Wirtschaftspädagogik, Studienrichtung II: elective course 
+(Wahlbereich im Zweitfach Sozialkunde), core course 
+(Pflichtbereich im Zweitfach Englisch) 
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+
+10.    Method of examination  Written examination 60 min. (Klausur 60 Min.) 
+
+11.    Grading procedure 
+
+Written examination result 100% (Prüfungsergebnis 100 %) 
+
+12.    Module frequency 
+
+Summer term (SS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 60 h 
+Self-study: 90 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Krugman, P., M. Obstfeld and M. Melitz (2017/18), “International 
+Trade: Theory and Policy” OR “International Economics: Theory 
+and Policy,” 11th global edition. Further, course materials will be 
+announced in the course. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+  Module name 
+MIBS-55270 
+  Courses/lectures 
+
+International and European trade law 
+
+5 ECTS 
+
+Lect/S: International and European trade law (2 SWS) 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Ismer/Prof. Meßerschmidt 
+
+  Module coordinator 
+
+Prof. Ismer 
+
+4. 
+
+5. 
+
+  Contents  
+
+Basics of International and European Law: 
+-  EU Trade Law 
+-  Concept of Internal Market 
+-  Economic Freedoms and Law of Competition 
+-  Economic Globalization and the Law of the WTO 
+-  The World Trade Organization 
+-  WTO Dispute Settlement 
+-  Principles of Non-Discrimination 
+-  Rules on Market Access 
+-  Rules on Unfair Trade 
+-  Trade Liberalisation versus other societal values and interests 
+-  WTO and EU Law 
+
+Students will 
+- know the European Economic Law and WTO-Law as 
+fundamental basis of the International Trade Law 
+- be able to analyse and discuss specific aspects of European and 
+International Economic Law on an advanced level 
+- will be able to produce case studies 
+- will achieve an advanced skill of analysis 
+Basic knowledge of European Economic Law 
+
+Semester 2, 4 
+
+Master IBS: core course (Pflichtbereich); 
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written examination 60 min (Klausur 60 Min.) 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+(optional: participation in the debating forums on StudOn can 
+improve final grade up to 0.7; only if done under given 
+specifications and passing the exam with 4.0 or better) 
+Written examination result 100% (Klausurergebnis 100 %) 
+
+Summer term (SS) 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Van den Bossche/Prévost, Essentials of WTO Law, 3. Auflage 
+2017 (in WISO-Bibliothek available)  
+Additional Course materials will be announced in the course. 
+
+14 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-53710 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Foundations of international management I 
+
+5 ECTS 
+
+Lect/S: Foundations of international management I (3 
+SWS) 
+Prof. Holtbrügge and assistants 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+1. Environment of International Management: History and Major  
+    Trends 
+2. Theoretical and Conceptual Foundations of International  
+    Management 
+3. Theories of Internationalization 
+4. Strategic Management in International Corporations. 
+
+The  participants  understand  and  analyze  typical  management 
+problems  of  international  firms.  The  participants  will  get  to  know 
+modern theories and methods of international management and will 
+be  able  to  apply  these  to  practical  problems.  They  get  a  detailed 
+overview of the current state of international management research 
+and  are  able  to  evaluate  theoretical  and  empirical  studies  in  this 
+area critically. 
+English language proficiency (C1) 
+
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management“  
+Master Sozialökonomik: freier Vertiefungsbereich sowie im 
+Pflichtbereich „Spezielle BWL“ 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Master IIS: Module in the section Customized Introduction to IIS 
+(Management)  
+Master Management: Vertiefungsbereich 
+
+10.    Method of examination  Lect: Written examination 60 min. (Klausur 60 Min)  
+
+S: Presentation (Präsentation ) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+13.    Workload 
+
+14.    Module duration 
+
+If initial examination can´t be realized due to Corona: 
+Report (3 pages) and Presentation 
+Written examination result (Lect.) (80%), Presentation (S) (20%); 
+Exam language: English 
+(Klausurergebnis 80% und Präsentation 20%)  
+
+If initial examination can´t be realized due to Corona: 
+Report (80%) und Presentation (20%) 
+WS 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.    (Recommended) 
+
+reading 
+
+Holtbrügge, D./Welge, M.K.: Internationales Management. 6th ed., 
+Schäffer Poeschel: Stuttgart 2015 (chapters 1-4). 
+Cavusgil, S.T./Knight, G./Riesenberger, J.R.: International 
+Business. Strategy, Management and the  New Realities. 3rd 
+Global edition. Pearson Prentice Hall: New Jersey 2014 (chapters 
+1-3, 6, 9-10, 12-16). 
+Holtbrügge, D./Haussmann, H. (Hrsg.): Internationalization 
+Strategies of Firms. Case Studies from the Nürnberg Metropolitan 
+Region. 2nd edition. Augsburg-München 2017. 
+
+16 
+
+ 
+ 
+1. 
+
+  Module name 
+MIBS-53720 
+
+2. 
+
+  Courses/lectures 
+
+Foundations of international management II 
+
+5 ECTS 
+
+Lect/S: Foundations of international management II (3 
+SWS) 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+4. 
+
+5. 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+  Contents  
+
+1. Organization of International Corporations 
+2. Human Resource Management in International Corporations 
+3. Public Affairs Management in International Corporations 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+The participants understand and analyze typical management 
+problems of international firms. The participants will get to know 
+modern theories and methods of international management and 
+will be able to apply these to practical problems. They get a 
+detailed overview of the current state of international management 
+research and are able to evaluate theoretical and empirical studies 
+in this area critically. 
+Successful attendance of Foundations of International 
+Management I 
+English language proficiency (C1) 
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Management: Vertiefungsbereich 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management“  
+Master Sozialökonomik: freier Vertiefungsbereich oder im 
+Pflichtbereich „Spezielle BWL“ 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: elective course (Wahlbereich) 
+Master IIS: Module in the section Customized Introduction to IIS 
+(Management)  
+
+10.    Method of examination  Lect: Written examination 60 min. (Klausur 60 Min)  
+
+S: Presentation (Präsentation ) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+If initial examination can´t be realized due to Corona: 
+Report (3 pages) and Presentation 
+Written examination result (Lect.) (80%), Presentation (S) (20%); 
+Exam language: English 
+(Klausurergebnis 80% und Präsentation20%)  
+
+If initial examination can´t be realized due to Corona: 
+Report (80%) and Presentation (20%) 
+WS 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Holtbrügge, D./Welge, M.K.: Internationales Management. 6th ed., 
+Schäffer Poeschel: Stuttgart 2015 (chapters 5, 6, 8) 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cavusgil, S.T./Knight, G./Riesenberger, J.R.: International 
+Business. Strategy, Management and the New Realities. 3rd Global 
+ed., Pearson Prentice Hall: New Jersey 2014 (chapters 5, 7, 8, 12, 
+19) 
+Holtbrügge, D./Haussmann, H. (Hrsg.): Internationalization 
+Strategies of Firms. Case Studies from the Nürnberg Metropolitan 
+Region. 2nd edition. Augsburg-München 2017. 
+
+18 
+
+ 
+1. 
+
+  Module name 
+MIM-53410 
+
+Business strategy 
+
+2. 
+
+  Courses/lectures 
+
+Lect/Ex: Business strategy (3 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Junge and assistants 
+
+  Module coordinator 
+
+Prof. Junge / Prof. Hungenberg 
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+This  course  focuses  on  selected  theories,  concepts  and  tools  of 
+strategic management. It is concerned with formulation and imple-
+mentation of strategies, focusing on the business level of strategy. 
+At  business  level,  customer  value  and  competitive  advantage  are 
+the central issues. In this context, the digital transformation triggers 
+digital business models, such as platform strategies or other related 
+disruptive  innovations.  Therefore,  the  digital  transformation  is  a 
+central focus of this course. 
+The course uses a combination of lectures, discussions and case 
+studies in order to provide the analytic and conceptual foundations 
+for making strategic decisions at business level. 
+By  the  end  of  the  course  students  can  appreciate  the  need  for  a 
+comprehensive approach to strategy making and they are aware of 
+top  management's  role  in  setting  the  direction  of  a  company. 
+Students  develop  knowledge  of  theories,  concepts  and  tools  of 
+business  strategy  and  they  develop  an  understanding  of  the 
+application of concepts and tools to real life cases. 
+None 
+https://www.unternehmensfuehrung.rw.fau.de/studium-
+lehre/aktuelle-lehre/business-strategy/ 
+Semester 1 
+
+Master IBS: core course (Pflichtbereich) 
+Master Management: Pflichtbereich I 
+Master Wirtschaftspädagogik, Studienrichtung I: 
+fachwissenschaftlicher Pflichtbereich; Studienrichtung II: 
+fachwissenschaftlicher Wahlbereich  
+Master Wirtschaftsingenieurwesen: Wahlbereich 
+Master IIS: Module in the section Customized Introduction to IIS 
+(Management) 
+Master International Production Engineering and Management: 
+Interdisziplinäre IEM 
+
+10.    Method of examination  Written examination (60 min) (Klausur 60 Min.) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+13.    Workload 
+
+14.    Module duration 
+
+Written examination result (100%) (Klausurergebnis 100%) 
+An improvement of the grade at the maximum of 0.3 / 0.4 can be 
+achieved by class participation during the case sessions. The 
+evaluation is based on the quality of statements, case and fact 
+knowledge as well as the ability to reflect on contributions made by 
+other students and the lecturer. 
+Winter term (WS) 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+16.    (Recommended) 
+
+reading 
+
+  Hungenberg, H.: Strategisches Management in 
+
+Unternehmen, 8. Ed., Wiesbaden 2014 
+
+  Dess, G., McNamara, G., Eisner, A.: Strategic 
+
+management, 8. Ed., Maidenhead 2016 
+
+20 
+
+ 
+1. 
+
+  Module name 
+MIM-55461 
+
+2. 
+
+  Courses/lectures 
+
+Advanced methods of management research IV 
+
+5 ECTS 
+
+S: Advanced methods of management research IV (3 
+SWS) (Mandatory attendance) 
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+  Contents  
+
+Current issues in the field of International Management 
+
+4. 
+
+5. 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+The students learn about advanced methods of management 
+research and how to apply them to current questions in the field of 
+International Management. Students carry out a research project in 
+this field that consists of all relevant phases (literature review, 
+theoretical concept, hypothesis development, data collection and 
+analysis, theoretical and practical contribution). They are able to 
+critically reflect their research interests of relevance and rigor 
+(representativeness, reliability, validity, etc.). 
+Foundations of International Management I (required) 
+Foundations of International Management II (required) 
+Knowledge of advanced statistics and SPSS is required. 
+English language proficiency (C1) 
+The number of participants is restricted. 
+Semester 2 (Before students start to write their master thesis. The 
+seminar is a prerequisite if students want to write their master 
+thesis at the Department of International Management) 
+Master IBS: core course (Pflichtbereich) 
+Master Management: Pflichtbereich II (MIM-5460) 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+  Integration in 
+curriculum 
+
+9. 
+
+Module compatibility 
+
+10.    Method of examination  Written examination (30 min), Presentation, seminar paper 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+Written examination (33%), Presentation (33%), seminar paper 
+(33%) 
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 21 Abs. 1 Sätze 2 und 4 der 
+BPOWiWi in der jeweils geltenden Fassung alle Teilleistungen in 
+demselben Semester bestanden  werden. Wegen des 
+untrennbaren Bezugs der Teilleistungen aufeinander ist 
+abweichend von § 31 Abs. 1 Satz 2 BPOWIWI eine Wiederholung 
+nur einer der nicht bestandenen Teilleistungen nicht möglich. Das 
+Nichtbestehen einer der Teilleistungen erfordert die Wiederholung 
+der gesamten Prüfung. 
+SS  
+
+Attendance: 30h 
+Self-study: 120h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Tba in the course 
+
+reading 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+  Module name 
+MARK-54830 
+  Courses/lectures 
+
+International marketing  
+
+Lect: International marketing (2 SWS) 
+
+5 ECTS 
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+This course offers students a deep and specialized expertise in 
+marketing activities in an international environment. In addition, the 
+focus is on the evaluation, analysis and application of theoretical 
+marketing approaches. 
+
+The following topics will be discussed in particular: 
+
+-  The scope and challenge of international marketing 
+International market coverage strategy 
+- 
+-  Design of the international marketing-mix 
+-  Standardization vs. differentiation of international product, 
+
+price, sales, and communication management 
+
+Particular areas or regions covered in the lecture will be 
+announced prior to the course. 
+The  students  acquire  specialized  and  deep  knowledge  in  the 
+domain  of  international  marketing.  They  can  explain,  apply  and 
+reflect  on  theories,  terminologies,  peculiarities  and  limits  of  the 
+subject in a deepened and critical way. Foundations for the use of 
+the  marketing-mix  in  an  international  setting  are  taught  and  the 
+students are able to bring them into question critically. Furthermore, 
+the  students  are  able  to  independently  conceptualize  strategic 
+courses of action as well as scopes for design for the marketing-mix 
+in an international context. 
+none 
+
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Marketing:  
+
+-  Vertiefungsbereich Marketing Management 
+-  Wahlpflichtbereich der Modulgruppe „Marketing“ für beide 
+
+Vertiefungsbereiche, wenn nicht bereits im 
+Vertiefungsbereich Marketing Management gewählt 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written examination 60 min. (Klausur 60 Min.) 
+
+11.    Grading procedure 
+
+Klausur 100% 
+
+12.    Module frequency 
+
+WS 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Will be announced in the course. 
+
+reading 
+
+22 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIM-53650 
+
+Global operations strategy 
+
+2. 
+
+  Courses/lectures 
+
+Lect/S: Global operations strategy (2 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Voigt and research assistants 
+
+  Module coordinator 
+
+Prof. Voigt 
+
+4. 
+
+5. 
+
+  Contents  
+
+illustrate 
+
+During  the  past  decades,  operations  have  become  increasingly 
+international  or  even  global  in  nature.  Drivers  of  the  globalization 
+include increased competitiveness through offshore manufacturing 
+and global sourcing.  
+During this module, the increasing complexity and the challenges of 
+operations  on  a  global  scale  will  be  discussed  together  with  the 
+participants.  The  theory  modules  at  the  beginning  structure  the 
+options  of  a  general  operations  strategy  and 
+its 
+implementation in the organization.   
+The subject specific modules, elaborated by the participants, enable 
+a  profound  understanding  of  single  activity  areas  of  global 
+operations  and  their  relation  to  the  global  operations  strategy. 
+Therewith  the  students  will  get  insights  in  the  importance  of  an 
+integrated global operations strategy and will become familiar with 
+the main strategic options in this field. 
+Participation in the first seminar session is mandatory, as the 
+topics for the teamwork are chosen during this session by the 
+participants. 
+In  the  following  weeks,  based  on  own  research  using  scientific 
+sources, key topics are elaborated in teams. Following predefined 
+learning  targets,  the  students  need  to  structure  the  elaborated 
+content  in  an  academic  presentation  and  present  their  results  in 
+class. Thereby, the teams are responsible for developing a didactic 
+concept  in  order  to  support  the  understanding  of  the  discussed 
+topics. Furthermore, the participants are required to document their 
+research  method  as  well  as  their  results.  After  the  course,  the 
+participants  are  able  to  discuss  the  functions  and  impact  of 
+operations management in an international context. 
+None 
+
+Semester 1 or 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Management: elective course (Vertiefungsbereich) 
+Master Wirtschaftspädagogik, Studienrichtung I: elective course 
+(Wahlbereich)  
+Master Marketing: elective course (Wahlbereich)  
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Arbeit und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+Master in International Information Systems: Module in the section 
+Customized Introduction to IIS (Management II) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written examination 60 min. (Klausur 60 Min.), Presentation (group 
+
+11.    Grading procedure 
+
+presentation)  
+(3-5 minutes per participant) 
+Written examination 50%, Presentation (50%) 
+
+12.    Module frequency 
+
+Winter term (WS) 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+13.    Workload 
+
+14.    Module duration 
+
+All participants have to register in advance on StudOn! The 
+registration for GOS on StudOn starts mid-September. The 
+number of participants is limited to 60. 
+Attendance: 30 h 
+Self-study: 120 h 
+1 term 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+  Abele, E. et al. (2008): Global Production. A Handbook for 
+
+reading 
+
+Strategy and Implementation. Berlin: Springer. 
+
+  Reid, R. D. & Sanders N. R. (newest ed.): Operations 
+
+Management. Hoboken: Wiley & Sons. 
+
+  Slack, N. & Lewis, M. (newest ed.): Operations Strategy. 
+
+Harlow: PrenticeHall. 
+
+24 
+
+ 
+ 
+1. 
+
+  Module name 
+MIBS-56331 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+E-business projects and innovation  
+
+No.1: Innovation and leadership (Lect.)  
+or 
+No. 2: Interdisciplinary business project (S) 
+No. 1: Prof. Möslein and assistants 
+No. 2: Prof. Bodendorf and assistants 
+
+5 ECTS 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Möslein 
+
+4. 
+
+5. 
+
+  Contents  
+
+No. 1 :  
+The lecture focuses on the challenges of leading and 
+communicating innovation and change in IT enabled companies 
+and networked organizations. Based upon that, creating a 
+sustainable innovative environment is a leadership task. In order to 
+succeed at this task, leaders must develop innovative abilities to 
+deal with the challenges inherent in a business environment 
+characterized by fluid, unstructured and changing information. The 
+aim of this course is thereby twofold.  
+First, the course delineates and describes different yet emerging 
+innovation tools, organizing them into a coherent set of classes. 
+Each class of tools is described using a set of up-to-date business 
+cases that depict the current status of the information systems.  
+The second aim of this course is to get an overview of how to 
+structure leadership systems towards innovation, how leaders can 
+motivate to foster innovative thinking and what new forms of 
+innovation (e.g. open innovation) mean for the definition of 
+leadership.  
+In doing so, this lecture represents an Idea Transformation Class 
+as students are encouraged not only to merely develop, but to 
+actively deploy specifically developed concepts. 
+
+No. 2 :  
+This seminar confronts students with real international IS business 
+challenges in an interdisciplinary context. Students will learn how to 
+address real-world  IS  problems  and  to  create  application-oriented 
+solutions  based  on  sound  methods  rooted  in  robust  theoretical 
+frameworks and a well-founded evidence base. 
+The students: 
+• will understand and explore the theories and practicalities of 
+leadership in open innovation contexts. 
+• will gain knowledge on leading and communicating innovation 
+and translate it in leadership behavior in real case contexts. 
+• will learn to assess, reflect and feedback the impact of practical 
+leadership for innovation. 
+• can independently define new application-oriented problem 
+solving in e-business in relation to the economic impact for 
+businesses, along with solving problems using the appropriate 
+methods. 
+• discuss possible solutions in groups and present their research 
+results. 
+• 
+•  Basic understanding of management processes 
+•  First experience in team projects 
+
+- Basic understanding of innovation management 
+
+25 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8. 
+
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+No. 1: Semester 1 
+No. 2: Semester 2 or 4 
+Master IBS: core course (Pflichtbereich) 
+Master International Information Systems: Module in the section 
+Information Systems – Digital Business (Core Course or Elective) 
+(IIS 7053) 
+Master Management: Vertiefungsbereich (IIS 7053) 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management“ 
+
+10.    Method of examination  No. 1:  Lect/Ex: Research project (tw. In Gruppenarbeit) and 
+
+Presentation  
+(Vorlesung/Übung: Projektarbeit (tw. In Gruppenarbeit) und 
+Präsentation ) 
+No. 2: Seminar paper and presentation (Seminararbeit und 
+Präsentation) 
+No. 1: Lect/Ex: Research project (tw. In Gruppenarbeit) (100%) 
+and Presentation (passed) 
+(Vorlesung/Übung: Projektarbeit (tw. In Gruppenarbeit) (100%) 
+und Präsentation (bestanden)) 
+No. 2: Seminar paper (100%) and presentation (Seminararbeit ( 
+100%) und Präsentation ) 
+No. 1: Winter term (WS) 
+No. 2: Summer term (SS) 
+Students can take only one of the two courses offered. Students 
+can obtain a maximum of 5 ECTS in this module. 
+No. 1: Attendance: 45h, self-study: 105h 
+No. 2: Attendance: 30h, self-study: 120h 
+1 semester 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+No. 1: Huff, Möslein & Reichwald: Leading Open Innovation; 
+2013  
+MIT Press,ISBN-13: 978-0262018494 
+No. 2: Course materials will be announced in the course 
+
+26 
+
+ 
+1. 
+
+Module name 
+IIS-57240 
+
+2. 
+
+  Courses/lectures 
+
+72401 
+
+Service innovation  
+This course is a core course for students who started 
+studying the MIBS program in WS 2018 or later. 
+Students who started in WS 2017 or earlier can include 
+this course in their area studies only. 
+Service innovation 
+
+5 ECTS 
+
+2,5 ECTS 
+
+2,5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Dr. Möslein, Prof. Dr. Roth and colleagues 
+
+  Module coordinator 
+
+Prof. Möslein  
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+
+  Module compatibility 
+
+Services now account for over 80% of all transactions in 
+developed economies, but typically receive much less R&D 
+attention than products. Developing service innovations demands 
+a clear strategy from businesses with four interlocking core 
+elements: search, selection, implementation and evaluation of 
+innovative concepts. If even one of these phases is not been 
+clearly thought through, the entire innovation process is likely to 
+collapse. This course focuses on successful approaches, methods, 
+tools and efforts to develop service innovations. 
+Further information can be found on www.wi1.fau.de. 
+The students can: 
+
+• 
+
+• 
+
+learn about items, notions, characteristics and special 
+features in innovation management for services, service 
+design methods and cases. 
+learn to judge and discuss innovation management tasks 
+and alternative solutions with respect to the specialites of 
+services. 
+
+•  experience methods of service design by themselves in 
+
+interactive lectures, gain a feeling for suitable methods and 
+learn to reflect different effects. 
+
+•  apply their knowledge and competences in  solving cases 
+
+and thereby analyze selected issues of managing, 
+developing and innovating services. 
+
+•  work together in international small work groups, present 
+their results in English, give feedback to other students’ 
+work and discuss different solution approaches. 
+Basic understanding of product and service business 
+
+General knowledge on management and strategy 
+Openness to work interactively and in interdisciplinary and 
+
+- 
+processes 
+- 
+- 
+international teamsNone 
+Semester 2, 4 
+
+Master in International Information Systems: Module in the section 
+Information Systems – Digital Business (Elective) 
+Master Management: Vertiefungsbereich 
+Master Wirtschaftspädagogik, Studienrichtung I: Wahlbereich 
+Master Sozialökonomik: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Economics: Wahlbereich 
+Master IBS: core course (Pflichtbereich) 
+
+10.    Method of examination  Lect/Ex: Written assignment (Vorlesung/ Übung: 
+
+Hausarbeit)Seminar paper and presentation (Seminararbeit und 
+Präsentation) 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+11.    Grading procedure 
+
+Seminar paper  (Seminararbeit) (tw. In Gruppenarbeitpartly group 
+work): (70%) and presentation (partly group work) (30%) 
+
+12.    Module frequency 
+
+SS 
+
+13.    Workload 
+
+14.    Module duration 
+
+Contact hours: 30 h  
+Independent study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Specific literature will be listed in the course 
+
+reading 
+
+28 
+
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-53470 
+
+Managing intercultural relations 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+L/S: Managing intercultural relations (3 SWS) 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+1.  Relevance of Intercultural Management 
+2.  Intercultural Management Research: Scope and Results 
+3.  Manifestations and Functions of Culture 
+4.  Concepts of Culture 
+5.  Intercultural Communication and Negotiations 
+6.  Culture and Management: Organization, Motivation and 
+
+Leadership in Different Cultures 
+
+7.  Intercultural Competence 
+8.  Intercultural Training 
+9.  Conclusions 
+The  participants  understand  and  analyze  modern  theories  and 
+methods  of  management  and  apply  these  to  practical  problems. 
+They  get  a  detailed  overview  of  the  current  state  of  comparative, 
+cross-cultural, indigenous and post-collonial management research 
+and evaluate theoretical and empirical studies in these areas. They 
+are  able  to  conceptualize  and  measure  intercultural  competence 
+and  to  conduct  and  evaluate  innovative  methods  of  intercultural 
+training. They learn about methodological challenges of intercultural 
+management research and are able to asses its rigor and relevance. 
+English language proficiency (C1) 
+
+Semester 2, 4 
+
+Master IBS: core course (Pflichtbereich) 
+Master in Management: elective course (Vertiefungsbereich) 
+Master Sozialökonomik: elective course (Wahlpflichtbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Lect.: Written examination 60 min. (Klausur 60 Min.) 
+
+S.: Presentation (Präsentation) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+If initial examination can´t be realized due to Corona: 
+Report (3 pages) and Presentation 
+Written examination result (Lect.) (80%); Exam language: English, 
+presentation (S) (20%) (Klausurergebnis 80% und Präsentation 
+20%) 
+
+If initial examination can´t be realized due to Corona: 
+Report (80%) and Presentation (20%) 
+SS 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.    (Recommended) 
+
+reading 
+
+  Holtbrügge, D. (2019). Managing Intercultural Relations. 
+
+Nürnberg: Mimeo.  
+
+30 
+
+ 
+ 
+1. 
+
+  Module name 
+MIBS-56522 
+
+2. 
+
+  Courses/lectures 
+
+International management solutions   
+
+S: International management solutions (3 SWS) 
+(Mandatory attendance) 
+
+5 ECTS 
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+  Contents  
+
+Current issues in the field of International Management 
+
+4. 
+
+5. 
+
+6. 
+
+  Learning objectives and 
+skills 
+
+include  market  entry  strategies, 
+
+The  students  learn  about  current  challenges  in  international 
+management  and  develop  strategies  and  tools  for  their  solution. 
+international  human 
+Topics 
+resource  management  and  corporate  social  responsibility.  The 
+students develop creative skills and methodological competences, 
+and  apply  current  theoretical  knowledge  to  practical  management 
+problems. 
+Advanced knowledge of international and intercultural 
+management  
+English language proficiency (C1) 
+The number of participants is limited. 
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Management: Pflichtbereich II (MIBS-6523) 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Project report 
+
+11.    Grading procedure 
+
+Project report (100%) 
+
+12.    Module frequency 
+
+Winter term (WS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) reading  Tba in the course  
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MSE-52290 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+International finance 
+
+Lect.: International finance, theory and policy (2 SWS) 
+Exercise: International finance, theory and policy (1 
+SWS) 
+Prof. Merkl 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Merkl 
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+This course covers a wide range of topics (e.g., exchange rates 
+and exchange rate regimes, national accounts and capital flows, 
+international financial system, international banking and central 
+banking). Basic economic concepts will be provided as a 
+background. Statistics and empirical results will be shown to 
+understand the validity of these concepts. Recent real life 
+examples/case studies will be used to analyze the implications for 
+policy makers, international organisations and business. 
+Students 
+
+­  understand and apply basic concepts of exchange rate 
+
+determination and their validity. 
+learn about driving forces of capital flows. 
+
+­ 
+­  analyze how international (central) banking and the 
+
+international financial system work. 
+
+­  apply their knowledge in a presentation (either in case 
+
+study style or in a small quantitative project). 
+
+Macroeconomics (Bachelor) 
+
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+Master Economics: Elective compulsory subjects 
+(Wahlpflichtbereich) 
+Master FACT: Vertiefungsbereich (Modulgruppe Finanace and 
+Insurance) 
+
+10.    Method of examination  Written examination (60 minutes) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+[The grade can be improved up to 0.7 units with a voluntary 
+presentation during the winter term.] 
+Written examination (100%) 
+[The grade can be improved up to 0.7 with a voluntary 
+presentation during the winter term.] 
+Winter term (WS) 
+
+Attendance: 45 h 
+Self-study: 105 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Presentation slides and relevant literature will be provided 
+
+reading 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+ MIM-53460 
+
+Change management 
+
+2. 
+
+  Courses/lectures 
+
+L/P: Change management (2+1 SWS) 
+
+5 ECTS 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Junge and assistants  
+
+  Module coordinator 
+
+Prof. Junge / Prof. Hungenberg 
+
+4. 
+
+5. 
+
+  Contents  
+
+This module focuses on one of the most important management 
+tasks: to achieve change in organizations. It deals with systematic 
+approaches to influence individuals, teams and the organization as 
+a whole in a desired way – in order to develop a company from its 
+current to a future state. The currently ongoing digital 
+transformation makes this particularly worthwhile. Digitalization 
+drives change and thus represents a great challenge, but also 
+offers tremendous opportunities. The module provides participants 
+with a  systematic approach in order to (1) successfully initiate and 
+implement organizational changes and (2) successfully guide an 
+organization through a change process. Participants will be 
+provided with theoretical concepts and practical tools for managing 
+organizational change (e.g. research on cognitive biases, trait 
+theory, motivation theory, affective events theory, emotional 
+intelligence, and organizational ambidexterity). 
+At the end of this module, students are familiar with the tasks  and 
+challenges of managing change in organizations. The  participants 
+should develop an understanding of the importance of  successful 
+leadership during organizational change as well as  evaluate 
+situations, which are related to organizational change. 
+None 
+https://www.unternehmensfuehrung.rw.fau.de/studium-
+lehre/aktuelle-lehre/change-management/ 
+Semester 2, 4 
+
+Master Management: Vertiefungsbereich 
+Master IBS: Kernbereich 
+Master Wirtschaftspädagogik Studienrichtung I: 
+fachwissenschaftlicher Pflichtbereich; Studienrichtung II: 
+fachwissenschaftlicher Wahlbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich  
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master Wirtschaftsingenieurwesen: Wahlbereich 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written examination (60 min.) 
+Written examination (100 %) 
+11.    Grading procedure 
+
+12.    Module frequency 
+
+Summer term 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 45 h 
+Self-study: 105 h  
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+33 
+
+ 
+ 
+ 
+ 
+16.    (Recommended) 
+
+reading 
+
+Bazerman, M., Moore, D.: Judgement in Managerial Decision 
+Making, 8th ed., Hoboken 2017. 
+Greenberg, J.: Managing Behavior in Organizations, 6th ed., 
+Boston 2013. 
+Kahneman, D.: Thinking, Fast and Slow, 1st ed., New York 2013.  
+Robbins, S., Judge, T.: Organizational Behavior, 17th ed., Boston 
+2017. 
+
+34 
+
+ 
+1. 
+
+2. 
+
+ Module name 
+MIM-56780 
+ Courses/lectures 
+
+Business ethics and corporate social responsibility  5 ECTS 
+
+V: Business ethics and corporate social responsibility 
+(2 SWS) 
+
+5 ECTS 
+
+3. 
+
+ Lecturers 
+
+Prof. Beckmann  
+
+ Module coordinator 
+
+Prof. Beckmann 
+
+4. 
+
+5. 
+
+ Contents  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+This course combines the perspectives of the ethics of competitive 
+markets, business ethics, and corporate social responsibility. First, 
+we address the question of how social and environmental objectives 
+are  met  at  a  macro-level.  Here,  we  place  particular  emphasis  on 
+national and supranational governance structures. In a second step, 
+we  take  on  the  perspective  of  the  individual  firm  by  raising  the 
+question as to if and to what extent firms need to incorporate moral 
+issues into their value creation processes. Against this background, 
+corporate  social  responsibility  may  serve  as  a  means  of 
+implementing  these  moral  issues.  Thus,  we  take  a  closer  look  at 
+CSR, its origins, development, and tools. 
+Students: 
+
+•  Are able to provide differentiated arguments on 
+
+questions relevant to our society 
+
+•  Have skills to critically reflect current issues in 
+
+business ethics and CSR 
+
+•  Know concepts that help to critically reflect the role of 
+
+business in society  
+
+•  Understand the changing environment of companies 
+•  Are able to use dilemma structure as analytical tool 
+•  Understand the CSR discourse and its core concepts 
+
+None 
+
+Semester 2, 4 
+
+•  Modul im Vertiefungsbereich des Masters in Management 
+•  Modul im freien Vertiefungsbereich Master Sozialökonomik 
+•  Modul im freien Vertiefungsbereich des Masters in 
+
+International Business 
+
+•  Modul im Vertiefungsbereich des Master Marketing 
+•  Modul im fachwissenschaftlichen Pflichtbereich der 
+
+Studienrichtung I oder Modul im fachwissenschaftlichen 
+Wahlbereich der Studienrichtung II im Master 
+Wirtschaftspädagogik 
+•  Modul im Master FACT  
+
+10. 
+
+ Method of examination  E-Klausur / electronic exam (60 min, incl. multiple-choice 
+
+Please register via StudOn; no. of participants: 150 
+
+11. 
+
+12. 
+
+13. 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+questions) 
+Exam (100%) 
+
+Summer term 
+
+Attendance: 30h 
+Self-study: 120h 
+1 Semester 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+15. 
+
+16. 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+English 
+
+Provided via StudOn 
+
+36 
+
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+ Module name 
+MIM-58060 
+ Courses/lectures 
+
+3. 
+
+ Lecturers 
+
+Management and organization theories through the 
+lens of mission-driven organizations 
+S: Management and organization theories through the 
+lens of mission-driven organizations (2 SWS) 
+(Compulsory attendance) 
+Prof. Beckmann und Dr. Zvezdov 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Beckmann 
+
+4. 
+
+5. 
+
+ Contents  
+
+This  course  takes  a  closer  look  at  management  and  organization 
+theories. Discussed in the context of organizations driven by a social 
+or environmental mission, these theories provide insights into why 
+organizations  exist,  how  they  function  and  how  they  interact  with 
+each other. This course addresses theories such as transaction cost 
+theory, agency theory or institutional theory. 
+Studying  management  and  organizations 
+the 
+perspective  of  mission-driven  organization  helps  us  to  better 
+understand 
+i.e. 
+simultaneously creating financial, social, and environmental value. 
+These  insights  provide  insights  into  many  issues  that  companies 
+face when implementing sustainability strategies. 
+Students: 
+
+the  potential  conflict  of  diverse 
+
+interests 
+
+theories 
+
+from 
+
+•  Are able to analyze classic articles in management and 
+
+organization theory 
+
+•  Can critically reflect these theories. In particular, students 
+
+are able to engage each other in fruitful classroom 
+discussions about the applicability of these theories as well 
+as on their boundary conditions.  
+
+•  Advance their feedback skills by providing other students 
+
+with feedback during class  
+
+•  Can apply these theories to the specific context of mission-
+
+driven organizations 
+
+•  Better understand the bigger picture i.e. to recognize 
+
+patterns in situations 
+
+•  Can employ their theoretical knowledge to examples from 
+
+practice. 
+
+•  Advance their teamwork skills through group work during 
+
+class as well as team presentations 
+
+None 
+
+Semester 2, 4 
+
+Master IBS: core course (Pflichtbereich) 
+Master Management: Pflichtbereich II (MIM-8061) 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management“  
+Master Sozialökonomik: freier Vertiefungsbereich sowie im 
+Pflichtbereich „Spezielle BWL“  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10. 
+
+11. 
+
+ Method of examination  Weekly theses development, seminar paper & presentation 
+
+Registration via StudOn; no. of participants: 30 
+
+ Grading procedure 
+
+Seminar paper (70%)  
+Presentation ( 30%) 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+16. 
+
+ Module frequency 
+
+Summer term 
+
+ Workload 
+
+ Module duration 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 28h  
+Self-study: 122h 
+1 Semester 
+
+English 
+
+Provided via StudOn 
+
+38 
+
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+ Module name 
+MIBS-52690 
+ Courses/lectures 
+
+3. 
+
+ Lecturers 
+
+The organization of the international system 
+
+5 ECTS 
+
+Lect.: The organization of the international system (2 
+SWS) 
+Prof. Gardini  
+
+5 ECTS 
+
+4. 
+
+5. 
+
+ Module coordinator 
+
+Prof. Gardini 
+
+ Contents  
+
+The lecture will cover the following main topics. 
+
+• 
+
+International system, international organisation, 
+cooperation and global governance: theoretical 
+perspectives and historical evolution. 
+
+•  The United Nations: historical overview, major organs, 
+competences and spheres of activity. The specialised 
+agencies. Proposals for reform. Peacekeeping. 
+
+•  Regionalism and regional organisations: The European 
+Union and the other European organisations; The 
+Americas; Asia, Africa and the Middle East. 
+International organization in the areas of economy, trade, 
+finance and development (World Bank, International 
+Monetary Fund, World Trade Organisation) 
+
+• 
+
+•  Topical and new issues in international organisation/global 
+governance: peace and security, economic and social 
+development, human rights, the environment. 
+Students who successfully complete this module will: 
+
+•  acquire  a  good  understanding  of  the  nature  of  the 
+international  system,  its  structures,  processes  and 
+main actors; 
+
+6. 
+
+ Learning objectives and 
+skills 
+
+•  have a good knowledge of the theoretical rationale and 
+international 
+
+empirical  examples  of 
+organisations and their role and activities; 
+
+the  main 
+
+•  have  a  good  knowledge  of  the  topical  issues  and 
+international 
+possible 
+
+debates 
+organisation/organisations 
+evolution; 
+
+contemporary 
+
+their 
+
+and 
+
+in 
+
+•  be able to assess critically the role and functions of key 
+international actors and organisations in specific case 
+studies 
+
+•  acquire a deep and critical understanding of the 
+current shift in international power, its nature and 
+distribution 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+None 
+
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+
+ Method of examination  Written Examination (90 minutes) 
+
+ Grading procedure 
+
+Written Examination: 100% 
+
+ Module frequency 
+
+Winter semester 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 Semester 
+
+39 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+15. 
+
+16. 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+English 
+
+•  Armstrong, Lloyd & Redmond, International Organisation in 
+
+World Politics, Palgrave, 2013 
+
+•  Karns & Mingst, International Organisations, Lynne 
+
+Rienner, 2009 
+
+•  Klabbers, An introduction to international organizations 
+
+Law, Cambridge University Press, 2015 
+
+40 
+
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+ Module name 
+MIBS-52700 
+ Courses/lectures 
+
+3. 
+
+ Lecturers 
+
+Power, order and institutions in world politics 
+
+5 ECTS 
+
+S: Power, order and institutions in world politics (2 
+SWS) (mandatory attendance) 
+Prof. Gardini 
+
+5 ECTS 
+
+4. 
+
+5. 
+
+ Module coordinator 
+
+Prof. Gardini 
+
+ Contents  
+
+The seminar will cover the following main topics. 
+
+• 
+
+International system, international organisation, 
+cooperation and global governance: theoretical 
+perspectives and historical evolution. 
+
+•  The contested notions of power, order and institutions: 
+
+theoretical perspectives and empirical examples: bridging 
+the gap between academia and the practice of international 
+affairs. 
+
+•  The changing nature of international power and its 
+
+distribution: rising powers, transnational corporations, state 
+and non-state actors. 
+International Economic power, order and public institutions 
+(WTO, WB, IMF) 
+International Economic power, order and private institutions 
+(WEF, WSF, CRAs, MNCs, NGOs) 
+
+• 
+
+• 
+
+•  Topical and new issues in international organisation/global 
+governance: peace and security, economic and social 
+development, human rights, the environment. 
+Students who successfully complete this module will: 
+
+•  acquire a good understanding of the nature of power, 
+order, and institutions in the international system; 
+•  understand the type of power projected by key actors 
+international 
+
+emerging 
+
+powers, 
+
+(US, 
+organizations) 
+
+EU, 
+
+6. 
+
+ Learning objectives and 
+skills 
+
+•  have  a  good  knowledge  of  the  topical  issues  and 
+debates  in  contemporary  international  relations  and 
+their possible evolution; 
+
+•  be able to assess critically the role and functions of key 
+international actors and organisations in specific case 
+studies 
+
+•  acquire a deep and critical understanding of the 
+current shift in international power, its nature and 
+distribution 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+None 
+
+Semester 1, 3 
+
+Master IBS: core course (Pflichtbereich) 
+
+ Method of examination 
+
+(Group-) Presentation, Seminar paper 
+
+ Grading procedure 
+
+ Module frequency 
+
+ Workload 
+
+Presentation: 40% 
+Seminar paper: 60% 
+Winter semester 
+
+Attendance: 30 h 
+Self-study: 120 h 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+14. 
+
+15. 
+
+16. 
+
+ Module duration 
+
+1 Semester 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+English 
+
+•  Hurrell, On Global Order, Oxford University Press, 2008 
+•  Narlikar, New Powers: How to become one and how to 
+
+manage them, Oxford University Press, 2010. 
+
+•  Brown and Ainley, Understanding international relations, 
+
+Palgrave, 2009 
+
+42 
+
+ 
+ 
+ 
+ 
+AREA STUDIES:
+
+43 
+
+ 
+ 
+1. 
+
+  Module description 
+
+MIBS-54861 
+
+Area specific language courses – English speaking 
+countries  
+
+10 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+4 English courses on level C1 CEFR / UNIcert® III: 
+
+English for academic purposes 1&2 
+English for international business 1&2 
+
+or 2 out of the 4 above English courses  
+
+and either 1 Spanish course on level A2 to B2 CEFR  
+
+or 2 Spanish courses on level C1 CEFR / UNIcert® III 
+
+or similar combinations. 
+
+each 2.5 
+ECTS 
+
+each 2.5 
+ECTS 
+
+5 ECTS 
+
+each 2.5 
+ECTS 
+
+3. 
+
+  Lecturers 
+
+Staff at the department Fremdsprachenausbildung 
+Nuremberg / language center (Head of department: Dr. 
+Oesterreicher) 
+
+4. 
+
+  Module coordinator 
+
+Dr. Oesterreicher 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+The focus of these courses is on deepening and extending the 
+students’ competencies in the foreign language(s) to effective 
+operational proficiency in the context of International Business. 
+The emphasis is on strengthening communicative competence 
+through task-based learning and practice in the 4 key skills 
+(listening, reading, speaking, writing). 
+The student acquires effective operational proficiency in the 
+foreign language(s) in relation to their academic studies and 
+professional life, and in intercultural and field-related 
+communicative competence which enables him/her to participate 
+in international business and postgraduate studies. 
+Successful completion of the underlying CEFR-level or equivalent 
+qualification or placement test 
+
+Semester 1,2, 3 and 4 
+
+Master IBS elective course (Wahlbereich) for students having 
+started the program in winter term 2015/16 or later 
+
+11.    Grading procedure 
+12.    Module frequency 
+13.    Workload 
+
+10.    Method of examination  60 min examination written and oral in each 2.5 ECTS course / 90 
+min. examination written and oral in 5 ECTS courses (Klausur und 
+mündl. Prüfung für jeden der vier Kurse) 
+Average of all four end of term exams 
+WS, SS 
+Attendance: 90 h 
+Self-study: 210 h 
+4 semesters 
+Foreign language chosen 
+
+14.    Module duration 
+15.    Teaching and 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS 56911 
+
+Issues in political economy 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+S: Issues in political economy (Mandatory attendance) 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Christoph Moser and staff 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+  Contents  
+
+This course deals with current topics in political economy and how 
+politics and economics interact in various fields in the United 
+States and the European Union. The course provides an 
+introduction into the political systems and discusses the 
+interactions between profit-maximizing firms and US and European 
+non-market agents like the government, regulatory institutions and 
+the public.The topics covered include but are not limited to the 
+impact of political connections, corruption, lobbying and the 
+reolving door on the United States of America and the European 
+Union. 
+Students gain a deeper understanding of how institutions, power 
+and economic outcomes interact with each other. There will be a 
+focus on the different actors such as governments, NGOs and 
+private sector representatives. Students will also learn about 
+empirical methods used in these fields. A special emphasis will be 
+placed on the United States, the Europen Union and the 
+transatlantic area. 
+Basic knowledge of economics, politics and econometrics. 
+
+Semester 2,4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Presentation, seminar paper  
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+15.    Teaching and 
+
+examination language 
+
+(Präsentation undSeminararbeit) 
+30% presentation, 70% seminar paper 
+(30% Präsentation, 70% Seminararbeit) 
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 19 Abs. 1 Satz 4 MPOWIWI 
+in der jeweils geltenden Fassung alle Teilleistungen in demselben 
+Semester bestanden werden. Wegen des untrennbaren Bezugs 
+der Teilleistungen aufeinander ist abweichend von § 25 Abs.1 Satz 
+2 MPOWIWI eine Wiederholung nur einer der nicht bestandenen 
+Teilleistungen nicht möglich. Das Nichtbestehen einer der 
+Teilleistungen erfordert die Wiederholung der gesamten Prüfung. 
+Summer term (SS) 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+English 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+
+Issues in global governance 
+
+MIBS-54381 54382 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+S. Issues in global governance (Mandatory 
+attendance) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+This course deals with the “dark side” of global governance, i.e., with 
+phenomena that are associated with a failure of global governance. 
+These  topics  include  but  are  not  limited  to  failed  states,  drug 
+trafficking, piracy, international terrorism and organized crime.  
+Students  gain  an  understanding  of  the  economic  and  political 
+consequences  of  a  failure  of  global  governance.  In  general, 
+students 
+the  scope  and  constraints  of  global 
+governance. 
+Basic  knowledge  of  the  concepts  of  economics  and  international 
+political economy.  
+Semester 2, 4 
+
+learn  about 
+
+Master IBS: elective course (Wahlbereich), 
+Master Wirtschaftspädagogik, Studienrichtung II: core course 
+(Wahlbereich im Zweitfach Englisch) 
+
+10.    Method of examination  30% presentation, 70% seminar paper  
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+(30% Präsentation und, 70% Seminararbeit) 
+30% presentation, 70% seminar paper  
+(30% Präsentation, 70% Seminararbeit) 
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 19 Abs. 1 Satz 4 MPOWIWI 
+in der jeweils geltenden Fassung alle Teilleistungen in demselben 
+Semester bestanden werden. Wegen des untrennbaren Bezugs 
+der Teilleistungen aufeinander ist abweichend von § 25 Abs.1 Satz 
+2 MPOWIWI eine Wiederholung nur einer der nicht bestandenen 
+Teilleistungen nicht möglich. Das Nichtbestehen einer der 
+Teilleistungen erfordert die Wiederholung der gesamten Prüfung 
+Summer term (SS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+
+MIBS-54450 54452 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+4. 
+
+5. 
+
+  Lecturers 
+
+  Contents  
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+Issues in international trade  
+
+S: Issues in international trade (Compulsory 
+attendance) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+5 ECTS 
+
+This course will focus on major developments in the international 
+trading system, on the multilateral, regional and bilateral level. 
+Special emphasis will be given to developments in the WTO, the 
+rule-making process and the completion of new multilateral 
+commitments. In addition, the pursuit of regional and bilateral trade 
+agreements will be monitored and its effects on businesses and 
+trade flows will be examined. Finally, a thorough analysis of the 
+trade policies pursued by developed and developing countries will 
+be offered. 
+Students gain a deeper understanding of the contemporary 
+developments of trade policies on the multilateral, regional and 
+country level and how it affects business and market opportunities. 
+Special emphasis will be on the United States and the European 
+Union. 
+Basic knowledge of the concepts of international economics and 
+international political economy. 
+Semester 1,3 
+
+Master IBS: elective course (Wahlbereich), 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Presentation, seminar paper 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+(Präsentation und Seminararbeit) 
+30% presentation, 70% seminar paper 
+(30% Präsentation, 70% Seminararbeit) 
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 19 Abs. 1 Satz 4 MPOWIWI 
+in der jeweils geltenden Fassung alle Teilleistungen in demselben 
+Semester bestanden werden. Wegen des untrennbaren Bezugs 
+der Teilleistungen aufeinander ist abweichend von § 25 Abs.1 Satz 
+2 MPOWIWI eine Wiederholung nur einer der nicht bestandenen 
+Teilleistungen nicht möglich. Das Nichtbestehen einer der 
+Teilleistungen erfordert die Wiederholung der gesamten Prüfung. 
+Winter term (WS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+1. 
+
+2. 
+
+ Module name 
+MIBS-57130 
+ Courses/lectures  
+
+3. 
+
+ Lecturers 
+
+International trade and labor  
+
+V: International trade and labor (2 SWS) 
+Ü: International trade and labor (2 SWS) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+ Contents 
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+ Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+This module deals with the consequences of globalization for the 
+domestic labor market and discusses the winners and losers of 
+trade liberalization.The module focuses on the impact of 
+international economic integration on domestic wages, jobs and 
+inequality, in particular in Germany and the United States. 
+Students are made familiar with the main relevant concepts of 
+international trade and aquire specialized knowledge of the labor 
+market effects of trade liberalization. Students learn about key 
+theoretical predictions, their empirical evidence and the empirical 
+strategies to assess their relevance. The module focuses on topics 
+at the intersection between international trade and labor. 
+Basic knowledge of microeconomics (e.g., Varian, Hal (2014), 
+Intermediate Microeconomics: A Modern Approach, 9th 
+international edition) and econometrics (e.g., Wooldridge, Jeffrey 
+(2013), Introductory Econometrics: A Modern Approach, 5th 
+international edition). 
+Semester 1, 3 
+
+Master Economics: elective course (Wahlbereich)  
+Master IBS: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+
+10. 
+
+ Method of examination  Written examination 60 min. (Klausur 60 Min.) 
+
+11. 
+
+ Grading procedure 
+
+Written examination result 100% (Prüfungsergebnis 100%) 
+
+12. 
+
+ Module frequency 
+
+Winter term (WS) 
+
+13. 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+15. 
+
+16. 
+
+Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60h 
+Self-study: 90h 
+1 semester 
+
+English 
+
+Krugman, P., M. Obstfeld and M. Melitz (2017/18), “International 
+Trade: Theory and Policy” OR “International Economics: Theory 
+and Policy,” 11th global edition. 
+Further course materials will be announced in the course. 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54462 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+4. 
+
+5. 
+
+  Lecturers 
+
+  Contents  
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+Issues in global economic governance  
+
+S: Issues in global governance (Compulsory 
+attendance) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+5 ECTS 
+
+This course deals with economical and political aspects of important 
+international institutions that govern global finance, global trade and 
+global  economic  policy  coordination.  It  highlights  that  many 
+economic challenges require international cooperation. The course 
+will  focus  on  key  players  of  global  economic  governance  like  the 
+International  Monetary  Fund  (IMF),  the  World  Bank,  the  World 
+Trade Organization (WTO) and geopolitically important players like 
+the United States and the European Union. 
+Students  gain  a  deeper  understanding  of  the  relevance  and 
+structure  of  global  economic  governance,  including  important 
+treaties,  development  aid  and  economic  crisis  management.  The 
+need  for  global  economic  governance  led  to  the  creation  of 
+important  international  institutions,  which  are  in  turn  shaped  by 
+influential stake holders. 
+Basic  knowledge  of  the  concepts  of  international  economics  and 
+international political economy. 
+Semester 1, 3 
+
+Master IBS: elective course (Wahlbereich), 
+Master Wirtschaftspädagogik, Studienrichtung II: core course 
+(Wahlbereich im Zweitfach Englisch) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Presentation, seminar paper (Präsentation und Seminararbeit) 
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+30% presentation, 70% seminar paper 
+(30% Präsentation, 70% Seminararbeit)  
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 19 Abs. 1 Satz 4 MPOWIWI 
+in der jeweils geltenden Fassung alle Teilleistungen in demselben 
+Semester bestanden werden. Wegen des untrennbaren Bezugs 
+der Teilleistungen aufeinander ist abweichend von § 25 Abs.1 Satz 
+2 MPOWIWI eine Wiederholung nur einer der nicht bestandenen 
+Teilleistungen nicht möglich. Das Nichtbestehen einer der 
+Teilleistungen erfordert die Wiederholung der gesamten Prüfung. 
+Winter term (WS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+  Module name 
+MSE-53295 
+  Courses/lectures  
+
+Economics of Innovation   
+
+L: Economics of Innovation (2 SWS) 
+T: Economics of Innovation (2 SWS) 
+
+3. 
+
+  Lecturers 
+
+Prof. Dr. Markus Nagler  
+
+ECTS 
+5 
+ECTS 
+5 
+
+  Module coordinator 
+
+Prof. Dr. Markus Nagler 
+
+4. 
+
+5. 
+
+  Contents  
+
+The  lecture  provides  an  introduction  to  economic  issues  of 
+innovation  and  new  ideas.  The  course  first  sets  out  general 
+problems in the economics of innovation such as the public goods 
+nature  of  ideas  and  the  importance  of  innovation  for  economic 
+prosperity.  In  the  second  part,  the  course  discusses  labour  and 
+personnel  issues  in  innovation  policy,  for  example  the  impact  of 
+immigration  on  innovation.  In  the  last  part,  the  course  analyses 
+issues  in  intellectual  property  rights  and  public  economics  topics 
+such  as  public  funding  of  research  and  the  consequences  of 
+innovation for inequality. 
+Students know the key issues in the economics of innovation and 
+the impacts of potential public policies to promote innovation. They 
+are able to assess current research in the economics of innovation 
+and are able to relate its results to fundamental policy questions in 
+the  area.  Students  are  acquainted  with  important  empirical 
+approaches in the area. 
+Basic microeconomics, basic econometrics 
+
+2nd semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+Master in Management: elective course (Vertiefungsbereich) 
+Master International Business Studies: elective course  
+Master Arbeitsmarkt und Personal: freier Vertiefungsbereich 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written exam (90 minutes) 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+Written exam (100%) 
+
+Summer term 
+
+13.    Workload 
+
+14.    Module duration 
+
+Presence: 60 h 
+Independent study: 90 h 
+Lecture notes are provided throughout the course (usually around 
+one week in advance). 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Scotchmer, Suzanne. “Innovation and incentives”. MIT press, 
+2004. 
+See syllabus for more details. 
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+1 
+
+2 
+
+ Module Name 
+FACT-53991 
+ Courses/lectures 
+
+Managerial economics and business strategy 
+
+5 ECTS 
+
+Lecture: Managerial economics and business strategy (2 
+SWS) 
+Exercise: Managerial economics and business strategy (1 
+SWS) 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Dr. Gregor Zöttl 
+
+4 
+
+ Module Coordinator 
+
+Prof. Dr. Gregor Zöttl 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+This course aims to provide the fundamental economic tools for 
+students of business and management degrees. The subjects 
+covered include oligopoly pricing, cartel formation, bundling and 
+pricing strategies, multistage and repeated games risk sharing, 
+vertical contracting and many other strategies of firms enjoying 
+market power.  
+The students 
+- are able to analyze and identify different market situations which 
+require specific strategic action of involved players. 
+- are able to conceptually develop optimal strategic bussiness and 
+management decisions. 
+- are able to understand the possibilies and limits of the conceptual 
+ideas discussed for the application in real life cases. 
+Basic knowledge in microeconomics 
+
+7 
+
+8 
+
+ Recommended 
+prerequisites 
+Integration in curriculum  WS: 2. Semester; SS: 1. Semester  
+
+9 
+
+Module compatibility 
+
+throughout the master program 
+Master in FACT: Vertiefungsbereich (Modulgruppe Interdisziplinäre 
+Module) 
+Master in Management: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master International Business Studies: elective course 
+
+10 
+
+ Method of examination  Written examination (90 min.)  
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+Written examination (100%). Students can possibly improve their 
+grade through a written assignment which then accounts for 20% of 
+the grade. 
+Irregularly in Summer Term  please inform yourself on our website 
+whether the module takes place. 
+Attendance time: 45 h  
+Self-Study: 105 h 
+1 Semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading 
+
+English 
+
+Lecture notes (see STUDON) 
+Additional references: 
+Managerial Economics (2014), by William Samuelson and Stephen 
+Marks 
+Managerial Economics and Business Strategy (2017), by Edwin 
+Mansfield, Bruce Allen, Neil Doherty and Keith Weigelt 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54870 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Courses exchange semester (Area studies: English 
+speaking countries) 
+Courses exchange semester (Area Studies: English 
+speaking countries) 
+Staff at the exchange university 
+
+ 1) 
+
+1) 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+  Contents  
+
+Courses students will be attending during the exchange semester 
+in one of the partner universities or others (in English speaking 
+countries) should fit into the module “Area Studies: English 
+Speaking Countries” thus extending the student’s knowledge and 
+competencies in this field of study. The suitability of the courses 
+will be assessed by the programme coordinator. 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the exchange university 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+In accordance with grading key and credits of the course 
+
+In accordance with the curriculum of the exchange university 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+1) up to 30 ECTS (thereof language courses 10 ECTS) 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55650 
+
+2. 
+
+  Courses/lectures 
+
+Free specialisation module (FSM) (Area studies: 
+English speaking countries) 
+
+3. 
+
+  Lecturers 
+
+Staff at the university Erlangen-Nuremberg 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+  Contents  
+
+Students may choose among all courses offered at our university 
+that fit into the module “Area Studies: English Speaking Countries” 
+thus extending the student’s knowledge and competencies in this 
+field of study. The suitability of the courses will be assessed by the 
+programme coordinator.  
+
+Specific courses recognized as FSM can be found at: 
+https://www.im.rw.fau.de/teaching/master/free-specialization-
+module/ 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement. Please coordinate with the programme 
+coordinator at the beginning of each semester. Registration for 
+those modules will take place during the regular registration for 
+examination period at the test office (Prüfungsamt). Please present 
+your learning agreement. 
+Semester 1, 2, 3 or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the course 
+
+11.    Grading procedure 
+
+In accordance with grading regulations of the course 
+
+12.    Module frequency 
+
+In accordance with the curriculum of the university 
+
+13.    Workload 
+
+14.    Module duration 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS 54881 
+
+Area specific language courses – Romance 
+countries 
+
+10 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+4 courses on level C1 CEFR in one Romance 
+language: 
+
+each 2.5 
+ECTS 
+
+Or 
+
+2 courses on level C1 CEFR in two Romance 
+languages 
+
+each 2.5 
+ECTS 
+
+Or 
+
+1 course on level A2 to B2 CEFR  
+
+and 1 course on level B1 to B2 (alternatively 2 courses 
+on level C1 CEFR ) in one Romance language 
+
+Or similar combinations. 
+
+5 ECTS 
+
+5 ECTS 
+(each 2.5 
+ECTS) 
+
+3. 
+
+  Lecturers 
+
+Staff at the department Fremdsprachenausbildung 
+Nuremberg / language center (Head of department: Dr. 
+Oesterreicher) 
+
+4. 
+
+  Module coordinator 
+
+Dr. Oesterreicher 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+The focus of these courses is on deepening and extending the 
+students’ competencies in the foreign language(s) to effective 
+operational proficiency in the context of International Business. 
+The emphasis is on strengthening communicative competence 
+through task-based learning and practice in the 4 key skills 
+(listening, reading, speaking, writing). 
+The student acquires effective operational proficiency in the 
+foreign language(s) in relation to their academic studies and 
+professional life, and in intercultural and field-related 
+communicative competence which enables him/her to participate 
+in international business and postgraduate studies. 
+Successful completion of underlying CEFR-level or equivalent 
+qualification or placement test 
+
+Semester 1, 2, 3 and 4 
+
+Master IBS: elective course (Wahlbereich) for students having 
+started the program in winter term 2015/16 or later 
+
+10.    Method of examination  60 min examination written and oral in each 2.5 ECTS course / 90 
+min. examination written and oral in 5 ECTS courses (Klausur und 
+mündl. Prüfung für jeden der vier Kurse) 
+Average of all four end of term exams 
+WS, SS 
+Attendance: 90 h 
+Self-study: 210 h 
+4 semesters 
+
+11.    Grading procedure 
+12.    Module frequency 
+13.    Workload 
+
+14.    Module duration 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15.    Teaching and 
+
+Foreign language chosen 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+55 
+
+ 
+ 
+ 
+1. 
+
+2. 
+
+  Module name 
+MIBS-57500 
+ Courses/lectures  
+
+Negotiation Skills based on the Zurich Negotiating 
+Model ® 
+S: Negotiation Skills based on the Zurich Negotiating 
+Model ® (2 SWS) (mandatory attendance) 
+
+5 ECTS 
+
+5 ECTS 
+
+3. 
+
+ Lecturers 
+
+Michael Bullinger 
+
+4. 
+
+5. 
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+ Contents  
+
+We cannot not negotiate - if we like it or not, we have to negotiate. 
+As soon as we need the agreement of somebody in order to reach 
+our own goal, we have to negotiate. The question is, how we can 
+influence the negotiating process towards a solution which 
+satisfies my interests as well as those of my counterpart. 
+Especially in long-lasting relationships it is important to achieve a 
+sustained Win-Win-Solution based on commonly shared values. 
+Only then will both parties stock to the agreement and are willing 
+to continue a good relationship with the other side.  
+
+The Zurich Negotiating Model® / ZNM is based on the principles of 
+the common Win-Win-Philosophy, which focusses on substance 
+and relationship. The ZNM broadens this scope to include 
+personality and values. Only in the combination of these four 
+elements is the key for a sustainable success. As a 
+comprehensive model for orientation and action in the negotiating 
+process, as well as a tool for reflection and analysis during 
+preparation or follow-up, the Zurich Negotiating Model® offers 
+fresh options for a specific approach to overcoming resistance 
+during difficult negotiations.  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+The participants learn a repertoire of skills for the methodical 
+preparation, conduct and review of negotiations and have 
+opportunities to engage in active training, with the option of basing 
+this on situations they have experienced themselves.  
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+None 
+
+Semester 1, 3 
+
+Master IBS: Elective course (Wahlbereich) 
+
+10.   Method of examination  Written examination (60 min.) 
+11.   Grading procedure 
+
+Written examination 100% 
+
+12.   Module frequency 
+
+Winter term 
+
+13.   Workload 
+
+14.   Module duration 
+
+Attendance: 30h 
+Self-study: 120h 
+1 semester 
+
+15.   Teaching and 
+
+English 
+
+examination language 
+
+16.   (Recommended) 
+
+TBA 
+
+reading 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+
+ Module name 
+MIBS-57468 
+
+2 
+
+ Courses/lectures  
+
+Agile Arbeitsweisen im Kontext Lateinamerikas 
+(Agile project management in the context of Latin 
+America) 
+Seminar (mandatory attendance) 
+
+5 ECTS 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Gardini, Ph.D. + Staff 
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+4 
+
+5 
+
+ Contents  
+
+The seminar is offered every semester by the Chair of Prof. 
+Gardini, Ph.D. It deals with agile forms of work organisation and 
+the basics of cultural theory. The seminar discusses approaches 
+on how agile management methods can be successfully applied in 
+the intercultural context between Europe and Latin America. The 
+methods “Scrum” and “Kanban” will be taught in detail. 
+Furthermore we will discuss processes of change taking place 
+within enterprises and companies and dicuss elements fostering 
+agile forms of working and managing. The seminar is very 
+practice-oriented. 
+
+The students 
+
+-  acquire advanced methods of project management 
+learn methods of agile project management and its 
+- 
+application in an intercultural context with a focus on Latin 
+America 
+
+-  gain profound knowledge of and will be able to apply 
+
+cultural theory as part of intercultural learning 
+
+-  will be able to recognize potentials and obstacles of agile 
+
+management methods within companies 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10 
+
+ Method of examination 
+
+None 
+
+Semester 1, 2, 3 
+
+Master IBS: Elective course (Wahlbereich) 
+Master Economics: Free elective course (freier Wahlbereich) 
+- Written assignment 
+
+11 
+
+ Grading procedure 
+
+- Written Assignment 100% 
+
+12 
+
+ Module frequency 
+
+Winter term, summer term 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 30h 
+Self-study: 120h 
+1 Semester 
+
+German 
+
+To be announced 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Module name 
+MIBS-56372 
+
+  Courses/lectures  
+  Lecturers 
+
+Development economics and politics 
+
+Seminar (mandatory attendance) 
+Prof. Gardini, Ph.D. + Staff 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+1. 
+
+2. 
+3. 
+
+4. 
+
+5. 
+
+ Contents  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+10.   Method of examination 
+
+The seminar is offered every winter semester by the Chair of Prof. 
+Gardini, Ph.D. It deals with topics related to social and economic 
+development, taking a closer look at political, institutional and 
+societal processes that characterize economies and societies in 
+developing and emerging countries. 
+The students 
+
+-  acquire in-depth knowledge of political, economic  and 
+
+societal challenges in the field of development  
+
+-  understand basic theoretical approaches and link them with 
+
+empirical evidence and case studies. 
+
+-  acquire skills to analyse and assess global economic and 
+
+institutional dynamics  
+
+-  will train competences in debating, presenting and in 
+
+developing an own research question.  
+
+None 
+
+Semester 1, 3 
+
+Master IBS: Elective course (Wahlbereich) 
+Master Sozialökonomik: Elective course (freier Vertiefungsbereich) 
+Master Arbeitsmarkt und Personal: Elective course (Wahlbereich) 
+Master Economics: Elective course (Wahlbereich) 
+- Written assignment 
+- Presentation 
+
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen  untrennbar  miteinander  verbunden  sind.  Für  das 
+Bestehen des Moduls müssen nach § 21 Abs. 1 Sätze 2 und 4 der 
+BPOWiWi  in  der  jeweils  geltenden  Fassung  alle  Teilleistungen  in 
+demselben Semester bestanden werden. Wegen des untrennbaren 
+Bezugs  der  Teilleistungen  aufeinander  ist  abweichend  von  §  31 
+Abs.  1  Satz  2  BPOWIWI  eine  Wiederholung  nur  einer  der  nicht 
+bestandenen Teilleistungen nicht möglich. Das Nichtbestehen einer 
+der  Teilleistungen  erfordert  die  Wiederholung  der  gesamten 
+Prüfung. 
+
+11.   Grading procedure 
+
+12.   Module frequency 
+
+13.   Workload 
+
+14.   Module duration 
+
+- Written Assignment: 66,5% 
+- Presentation: 33,5% 
+Winter term 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+15.   Teaching and 
+
+English 
+
+examination language 
+
+16.   (Recommended) 
+
+To be announced 
+
+reading 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Module name 
+MIBS-52461 
+ Courses/lectures  
+
+Latin America in the era of globalisation  
+
+Seminar (mandatory attendance) 
+
+5 ECTS 
+
+5 ECTS 
+
+ Lecturers 
+
+Prof. Gardini, Ph.D. + Staff 
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+ Contents  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+The seminar is offered every semester by the Chair of Prof. 
+Gardini, Ph.D. It deals with topics related to the role of Latin 
+America and the challenges of the region in the era of 
+globalization, about 200 years after the beginning of their 
+independence process.  
+
+The students: 
+- acquire in-depth knowledge of political processes, economic 
+changes and societal challenges in the context of globalization and 
+integration processes. 
+-  Develop  the  ability  to  analyze  and  evaluate  the  dynamics  of 
+internal and external factors. 
+None 
+
+Semester 1, 2, 3 
+
+Master IBS: elective course (Wahlbereich) 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: free elective course (freier Wahlbereich) 
+
+10.   Method of examination  Presentation 
+
+Written Assignment 
+
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 21 Abs. 1 Sätze 2 und 4 der 
+BPOWiWi in der jeweils geltenden Fassung alle Teilleistungen in 
+demselben Semester bestanden werden. Wegen des 
+untrennbaren Bezugs der Teilleistungen aufeinander ist 
+abweichend von § 31 Abs. 1 Satz 2 BPOWIWI eine Wiederholung 
+nur einer der nicht bestandenen Teilleistungen nicht möglich. Das 
+Nichtbestehen einer der Teilleistungen erfordert die Wiederholung 
+der gesamten Prüfung. 
+
+11.   Grading procedure 
+
+12.   Module frequency 
+
+13.   Workload 
+
+14.   Module duration 
+
+Presentation (33,5%) 
+Written Assignment (66,5%) 
+Winter term, summer term 
+
+Attendance: 30h 
+Self-study: 120h 
+1 semester 
+
+15.   Teaching and 
+
+To be announced (German or Spanish) 
+
+examination language 
+
+16.   (Recommended) 
+
+To be announced  
+
+reading 
+
+59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-52462 
+
+2. 
+
+ Courses/lectures  
+
+International relations and Latin America 
+
+5 ECTS 
+
+Lecture 
+
+5 ECTS 
+
+ Lecturers 
+
+Prof. Gardini, Ph.D. + Staff 
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+3. 
+
+4. 
+
+5. 
+
+ Contents  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+The seminar is offered every semester by the Chair of Prof. 
+Gardini, Ph.D. It deals with the international relations of Latin 
+America in theoretical and empirical perspective. It particularly 
+covers the contemporary relations of Latin America with the United 
+States, the European Union and China as well as Latin American 
+regionalism and attempts at economic and political integration. 
+The students 
+
+-  acquire in-depth knowledge of political processes, 
+
+economic changes and societal challenges in the context of 
+globalization, international organization and integration 
+processes. 
+
+-  understand basic theoretical approaches and link them with 
+
+empirical evidence and case studies. 
+
+None 
+
+Semester 1, 2, 3 
+
+Master IBS: Elective course (Wahlbereich) 
+Master Sozialökonomik: Elective course (freier Vertiefungsbereich) 
+Master Arbeitsmarkt und Personal: Elective course (Wahlbereich) 
+Master Economics: Elective course (Wahlbereich) 
+
+10.   Method of examination  Written examination 
+
+11.   Grading procedure 
+
+Written examination: 100% 
+
+12.   Module frequency 
+
+Winter term, summer term 
+
+13.   Workload 
+
+14.   Module duration 
+15.   Teaching and 
+
+examination language 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 Semester 
+
+To be announced (English or Spanish) 
+
+16.   (Recommended) 
+
+To be announced 
+
+reading 
+
+60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-56391 
+
+Topical Issues in International Politics and 
+International Economics 
+
+2  
+
+ Courses/lectures 
+
+3  
+
+ Lecturers 
+
+S: Topical Issues in International Politics and 
+International Economics 
+
+Prof. Gardini, Ph.D., Prof. Dr. Christoph Moser + Staff  
+
+4  
+
+ Module coordinator 
+
+Prof. Gardini, Ph.D., Prof. Dr. Christoph Moser + Staff  
+
+5 ECTS 
+
+5 ETCS 
+
+5  
+
+ Contents  
+
+6  
+
+ Learning objectives and 
+skills 
+
+7  
+
+ Recommended 
+prerequisites 
+Integration in 
+curriculum 
+Module compatibility 
+
+8  
+
+9  
+
+ The seminar is offered each semester in cooperation with the Chair 
+of Prof. Gian Luca Gardini (International Business and Society 
+Relations with focus on Latin America) and the Chair of Prof. 
+Christoph Moser (Global Governance). The seminar addresses 
+changing topical issues from the viewpoint of international relations 
+and economics. 
+ Students who successfully complete this module will: 
+
+-  acquire a good understanding of political processes, economic 
+
+conditions and the nature of the international system. 
+
+-  gain  knowledge  of  economic  and  societal  challenges  in  the 
+
+context of globalization and integration processes. 
+-  be able to assess critically topical issues and debates in 
+contemporary international relations and economics. 
+
+None  
+
+Ab Studiensemester 1 
+
+Master IBS: elective course (Wahlbereich) 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+Master Arbeit und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+Wirtschaftspädagogik, Studienrichtung II: core course (Wahlbereich 
+im Zweitfach Englisch) 
+
+1    Method of examination  Oral examination. More details will be given at the beginning of the 
+
+1    Grading procedure 
+
+seminar.   
+Oral examination 100 %  
+
+1    Module frequency 
+
+Winter term, summer term 
+
+1    Workload 
+
+1    Module duration 
+
+1    Teaching and 
+
+1    
+
+examination language 
+(Recommended) 
+reading 
+
+Präsenzzeit: 30 h 
+Eigenstudium: 120 h 
+1 Semester 
+
+English and German  
+
+To be announced. 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54900 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Courses exchange semester (Area studies: 
+Romance countries) 
+Courses exchange semester (Area studies: Romance 
+countries) 
+Staff at the exchange university 
+
+1) 
+
+1) 
+
+  Module coordinator 
+
+Prof. Gardini, Ph.D. 
+
+4. 
+
+5. 
+
+  Contents  
+
+Courses students will be attending during the exchange semester 
+in one of the partner universities or others (in Romance countries) 
+should fit into the module “Area Studies: Romance Countries” thus 
+extending the student’s knowledge and competencies in this field 
+of study. The suitability of the courses will be assessed by the 
+programme coordinator. 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement 
+
+Semester 1, 2, 3, or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the exchange university 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+In accordance with grading key and credits of the course 
+
+In accordance with the curriculum of the exchange university 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+15.    Teaching and 
+
+English, French, Spanish, Italian, or Portuguese 
+
+examination language 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+1) up to 30 ECTS (thereof language courses 10 ECTS) 
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55660 
+
+2. 
+
+  Courses/lectures 
+
+Free specialisation module (FSM) (Area studies: 
+Romance countries) 
+
+3. 
+
+  Lecturers 
+
+Staff at the university Erlangen-Nuremberg 
+
+  Module coordinator 
+
+Prof. Gardini, Ph.D./Prof. Ammon 
+
+4. 
+
+5. 
+
+  Contents  
+
+Students may choose among all courses offered at our university 
+that fit into the module “Area Studies: Romance Countries” thus 
+extending the student’s knowledge and competencies in this field 
+of study. The suitability of the courses will be assessed by the 
+programme coordinator. 
+
+Specific courses recognized as FSM can be found at: 
+https://www.im.rw.fau.de/teaching/master/free-specialization-
+module/  
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement. Please coordinate with the programme 
+coordinator at the beginning of each semester. Registration for 
+those modules will take place during the regular registration for 
+examination period at the test office (Prüfungsamt). Please present 
+your learning agreement. 
+Semester 1, 2, 3 or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the course 
+
+11.    Grading procedure 
+
+In accordance with grading regulations of the course 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+15.    Teaching and 
+
+examination language 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54911 
+
+Area specific language courses – Asia 
+
+10 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+2 courses in Asian languages on level A2 to B2 CEFR 
+
+Or  
+
+1 course in Asian languages on level A2 to B2 
+
+and 2 out of the 4 English courses on level C1 CEFR / 
+UNIcert® III: 
+
+each 5 
+ECTS 
+
+each 5 
+ECTS 
+
+English for academic purposes 1&2 
+English for international business 1&2 
+
+each 2.5 
+ECTS 
+
+Or similar combinations. 
+
+3. 
+
+  Lecturers 
+
+Staff at the department Fremdsprachenausbildung 
+Nuremberg / language center (Head of department: Dr.  
+Oesterreicher) 
+
+4. 
+
+  Module coordinator 
+
+Dr. Oesterreicher 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+The focus of these courses is on deepening and extending the 
+students’ competencies in the foreign language(s) to effective 
+operational proficiency in the context of International Business. 
+The emphasis is on strengthening communicative competence 
+through task-based learning and practice in the 4 key skills 
+(listening, reading, speaking, writing). 
+The student acquires effective operational proficiency in the 
+foreign language(s) in relation to their academic studies and 
+professional life, and in intercultural and field-related 
+communicative competence which enables him/her to participate 
+in international business and postgraduate studies. 
+Successful completion of underlying CEFR-level or equivalent 
+qualification or placement test 
+
+Semester 1, 2, 3 and 4 
+
+Master IBS elective course (Wahlbereich) for students having 
+started the program winter term 2015/16 or later 
+
+11.    Grading procedure 
+12.    Module frequency 
+13.    Workload 
+
+10.    Method of examination  60 min examination written and oral in each 2.5 ECTS course / 90 
+min. examination written and oral in 5 ECTS courses (Klausur und 
+mündl.Prüfung für jeden der vier Kurse) 
+Average of all four end of term exams 
+WS, SS 
+Attendance: 90 h 
+Self-study: 210 h 
+4 semesters 
+Foreign language chosen 
+
+14.    Module duration 
+15.    Teaching and 
+
+examination language 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 ECTS 
+
+5 ECTS 
+
+1. 
+
+  Module name 
+
+Organizing for digital transformation  
+
+IIS-56420 56421  
+  Courses/lectures 
+
+ Organizing for digital transformation 
+ (4 SWS) 
+
+  Lecturers 
+
+Prof. Möslein and colleagues  
+
+  Module coordinator 
+
+Prof. Möslein  
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+  Contents  
+
+The course focusses on dynamics in organizational transformation 
+driven through information technology (IT) and consists of two 
+parts. 
+
+The first part introduces the topic from an industrial perspective 
+and explores the re-organization of value streams in the course of 
+the digital transformation. Teaching in this part includes contribu-
+tions from a German automotive company. Students will work in a 
+project-oriented mode for half the lecture and then present their 
+results. 
+
+The second part takes the perspective of academic research on 
+the organization of the digital transformation. It introduces different 
+theoretical frameworks to gain a deeper understanding of the phe-
+nomenon and explores its implications for global business struc-
+tures. Students write a short essay to show what they have 
+learned. 
+
+Together, the lecture allows the students to gain theoretical 
+knowledge on the digital transformation and acquire practical prob-
+lem-solving skills as well to work effectively on innovative projects 
+in the field. 
+
+The students 
+•  are familiar with different theories of works systems and 
+
+service systems and their practical application 
+
+•  know more about the contribution of information technology in 
+
+managing complex innovation activities 
+
+•  have an improved understanding of the global IT Industry and 
+
+various strategies that are used   
+
+•  can identify and unravel the business problem in a case study 
+
+and actively take part in class discussions  
+•  general knowledge of digital technology and their economic 
+
+applications 
+
+•  basic understanding of simple software applications 
+• 
+
+first experience with team projects 
+
+Semester 2, 4 
+
+Master IBS: elective courses  (Wahlbereich) 
+Master in International Information Systems: Module in the section 
+Information Systems – Digital Business (Elective) 
+Master in Management: Vertiefungsbereich 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+10.    Method of examination  Presentation and seminar paper (Präsentation und Seminararbeit) 
+
+11.    Grading procedure 
+
+Presentation (50%) and seminar paper (50%) (Präsentation (50%) 
+und Seminararbeit (50%)) 
+
+65 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.    Module frequency 
+
+Summer term (SS) 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 60 h 
+Self-study: 90 h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+None 
+
+reading 
+
+66 
+
+ 
+ 
+ 
+ 
+ 
+1 
+
+2 
+
+3 
+
+ Module name  
+IIS 57171 
+ Courses/lectures  
+IIS71711 
+IIS71712 
+ Lecturers 
+
+Digital transformation project (ones in summer term 
+2020) 
+ Digital transformation project ( 4 SWS)  
+
+5 ECTS 
+
+5 ECTS 
+
+Prof. Dr. Möslein, Prof. Dr. Roth and colleagues 
+
+ Module coordinator 
+
+Prof. Möslein 
+
+4 
+
+5 
+
+ Contents 
+
+6 
+
+ Learning objectives and 
+skills 
+
+In this module, students will focus on developing and evaluating 
+solutions for organizational challenges in the context of digital 
+transformation. In doing so, they work together with organizations 
+from various industries and gain in-depth experience in solving 
+organizational problems using a systematic design science 
+research process. Moreover, they will get familiar with empirical 
+research methods and improve their presentation as well as writing 
+skills. 
+The students 
+•  possess comprehensive, detailed, and specialized problem 
+
+solving skills in the context of digital transformation 
+
+•  can independently plan and carry out design science research 
+
+processes 
+
+•  can situationally identify, collect and analyze relevant 
+
+organizational data 
+
+•  are familiar with the topic of digital transformation and its 
+
+effects on organizational stakeholders 
+
+None 
+
+First semester 
+
+ Recommended 
+Prerequisites 
+ Integration in 
+curriculum 
+ Module compatibility 
+
+7 
+
+8 
+
+9 
+
+10 
+
+Master International Information Systems (from 2018/19): Module 
+in the section Information Systems – Digital Business (Elective) 
+Master International Information Systems (from 2016/17): Module 
+in the section Customized Introduction to IIS (Management) 
+Master Management: Vertiefungsbereich 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management 
+Master IBS: elective courses  (Wahlbereich) (einmalig SoSe 2020) 
+ Method of examination  Seminar paper and presentation (Seminararbeit und Präsentation) 
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload  
+
+14 
+
+ Module duration 
+
+Seminar Paper (partly group work) (70%) and presentation (partly 
+group work) (30%) 
+Each SS (Master IBS only ones in summer term 2020) 
+
+Attendance: 60 h 
+Self-study: 90 h 
+1 semester 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading  Presented in class 
+
+English 
+
+67 
+
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-56480 
+
+Research projects in international management I 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+S: Research projects in international management I 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+  Contents  
+
+Current issues in the field of International Management 
+
+4. 
+
+5. 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+Students acquire knowledge and competencies in the field of 
+research. Students are able to identify and to critically reflect 
+critical problems in the area of international management and 
+apply advanced methods of empirical research and data analysis 
+to develop innovative solutions. 
+English language proficiency (C1) 
+
+Semester 1, 2, 3 or 4 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+Master IBS: elective courses (Wahlbereich) 
+
+10.    Method of examination  Seminar paper 
+
+11.    Grading procedure 
+
+Seminar paper: 100 % 
+
+12.    Module frequency 
+
+On occasion 
+
+13.    Workload 
+
+Self-study: 150h 
+
+14.    Module duration 
+
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Tba in the course 
+
+reading 
+
+68 
+
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-56490 
+
+Research projects in international management II 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+S: Research projects in international management II 
+
+5 ECTS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtbrügge and assistants 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+  Contents  
+
+Current issues in the field of International Management 
+
+4. 
+
+5. 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+Students acquire knowledge and competencies in the field of 
+research. Students are able to identify and to critically reflect 
+critical problems in the area of international management and 
+apply advanced methods of empirical research and data analysis 
+to develop innovative solutions. 
+English language proficiency (C1) 
+
+Semester 1, 2, 3 or 4 
+
+Master IBS: elective courses (Wahlbereich) 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Seminar paper 
+
+11.    Grading procedure 
+
+Seminar paper: 100 % 
+
+12.    Module frequency 
+
+On occasion 
+
+13.    Workload 
+
+Self-study: 150h 
+
+14.    Module duration 
+
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Tba in the course 
+
+reading 
+
+69 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54810 
+
+Human Resource Management in Asia    
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+S: HRM in Asia 
+
+3. 
+
+  Lecturers 
+
+Dr. Almasa Sarabi 
+
+  Module coordinator 
+
+Dr. Almasa Sarabi 
+
+4. 
+
+5. 
+
+  Contents  
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+This  seminar  intends  to  provide  a  broad  understanding  of  current 
+topics in the domain of human resource management (HRM) in an 
+Asian context.  
+The aim of this seminar is to familiarize students with academic 
+literature on current topics in the domain of HRM in Asia. Students 
+will review current literature in the field, working on and analyzing a 
+specific research question. Students will further present their 
+literature review in in-class sessions and discuss their findings to 
+ensure an intensive exchange of knowledge within the seminar. 
+Apart from the in-class presentations, students will also be 
+required to hand in a seminar paper by the end of the term. 
+None 
+
+Semester 1, 3 
+
+Master IBS: Elective courses Asia 
+
+10.    Method of examination  Presentation and seminar paper 
+
+11.    Grading procedure 
+
+Presentation (30%), Seminar paper (70%) 
+
+12.    Module frequency 
+
+Winter term 
+
+13.    Workload 
+
+14.    Module duration 
+
+Attendance: 30h 
+Self-study: 120h 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+Will be announced in the seminar. 
+
+reading 
+
+70 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54930 
+
+Courses exchange semester (Area studies: Asia) 
+
+2. 
+
+  Courses/lectures 
+
+Courses exchange semester (Area Studies: Asia) 
+
+1) 
+
+1) 
+
+3. 
+
+  Lecturers 
+
+Staff at exchange university 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+Courses students will be attending during the exchange semester 
+in one of the partner universities or others (in Asian countries) 
+should fit into the module “Area Studies: Asia” thus extending the 
+student’s knowledge and competencies in this field of study. The 
+suitability of the courses will be assessed by the programme 
+coordinator. 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement 
+
+Semester 1, 2, 3, or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the exchange university 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+In accordance with grading key and credits of the course 
+
+In accordance with the curriculum of the exchange university 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+15.    Teaching and 
+
+English, Mandarin, Japanese 
+
+examination language 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+1) up to 30 ECTS (thereof language courses 10 ECTS) 
+
+71 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55670 
+
+2. 
+
+  Courses/lectures 
+
+Free specialisation module (FSM) (Area studies: 
+Asia) 
+
+3. 
+
+  Lecturers 
+
+Staff at the university Erlangen-Nuremberg 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+Students may choose among all courses offered at our university 
+that fit into the module “Area Studies: English Speaking Countries” 
+thus extending the student’s knowledge and competencies in this 
+field of study. The suitability of the courses will be assessed by the 
+programme coordinator.  
+
+Specific courses recognized as FSM can be found at: 
+https://www.im.rw.fau.de/teaching/master/free-specialization-
+module/ 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement. Please coordinate with the programme 
+coordinator at the beginning of each semester. Registration for 
+those modules will take place during the regular registration for 
+examination period at the test office (Prüfungsamt). Please present 
+your learning agreement.  
+Semester 1, 2, 3 or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the course 
+
+11.    Grading procedure 
+
+In accordance with grading regulations of the course 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+15.    Teaching and 
+
+examination language 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+72 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.  Module name 
+
+MIBS-54941 
+2.    Courses/lectures 
+
+Area specific language courses – Europe 
+
+10 ECTS 
+
+4 courses on level C1 CEFR in one European 
+language: 
+Or 
+2 courses on level C1 CEFR in two European 
+languages 
+Or 
+1 course on level A2 to B2 CEFR in one European 
+language and 1 course on level B1 to B2 in another 
+European language except English (alternatively 2 
+courses on level C1 in another European language) 
+Or 
+2 courses on level A2 to B2 CEFR in one European 
+language except English  
+Or 
+1 course on level B2 and 2 courses on level C1 CEFR 
+in one European language except English  
+Age 
+Or 
+similar combinations. 
+
+each 2.5 
+ECTS 
+
+each 2.5 
+ECTS 
+
+each 5 
+ECTS 
+(each 2.5 
+ECTS) 
+
+each 5 
+ECTS 
+
+5 ECTS 
+and 2x 
+2.5 ECTS 
+
+3. 
+
+Lecturers 
+
+4.  Module coordinator 
+
+5. 
+
+Contents  
+
+6. 
+
+Learning objectives and 
+skills 
+
+7. 
+
+8. 
+
+Recommended 
+prerequisites 
+
+Integration in 
+curriculum 
+
+Staff at the department Fremdsprachenausbildung 
+Nuremberg / language center (Head of department: Dr. 
+Oesterreicher)  
+Dr. Oesterreicher 
+
+The focus of these courses is on deepening and extending the 
+students’ competencies in the foreign language(s) to effective 
+operational proficiency in the context of International Business. 
+The emphasis is on strengthening communicative competence 
+through task-based learning and practice in the 4 key skills 
+(listening, reading, speaking, writing). 
+The student acquires effective operational proficiency in the 
+foreign language(s) in relation to their academic studies and 
+professional life, and in intercultural and field-related 
+communicative competence which enables him/her to participate 
+in international business and postgraduate studies. 
+Successful completion of underlying CEFR-level or equivalent 
+qualification or placement test 
+
+Semester 1, 2, 3 and 4 
+
+73 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.  Module compatibility 
+
+Master IBS: elective course (Wahlbereich) for students having 
+started the program in winter term 2015/16 or later 
+
+10.  Method of examination  60 min examination written and oral in each 2.5 ECTS course / 90 
+min examination written and oral in 5 ECTS courses (Klausur und 
+mündl. 
+Prüfung für jeden der vier Kurse) 
+Average of all four end of term exams 
+WS, SS 
+Attendance: 90 h 
+Self-study: 210 h 
+4 semesters 
+Foreign language chosen 
+
+11.  Grading procedure 
+12.  Module frequency 
+13.  Workload 
+
+14.  Module duration 
+15.  Teaching and 
+
+16. 
+
+examination language 
+(Recommended) 
+reading 
+
+Course materials will be announced in the course 
+
+74 
+
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54963 
+
+Europäische Mediensysteme und Öffentlichkeit I 
+(European media systems and the public sphere I) 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+Europäische Mediensysteme und Öffentlichkeit I  
+(European media systems and the public sphere I)  
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtz-Bacha und Mitarbeiter(innen) 
+
+4. 
+
+5. 
+
+  Module coordinator 
+
+Prof. Holtz-Bacha 
+
+  Contents  
+
+•  Europäische Mediensysteme  
+•  Europäische Medienpolitik 
+•  Medienökonomie 
+•  Medienrecht 
+• 
+•  Europäische Öffentlichkeit – Öffentlichkeit in Europa 
+•  Produktion massenmedialer Inhalte 
+
+Internationale Kommunikation 
+
+6. 
+
+  Learning objectives and 
+
+Die Studierenden  
+
+skills 
+
+•  erwerben fundierte Kenntnisse über Mediensysteme, 
+Medienpolitik und Öffentlichkeit in Europa und im 
+internationalen Vergleich 
+
+•  erwerben durch die Auseinandersetzung mit dem Thema 
+sowohl im Plenum mit Mitstudierenden als auch im 
+Eigenstudium Problemlösungs-, Kommunikations- und 
+Medienkompetenzen, die Bedeutung für unterschiedliche 
+Berufsfelder im Bereich Kommunikation und Medien 
+besitzen  
+
+•  entwickeln die Fähigkeit, aktuelle medienpolitische 
+Probleme zu beurteilen, zu lösen und darüber aus 
+verschiedenen fachlichen Perspektiven zu diskutieren 
+•  können international vergleichende Forschungsdesigns 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+entwerfen und anwenden. 
+
+Keine. Die Anmeldung erfolgt über StudOn. 
+
+Semester 2, 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+10.    Method of examination  Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+
+11.    Grading procedure 
+
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+Präsentation (50%), Hausarbeit (50%) 
+
+12.    Module frequency 
+
+SS 
+
+13.    Workload 
+
+14.    Module duration 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h  
+1 Semester 
+
+15.    Teaching and 
+
+Deutsch 
+
+examination language 
+
+16.    (Recommended) 
+
+To be announced. 
+
+reading 
+
+75 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54964 
+
+Europäische Mediensysteme und Öffentlichkeit II 
+(European media systems and the public sphere II) 
+
+5 ECTS 
+
+2. 
+
+  Courses/lectures 
+
+Europäische Mediensysteme und Öffentlichkeit II  
+(European media systems and the public sphere II) 
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Holtz-Bacha und Mitarbeiter(innen) 
+
+4. 
+
+5. 
+
+  Module coordinator 
+
+Prof. Holtz-Bacha 
+
+  Contents  
+
+•  Europäische Mediensysteme  
+•  Europäische Medienpolitik 
+•  Medienökonomie 
+•  Medienrecht 
+• 
+•  Europäische Öffentlichkeit – Öffentlichkeit in Europa 
+•  Produktion massenmedialer Inhalte 
+
+Internationale Kommunikation 
+
+6. 
+
+  Learning objectives and 
+
+•  Die Studierenden erwerben fundierte Kenntnisse über 
+
+skills 
+
+Mediensysteme, Medienpolitik und Öffentlichkeit in Europa 
+und im internationalen Vergleicherwerben durch die 
+selbständige Auseinandersetzung und die regelmäßige 
+Diskussion mit Mitstudierenden und Fachvertretern mit 
+dem Thema Problemlösungs-, Kommunikations- und 
+Medienkompetenzen, die für unterschiedliche Berufsfelder 
+im Bereich Kommunikation und Medien vorbereiten 
+•  entwickeln die Fähigkeit, aktuelle medienpolitische 
+Probleme zu analysieren, zu lösen und darüber 
+bereichsspezifisch und bereichsübergreifend zu diskutieren 
+
+•  können international vergleichende Forschungsdesigns 
+
+entwerfen und anwenden, anwenden und vor 
+Fachpublikum die dazugehörigen Schlussfolgerungen und 
+die diesen zugrunde liegenden Informationen und 
+Beweggründe in klarer und eindeutiger Weise vermitteln. 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+
+Keine.  Die Anmeldung erfolgt über StudOn. 
+
+Semester 3 
+
+9. 
+
+  Module compatibility 
+
+Master IBS: elective course (Wahlbereich) 
+
+10.    Method of examination  Präsentation (tw. in Gruppenarbeit, tw. in elektronischer Form), 
+
+11.    Grading procedure 
+
+Hausarbeit (tw. in Gruppenarbeit, tw. in elektronischer Form) 
+Präsentation (50%), Hausarbeit (50%) 
+
+12.    Module frequency 
+
+WS 
+
+13.    Workload 
+
+14.    Module duration 
+
+Präsenzzeit: 30 h  
+Eigenstudium: 120 h  
+1 Semester 
+
+15.    Teaching and 
+
+Deutsch 
+
+examination language 
+
+16.    (Recommended) 
+
+To be announced. 
+
+reading 
+
+76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54970 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Europäisches Verfassungsrecht (Europarecht 1) 
+(European constitutional law (European law 1)) 
+Lect/S: Europäisches Verfassungsrecht (Europarecht 1) 
+(European constitutional law (European law 1)) 
+Prof. Meßerschmidt 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Ismer 
+
+4. 
+
+5. 
+
+  Contents  
+
+Die Vorlesung behandelt das europäische Vertragsrecht, 
+insbesondere 
+- den Rechtsstatus und die institutionelle Struktur der EU 
+- Kompetenzen der EU 
+- Rechtssetzungsverfahren und Rechtsakte der EU 
+- Geltung des Unionsrechts in den Mitgliedsstaaten 
+- Verhältnis zum nationalen Verfassungsrecht 
+- Grundfreiheiten und Grundrechte in Grundzügen 
+Die Studierenden  
+- erlangen vertiefte Kenntnisse des Europäischen Vertragsrechts 
+und verstehen dessen Einwirkung auf die deutsche 
+Rechtsordnung 
+- können Spezifika des Europäischen Rechts selbstständig 
+wiedergeben, analysieren und diskutieren 
+- erlangen die Fähigkeit, unter Anwendung juristischer Methoden, 
+eigene Falllösungen zu erstellen und dabei insbesondere ihr 
+erlangtes Wissen auf unbekannte Problemfelder zu transferieren 
+- erwerben Analysefähigkeiten auf fortgeschrittenem Niveau 
+Grundlagen Europarecht; 
+gute Deutschkenntnisse (B2) 
+Semester 1 oder 3 
+
+Master IBS: elective course (Wahlbereich) 
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Klausur 60 Min. 
+
+11.    Grading procedure 
+12.    Module frequency 
+
+Klausur 100% 
+
+SS 
+
+13.    Workload 
+
+14.    Module duration 
+
+Präsenzzeit: 45h 
+Eigenstudium: 105h 
+1 Semester 
+
+15.    Teaching and 
+
+Deutsch 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Die empfohlenen Materialien werden in der Veranstaltung 
+bekanntgegeben. 
+
+77 
+
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-54980 
+
+2. 
+
+  Courses/lectures 
+
+3. 
+
+  Lecturers 
+
+Europäisches Wirtschaftsrecht (Europarecht 2) 
+(European economic law (European law 2)) 
+Lect/S: Europäisches Wirtschaftsrecht (Europarecht 2) 
+(European economic law (European law 2)) 
+Prof. Meßerschmidt 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Ismer 
+
+4. 
+
+5. 
+
+  Contents  
+
+Die Vorlesung behandelt das europäische Wirtschaftsrecht, 
+insbesondere die Grundfreiheiten und Politiken nach dem AEUV 
+mit folgenden Schwerpunkten: 
+- Warenverkehrsfreiheit 
+- Arbeitnehmerfreizügigkeit 
+- Niederlassungsfreiheit 
+- Dienstleistungsfreiheit 
+- Kapitalverkehrsfreiheit 
+- Wettbewerbsrecht 
+- Öffentliche Dienstleistungen 
+- Umweltrecht 
+- Verhältnis zum Welthandelsrecht 
+Die Studierenden  
+- erlangen vertiefte Kenntnisse des Europäischen Wirtschaftsrecht 
+und verstehen dessen Einwirkung auf die deutsche 
+Rechtsordnung 
+- können Spezifika des Europäischen Wirtschaftsrechts 
+selbstständig wiedergeben, analysieren und diskutieren 
+- würdigen die wirtschaftlichen Aspekte der Europäisierung der 
+Rechtsordnung 
+- erlangen die Fähigkeit, unter Anwendung juristischer Methoden, 
+eigene Falllösungen zu erstellen und dabei insbesondere ihr 
+erlangtes Wissen auf unbekannte Problemfelder zu transferieren 
+- erwerben Analysefähigkeiten auf fortgeschrittenem Niveau. 
+Grundlagen Europarecht 
+Gute Deutschkenntnisse (B2) 
+Semester 2, 4 
+
+Master IBS: elective course (Wahlbereich) 
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: elective course (Wahlbereich) 
+Master Economics: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Klausur 60 Min. 
+
+11.    Grading procedure 
+
+Klausur 100% 
+
+12.    Module frequency 
+
+SS/WS 
+
+13.    Workload 
+
+14.    Module duration 
+15.    Teaching and 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Präsenszeit: 45h 
+Eigenstudium: 105h 
+1 Semester 
+
+Deutsch 
+
+Die empfohlenen Materialien werden in der Veranstaltung 
+bekanntgegeben. 
+
+78 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+ Module name 
+MIBS-52230 
+ Courses/lectures 
+
+3. 
+
+ Lecturers 
+
+Fallkolloquium Europäisches Wirtschaftsrecht 
+(Case studies in European economic law) 
+Fallkolloquium Europäisches Wirtschaftsrecht 
+(Case studies in European economic law) 
+Prof. Meßerschmidt 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Ismer 
+
+4. 
+
+5. 
+
+ Contents  
+
+Das Fallkolloquium behandelt das europäische Wirtschaftsrecht 
+anhand von Leitentscheidungen und aktueller Rechtsprechung des 
+EuGH. Zugleich werden Falllösungstechniken geübt. Die 
+Rechtsprechung wird analysiert.  
+Die Studierenden 
+-vertiefen ihre Grundkenntnisse im europäischen Wirtschaftrecht 
+anhand von Fallstudien 
+- erlangen die Fähigkeit Sachverhalte zusammenzufassen, Urteile 
+und Rechtsprechungsketten zu analysieren und unbekannte Fälle 
+mit Hilfe der Gutachtentechnik eigenständig zu lösen 
+Grundkenntnisse des Europarechts; empfohlen im Anschluss an 
+die Vorlesung Europäisches Wirtschaftsrecht (Europarecht 2); gute 
+Deutschkenntnisse  
+Semester 1, 2, 3, 4  
+
+Master IBS: elective course (Wahlbereich)  
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+ Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+10. 
+
+ Method of examination  Klausur 60 Min. 
+
+11. 
+
+ Grading procedure 
+
+Klausur 100% 
+
+12. 
+
+ Module frequency 
+
+WS 
+
+13. 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+15. 
+
+16. 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Präsenszeit: 45h 
+Eigenstudium: 105h 
+1 Semester 
+
+Deutsch 
+
+Die empfohlenen Materialien werden in der Veranstaltung 
+bekanntgegeben. 
+
+79 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55013 
+
+Internationalisierung mittelständischer 
+Unternehmungen   
+(Internationalization of small and medium-sized 
+enterprises) 
+
+2. 
+
+  Courses/lectures 
+
+L: Internationalisierung mittelständischer 
+Unternehmungen  
+
+5 ECTS 
+
+5 ETCS 
+
+3. 
+
+  Lecturers 
+
+Prof. Haussmann 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+1. Unternehmenstyp „Mittlerer Weltmarktführer“ (MWF), u.a. 
+
+Kärcher, Steiff, Haribo, Playmobil, Uvex, Faber-Castell, Rödl, 
+GfK, Recaro, Porsche, Manz 
+
+2. Rahmenbedingungen im Internationalisierungsprozess von 
+
+MWFs 
+
+3. Internationalisierungsstrategien von MWFs 
+4. Exkursion zu Mittlerem Weltmarktführer 
+5. Zukünftige Investitionsregionen von MWFs: BRIC-Staaten 
+
+(Brasilien, Russland, Indien, China) und Next-11 
+
+6. Fazit, Bewertung der Veranstaltung, Karriere-Beratung 
+Die Teilnehmer lernen die Rahmenbedingungen des 
+Internationalisierungsprozesses von mittelständischen 
+Unternehmen (insbesondere in den BRIC-Staaten) kennen. Sie 
+können die besonderen Herausforderungen der 
+Internationalisierung mittelständischer Unternehmen analysieren 
+und evaluieren sowie eigenständige Lösungsvorschläge 
+entwickeln. Sie lernen den aktuellen, internationalen 
+Forschungsstand kennen und sind in der Lage, theoretische und 
+empirische Studien kritisch zu reflektieren. 
+Gute Deutschkenntnisse (B2) 
+
+Semester 2, 4 
+
+Master IBS: elective course (Wahlbereich) 
+Master Management: Vertiefungsbereich 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Klausur 60 Min.  
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+Falls ursprüngliche Prüfung wegen Corona nicht durchführbar: 
+Report (3 pages) 
+Klausur 100% 
+
+Falls ursprüngliche Prüfung wegen Corona nicht durchführbar: 
+Report (100%)  
+SS 
+
+Präsenszeit: 30h 
+Eigenstudium: 120h 
+1 Semester 
+
+15.    Teaching and 
+
+Deutsch 
+
+examination language 
+
+80 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.    (Recommended) 
+
+reading 
+
+Haussmann, H./Holtbrügge, D./Rygl, D.: Internationalisierung 
+mittelständischer Weltmarktführer in die BRIC-Staaten. In: 
+Management der Internationalisierung, hrsg. v. S. Schmid. 
+Wiesbaden 2009, S. 477-497. 
+Holtbrügge, D.: Internationalisierung kleiner und mittelständischer 
+Unternehmen: Herausforderungen und Gestaltungsoptionen. In: 
+Der Betrieb, 51/52, 2015, S. 2950-2953. 
+Holtbrügge, D./Haussmann, H. (Hrsg.): Internationalization 
+Strategies of Firms. Case Studies from the Nürnberg Metropolitan 
+Region. 2nd edition. Augsburg-München 2017. 
+Rygl, D./Haussmann, H./Holtbrügge, D.: Internationalisierung 
+mittelständischer Weltmarktführer. Ein Phasenmodell. In: 
+Betriebswirtschaftliche Forschung und Praxis, 2, 2015, S. 154-179 
+
+81 
+
+ 
+ 
+ 
+1. 
+
+ Module name 
+MIM-52141 
+
+2. 
+
+ Courses/lectures 
+
+3. 
+
+ Lecturers 
+
+Branchen- und themenspezifisches 
+Nachhaltigkeitsmanagement 
+(Industry and issue specific sustainability 
+management) 
+S: Nachhaltigkeitsmanagement in klein und 
+mittelständischen Unternehmen (Anwesenheitspflicht) 
+(S: Corporate sustainability management in small and 
+medium enterprises) 
+Prof. Beckmann und Dr. Dimitar Zvezdov 
+
+5 ECTS 
+
+5 ECTS 
+
+ Module coordinator 
+
+Prof. Beckmann 
+
+4. 
+
+5. 
+
+ Contents  
+
+Nachhaltigkeit ist ein immer wichtiger werdendes Thema für 
+Unternehmen. Allerdings wird häufig bei der Frage, wie 
+Unternehmen mit Nachhaltigkeitsfragen umgehen können, der 
+Fokus auf große Unternehmen und Konzerne gelegt.    
+Da jedoch die überwiegende Anzahl von Unternehmen klein und 
+mittelständisch ist, bieten gerade KMUs ein besonderes Potenzial 
+für die Nachhaltigkeit. Gleichzeitig bietet Nachhaltigkeit 
+insbesondre für KMUs die Möglichkeit sich am Markt zu 
+differenzieren und damit Wettbewerbsvorteile zu generieren. 
+Daher widmet sich dieses Modul der Rolle von Nachhaltigkeit im 
+Kontext von kleinen und mittelständischen Unternehmen. Hierbei 
+verbindet das Modul konzeptionelle und praktische Aspekte.  
+In einem ersten Schritt werden wir allgemein auf die 
+Besonderheiten von KMUs eingehen und eine kurze Einführung zu 
+Nachhaltigkeitsmanagement gegen. Anschließend werden wir 
+verschiedene Funktionen eines Unternehmens betrachten und 
+jedes Mal der Frage nachgehen, inwieweit die Besonderheiten von 
+KMU das jeweilige Management von Nachhaltigkeitsfragen 
+beeinflussen. In diesem Teil des Moduls werden die Inhalte 
+basierend auf Referaten, Gruppendiskussion, Fallstudien und 
+Input seitens der Dozierenden erarbeitet. 
+Nach Abschluss des konzeptionellen Teils beginnt der praktische 
+Teil des Moduls. Hierfür suchen die Teilnehmenden sich 
+selbstständig Praxispartner (KMUs). Ziel ist es neben einer 
+Ökoeffizienzanalyse für einen weiteren Bereich ein 
+Nachhaltigkeitsmanagementkonzept für diesen Praxispartner zu 
+erarbeiten.  
+Die Studierenden erlernen,  
+
+•  Vertiefte Kenntnisse im Bereich 
+Nachhaltigkeitsmanagement 
+
+•  Spezifische Fachkenntnisse zur Arbeit mit kleinen und 
+
+mittelständischen Unternehmen 
+
+•  Praxiserfahrung durch die selbständige Akquise und 
+
+Zusammenarbeit mit einem Praxispartner 
+
+•  Anwendungskompetenz während der Erstellung des 
+
+Nachhaltigkeitskonzeptes 
+
+•  Argumentationskompetenz und kritische Reflexion 
+
+gesellschaftlich relevanter Fragen 
+
+•  Analytisches Vorgehen und pragmatische 
+
+Entscheidungsfähigkeiten 
+
+•  Teamfähigkeiten und soziale Kompetenzen 
+
+82 
+
+6. 
+
+ Learning objectives and 
+skills 
+
+ 
+ 
+ 
+ 
+7. 
+
+8. 
+
+9. 
+
+ Recommended 
+prerequisites 
+ Integration in 
+curriculum 
+Module compatibility 
+
+Keine  
+
+Semester 3  
+
+Master Sozialökonomik: elective course (Wahlbereich) 
+Master Wirtschaftspädagogik: fachwissenschaftlicher 
+Pflichtbereich Studienrichtung I und fachwissenschaftlicher 
+Wahlbereich Studienrichtung II  
+Master IBS: elective course (Wahlbereich) 
+Master Wirtschaftsingenieurwesen, Studienrichtung Management: 
+Wahlpflichtbereich 
+Master Marketing: Wahlpflichtbereich der Modulgruppe 
+„Management“  
+Master Management: Pflichtbereich II (MIM-2140) 
+Anmeldung via StudOn; Anzahl Teilnehmende: max. 28 
+
+ Method of examination  Präsentation 
+
+ Grading procedure 
+
+Präsentation 100% 
+
+ Module frequency 
+
+Wintersemester 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+15. 
+
+16. 
+
+ Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Präsenzzeit: 30h 
+Selbststudium: 120h 
+1 Semester als teilgeblockte Veranstaltung: 
+Im Zeitraum zwischen Mitte Oktober und Ende November findet 
+der Kurs wöchentlich (à 3:15h) statt. Im Dezember finden keine 
+Präsenzzeiten statt. 
+Deutsch 
+
+Notwendige Materialien werden via StudOn bereitgestellt.  
+
+83 
+
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+ Module name 
+MIBS-57130 
+ Courses/lectures  
+
+3. 
+
+ Lecturers 
+
+International trade and labor  
+
+V: International trade and labor (2 SWS) 
+Ü: International trade and labor (2 SWS) 
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+2,5 ECTS 
+2,5 ECTS 
+
+ Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+ Contents 
+
+6. 
+
+ Learning objectives and 
+skills 
+
+7. 
+
+ Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+ Integration in 
+curriculum 
+Module compatibility 
+
+This course deals with the consequences of globalization for the 
+domestic labor market and discusses the winners and losers of 
+trade liberalization.The lecture focuses on the impact of 
+international economic integration on domestic wages, jobs and 
+inequality, in particular in Germany and the United States. 
+Students are made familiar with the main relevant concepts of 
+international trade and aquire specialized knowledge of the labor 
+market effects of trade liberalization. Students learn about key 
+theoretical predictions, their empirical evidence and the empirical 
+strategies to assess their relevance. The lecture focuses on topics 
+at the intersection between international trade and labor. 
+Basic knowledge of microeconomics (e.g., Varian, Hal (2014), 
+Intermediate Microeconomics: A Modern Approach, 9th 
+international edition) and econometrics (e.g., Wooldridge, Jeffrey 
+(2013), Introductory Econometrics: A Modern Approach, 5th 
+international edition). 
+Semester 1, 3 
+
+Master Economics: elective course (Wahlbereich)  
+Master IBS: elective course (Wahlbereich) 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+
+10. 
+
+ Method of examination  Written examination 60 min. (Klausur 60 Min.) 
+
+11. 
+
+ Grading procedure 
+
+Written examination result 100% (Prüfungsergebnis 100%) 
+
+12. 
+
+ Module frequency 
+
+Winter term (WS) 
+
+13. 
+
+ Workload 
+
+14. 
+
+ Module duration 
+
+15. 
+
+16. 
+
+Teaching and 
+examination language 
+ (Recommended) 
+reading 
+
+Attendance: 60h 
+Self-study: 90h 
+1 semester 
+
+English 
+
+Krugman, P., M. Obstfeld and M. Melitz (2017/18), “International 
+Trade: Theory and Policy” OR “International Economics: Theory 
+and Policy,” 11th global edition. Further, course materials will be 
+announced in the course. 
+
+84 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS- 6910 
+
+2. 
+
+  Courses/lectures 
+
+Issues in political economy 
+
+S: Issues in political economy (Compulsory 
+attendance) 
+
+3. 
+
+  Lecturers 
+
+Prof. Christoph Moser and staff 
+
+5 ECTS 
+
+5 ECTS 
+
+  Module coordinator 
+
+Prof. Christoph Moser 
+
+4. 
+
+5. 
+
+  Contents  
+
+This course deals with current topics in political economy and how 
+politics and economics interact in various fields in the United 
+States and the European Union. The course provides an 
+introduction into the political systems and discusses the 
+interactions between profit-maximizing firms and US and European 
+non-market agents like the government, regulatory institutions and 
+the public.The topics covered include but are not limited to the 
+impact of political connections, corruption, lobbying and the 
+reolving door on the United States of America and the European 
+Union. 
+Students gain a deeper understanding of how institutions, power 
+and economic outcomes interact with each other. There will be a 
+focus on the different actors such as governments, NGOs and 
+private sector representatives. Students will also learn about 
+empirical methods used in these fields. A special emphasis will be 
+placed on the United States, the Europen Union and the 
+transatlantic area. 
+Basic knowledge of economics, politics and econometrics. 
+
+Semester 2,4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Presentation, seminar paper  
+
+11.    Grading procedure 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+15.    Teaching and 
+
+examination language 
+
+(Präsentation undSeminararbeit) 
+30% presentation, 70% seminar paper 
+(30% Präsentation, 70% Seminararbeit) 
+Es handelt sich um eine einheitliche Prüfung, bei der die einzelnen 
+Teilleistungen untrennbar miteinander verbunden sind. Für das 
+Bestehen des Moduls müssen nach § 19 Abs. 1 Satz 4 MPOWIWI 
+in der jeweils geltenden Fassung alle Teilleistungen in demselben 
+Semester bestanden werden. Wegen des untrennbaren Bezugs 
+der Teilleistungen aufeinander ist abweichend von § 25 Abs.1 Satz 
+2 MPOWIWI eine Wiederholung nur einer der nicht bestandenen 
+Teilleistungen nicht möglich. Das Nichtbestehen einer der 
+Teilleistungen erfordert die Wiederholung der gesamten Prüfung. 
+Summer term (SS) 
+
+Attendance: 30 h 
+Self-study: 120 h 
+1 semester 
+
+English 
+
+16.    (Recommended) 
+
+Course materials will be announced in the course 
+
+reading 
+
+85 
+
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+2. 
+
+  Module name 
+MSE-XXXX 
+  Courses/lectures  
+
+Economics of Innovation   
+
+L: Economics of Innovation (2 SWS) 
+T: Economics of Innovation (2 SWS) 
+
+3. 
+
+  Lecturers 
+
+Prof. Dr. Markus Nagler  
+
+ECTS 
+5 
+ECTS 
+5 
+
+  Module coordinator 
+
+Prof. Dr. Markus Nagler 
+
+4. 
+
+5. 
+
+  Contents  
+
+The  lecture  provides  an  introduction  to  economic  issues  of 
+innovation  and  new  ideas.  The  course  first  sets  out  general 
+problems in the economics of innovation such as the public goods 
+nature  of  ideas  and  the  importance  of  innovation  for  economic 
+prosperity.  In  the  second  part,  the  course  discusses  labour  and 
+personnel  issues  in  innovation  policy,  for  example  the  impact  of 
+immigration  on  innovation.  In  the  last  part,  the  course  analyses 
+issues  in  intellectual  property  rights  and  public  economics  topics 
+such  as  public  funding  of  research  and  the  consequences  of 
+innovation for inequality. 
+Students know the key issues in the economics of innovation and 
+the impacts of potential public policies to promote innovation. They 
+are able to assess current research in the economics of innovation 
+and are able to relate its results to fundamental policy questions in 
+the  area.  Students  are  acquainted  with  important  empirical 
+approaches in the area. 
+Basic microeconomics, basic econometrics 
+
+2nd semester 
+
+Master Economics: Elective compulsory subjects 
+Master Sozialökonomik: elective course (freier Vertiefungsbereich) 
+Master in Management: elective course (Vertiefungsbereich) 
+Master International Business Studies: elective course  
+Master Arbeitsmarkt und Personal: freier Vertiefungsbereich 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+9. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination  Written exam (90 minutes) 
+
+11.    Grading procedure 
+
+Written exam (100%) 
+
+12.    Module frequency 
+13.    Workload 
+
+14.    Module duration 
+
+Summer term 
+
+Presence: 60 h 
+Independent study: 90 h 
+Lecture notes are provided throughout the course (usually around 
+one week in advance). 
+1 semester 
+
+15.    Teaching and 
+
+English 
+
+examination language 
+
+16.    (Recommended) 
+
+reading 
+
+Scotchmer, Suzanne. “Innovation and incentives”. MIT press, 
+2004. 
+See syllabus for more details. 
+
+86 
+
+ 
+ 
+ 
+ 
+ 
+   
+1 
+
+2 
+
+ Module Name 
+FACT-53991 
+ Courses/lectures 
+
+Managerial economics and business strategy 
+
+5 ECTS 
+
+Lecture: Managerial economics and business strategy 
+(2 SWS) 
+Exercise: Managerial economics and business strategy 
+(1 SWS) 
+
+5 ECTS 
+
+3 
+
+ Lecturers 
+
+Prof. Dr. Gregor Zöttl 
+
+ Module Coordinator 
+
+Prof. Dr. Gregor Zöttl 
+
+4 
+
+5 
+
+ Contents 
+
+This course aims to provide the fundamental economic tools for 
+students of business and management degrees. The subjects 
+covered include oligopoly pricing, cartel formation, bundling and 
+pricing strategies, multistage and repeated games risk sharing, 
+vertical contracting and many other strategies of firms enjoying 
+market power.  
+The students 
+- are able to analyze and identify different market situations which 
+require specific strategic action of involved players. 
+- are able to conceptually develop optimal strategic bussiness and 
+management decisions. 
+- are able to understand the possibilies and limits of the 
+conceptual ideas discussed for the application in real life cases. 
+Basic knowledge in microeconomics 
+
+6 
+
+ Learning objectives and 
+skills 
+
+7 
+
+8 
+
+9 
+
+ Recommended 
+prerequisites 
+ Integration in curriculum  WS: 2. Semester; SS: 1. Semester  
+
+Module compatibility 
+
+throughout the master program 
+Master in FACT: Vertiefungsbereich (Modulgruppe 
+Interdisziplinäre Module) 
+Master in Management: Vertiefungsbereich 
+Master Arbeitsmarkt und Personal: Wahlbereich 
+Master Sozialökonomik: freier Vertiefungsbereich 
+Master International Business Studies: elective course 
+
+10 
+
+ Method of examination  Written examination (90 min.)  
+
+11 
+
+ Grading procedure 
+
+12 
+
+ Module frequency 
+
+13 
+
+ Workload 
+
+14 
+
+ Module duration 
+
+15 
+
+16 
+
+ Teaching and 
+examination language 
+ Recommended reading 
+
+Written examination (100%). Students can possibly improve their 
+grade through a written assignment which then accounts for 20% 
+of the grade. 
+Irregularly in Summer Term  please inform yourself on our 
+website whether the module takes place. 
+Attendance time: 45 h  
+Self-Study: 105 h 
+1 Semester 
+
+English 
+
+Lecture notes (see STUDON) 
+Additional references: 
+Managerial Economics (2014), by William Samuelson and 
+Stephen Marks 
+Managerial Economics and Business Strategy (2017), by Edwin 
+Mansfield, Bruce Allen, Neil Doherty and Keith Weigelt 
+
+87 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55610 
+
+2. 
+
+  Courses/lectures 
+
+Courses exchange semester (Area studies: 
+Europe) 
+Courses exchange semester (Area studies: Europe) 
+
+1) 
+
+1) 
+
+3. 
+
+  Lecturers 
+
+Staff at the exchange university 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+Courses students will be attending during the exchange semestr in 
+one of the partner universities or others (in European countries) 
+should fit into the module “Area Studies: Europe” thus extending 
+the student’s knowledge and competencies in this field of study. 
+The suitability of the courses will be assessed by the programme 
+coordinator. 
+Students acquire additional knowledge and competencies in their 
+field of study. 
+Learning Agreement 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+8. 
+
+  Recommended 
+prerequisites 
+  Integration in 
+curriculum 
+
+9. 
+
+  Module compatibility 
+
+Master IBS: elective course (Wahlbereich) 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the exchange university.  
+
+11.    Grading procedure 
+
+In accordance with grading key and credits of the course  
+
+12.  1 Module frequency 
+
+In accordance with the curriculum of the exchange university 
+
+13.  1 Workload 
+
+14.    Module duration 
+
+15.    Teaching and 
+
+examination language 
+
+In accordance with the specific course and the credits of the 
+course. 
+1 Semester 
+
+1) up to 30 ECTS (thereof language courses 10 ECTS) 
+
+88 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+
+  Module name 
+MIBS-55680 
+
+2. 
+
+  Courses/lectures 
+
+Free specialisation module (FSM) (Area studies: 
+Europe) 
+
+3. 
+
+  Lecturers 
+
+Staff at the university Erlangen-Nuremberg 
+
+  Module coordinator 
+
+Prof. Holtbrügge 
+
+4. 
+
+5. 
+
+  Contents  
+
+Students may choose among all courses offered at our university 
+that fit into the module “Area Studies: Europe” thus extending the 
+student’s knowledge and competencies in this field of study. The 
+suitability of the courses will be assessed by the programme 
+coordinator. 
+
+Specific courses recognized as FSM can be found at: 
+https://www.im.rw.fau.de/teaching/master/free-specialization-
+module/ 
+Students acquire additional knowledge and competencies in their 
+field of study 
+Learning agreement. Please coordinate with the programme 
+coordinator at the beginning of each semester. Registration for 
+those modules will take place during the regular registration for 
+examination period at the test office (Prüfungsamt). Please present 
+your learning agreement. 
+Semester 1, 2, 3 or 4 
+
+Master IBS: elective course (Wahlbereich) 
+
+6. 
+
+  Learning objectives and 
+
+skills 
+
+7. 
+
+  Recommended 
+prerequisites 
+
+8. 
+
+9. 
+
+  Integration in 
+curriculum 
+Module compatibility 
+
+10.    Method of examination 
+
+In accordance with exam regulations of the course 
+
+11.    Grading procedure 
+
+In accordance with grading regulations of the course 
+
+12.    Module frequency 
+
+13.    Workload 
+
+14.    Module duration 
+
+15.    Teaching and 
+
+examination language 
+
+In accordance with the specific course and the credits of the 
+course 
+1 semester 
+
+16.    (Recommended) 
+
+Tbd in the course 
+
+reading 
+
+89 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Module name 
+MIBS-1997 
+
+1. 
+
+2. 
+
+3. 
+
+  Lecturers 
+
+Master thesis international business studies 
+
+30 ECTS 
+
+Master thesis international business studies 
+(30 ECTS) 
+All (possible to write the Master Thesis at all 
+Departments and Chairs of the FAU) 
+
+30 ECTS 
+
+The topic for the master thesis should fall under one of the module categories. The student 
+must  consult  the  respective  department  responsible  for  the  module.  The  topic  can  only  be 
+changed once, and only for good reason in agreement with the dean of the examination board 
+(Prüfungsausschuss). A change must occur within the first two months of the allotted thesis 
+completion time.  
+
+With the master thesis, the student will show that he/she is proficient in his/her area of study 
+and he/she is able to work independently using scientific methods.  
+
+The master thesis should be written in one of the languages recognized in the MIBS (German, 
+English, Spanish, and French) according to the lecture language of the respective module. 
+
+Details regarding the assignment of topics, the writing and research process, and grading of 
+the master thesis can be found in the corresponding section of the examinations regulations 
+(Prüfungsordnung) for this degree program.  
+
+Grading procedure: Master thesis 100%. 
+
+-------------------------------------- 
+
+90 
+
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Free Specialization Module (FSM) 
+
+The Free Specialization Module (FSM) in the MIBS allows students to take electives of 
+their choice within the Area studies. A maximum of 20 ECTS is allowed as FSM in the Area 
+Studies. All courses from FAU can be considered as FSM, if accepted by the respective 
+Area coordinator. 
+
+A few rules for taking a FSM apply: 
+
+First, courses that are listed above in your respective Area are regular Area courses and 
+not FSM. Courses that cannot be found above are considered as FSM in case they are 
+accepted by the Area coordinator. FSM are only courses at FAU, courses abroad do not 
+belong to this classification. 
+
+Detailed pieces of information about the FSM can be found via the following weblink: 
+https://www.im.rw.fau.de/teaching/master/free-specialization-module/ 
+
+Please read all information given on the homepage carefully in order to be allowed to take 
+FSM courses. 
+On the subsequent pages you will find an overview of accepted FSM courses.  
+
+91 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Specialization Modules MIBS* 
+
+1) English Speaking Countries 
+Please refer to Prof. C. Moser 
+
+2) Romance Countries 
+Please refer to Prof. Gardini 
+
+3) Asia – please refer to Laura Kirste 
+
+Module 
+description 
+Managing Global 
+Projects & 
+Information 
+Technology 
+
+Negotiation Skills 
+based on the ZNM 
+
+Internationalisierung 
+mittelständischer 
+Unternehmungen 
+Enterprise 
+knowledge 
+management (EKM) 
+Interdisciplinary 
+Business Seminar 
+
+Managing 
+Information 
+Technology & 
+Managing Global 
+Projects 
+Negotiation Skills 
+based on the Zurich 
+Negotiating Model 
+Internationalisierung 
+mittelständischer 
+Unternehmungen 
+Enterprise 
+knowledge 
+management (EKM) 
+Interdisciplinary 
+Business Seminar 
+
+Sustainability 
+Management and 
+Corporate 
+Functions 
+
+Sustainability 
+Management and 
+Corporate 
+Functions 
+
+Course 
+
+Prof 
+
+Prof. 
+Amberg 
+
+Course 
+number 
+
+57060 
+
+5 
+
+ECTS 
+
+Examination 
+nr 
+70603, 70604 
+
+Prof. Gardini  Dummy 
+
+Prof. 
+Holtbrügge 
+
+MIBS-
+55013 
+
+5 
+
+5 
+
+56501 
+(Dummy) 
+
+50131 
+
+Prof. Laumer 
+
+IIS-57290 
+
+5 
+
+Prof. 
+Bodendorf 
+
+Prof. 
+Beckmann 
+
+IIS05-001-0  5 
+
+52130 
+
+5 
+
+92 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Specialization Modules MIBS* 
+
+4) Europe – please refer to Laura Kirste 
+
+Module description 
+
+Course 
+
+Prof 
+
+Interdisciplinary 
+Business Seminar 
+
+Interdisciplinary 
+Business Seminar 
+
+Prof. 
+Bodendorf 
+
+IIS-
+57200 
+
+Corporate Strategy 
+
+Corporate Strategy 
+
+Fortgeschrittene Methoden 
+der Managementforschung 
+III 
+
+Strategic Supply 
+Management 
+
+Fortgeschrittene 
+Methoden 
+der 
+Managementforschung 
+III 
+Strategic Supply 
+Management 
+
+Dienstleistungsmanagement  Advanced Service 
+
+Global Logistics and Supply 
+Chain Management 
+
+Negotiaton Skills based 
+on the ZNM 
+
+Angewandte 
+Managementmethoden I 
+
+Management 
+
+Global Logistics and 
+Supply 
+Chain Management 
+Negotiaton Skills 
+based on the Zurich 
+Negotiating Model 
+Controlling and 
+Reporting 
+
+Course 
+number 
+MIM-
+53730 
+MIM-
+55450 
+
+Prof. 
+Hungenberg 
+Prof. 
+Hartmann 
+
+Prof. 
+Hartmann 
+
+MIM-
+56220 
+
+Prof. 
+Bodendorf 
+
+IIS-
+53750 
+
+Prof. 
+Hartmann 
+
+MIM-
+55300 
+
+Prof. 
+Gardini 
+
+Prof. 
+Fischer 
+
+FACT-
+54320 
+
+FACT-
+53430 
+
+Controlling of Business 
+Systems 
+
+Controlling of Business 
+Systems 
+
+Prof. 
+Fischer 
+
+Fallstudien und Projekte im 
+Management IX 
+
+Internationales 
+Projektseminar 
+
+Prof. Voigt  MIM-
+
+55400 
+
+Fallstudien und Projekte im 
+Management X 
+
+Industrielles 
+Management in 
+der Praxis 
+
+Aktuelle Fragen aus FACT 1  CFA Research 
+
+Challenge 
+
+Prof. Voigt  MIM-
+
+55410 
+
+FACT-
+55250 
+
+Prof. 
+Fischer 
+
+Create your FinTech start-
+up 
+
+Create your FinTech 
+start-up 
+
+Prof. Haag  MIM-
+
+57380 
+
+Dummy  5 
+
+56501 
+(Dummy) 
+
+ECTS  Examination 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+nr 
+
+37308 
+
+54501, 
+54502 
+
+62201, 
+62202 
+
+72004, 
+72005 
+
+70839 
+
+53006, 
+53007 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+38601 
+
+34301 
+
+54001, 
+54002 
+
+54103, 
+54104 
+
+52501, 
+52502 
+
+73801, 
+73802 
+
+93 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Free Specialization Modules MIBS* 
+
+Module description 
+
+Course 
+
+Prof 
+
+Course 
+number 
+
+ECTS  Examination 
+
+Praxisseminar mit Prof. Dr. 
+Heinrich v. Pierer 
+
+International Supply Chain 
+Management 
+
+Industrielles Management 
+
+Issues in International 
+Trade 
+
+Praxisseminar mit 
+Prof. Dr. 
+Heinrich v. Pierer 
+(Präsentation und 
+Hausarbeit) 
+International Supply 
+Chain 
+Management 
+Industrielles 
+Management 
+Seminar Issues in 
+International Trade 
+
+Prof. Voigt  MIM-
+
+5 
+
+55520 
+
+Prof. 
+Franke 
+
+WPF 
+WINGMA 
+1-3 (?) 
+
+Prof. Voigt  MIM-
+
+Prof. C. 
+Moser 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+53640 
+Wipäd-
+54450 
+
+MIM-
+53762 
+
+MIM-
+53030 
+
+55520 
+
+MIM-
+53570 
+
+IIS-
+53790 
+
+MIM-
+54740 
+
+FACT-
+53940 
+
+52130 
+
+Logistics Industry and 
+Services 
+
+Personalmanagement 
+
+Seminar Logistics 
+Industry 
+and Services 
+Personalmanagement  Prof. 
+
+Prof. 
+Hartmann 
+
+Holtbrügge 
+
+Prof. Voigt  MIM-
+
+Praxisorientierter 
+Wahlbereich 
+3 
+Praxisorientierter 
+Wahlbereich 
+I: 
+Management im 
+Gesundheitssektor 
+Dienstleistungsinnovationen  Service Innovation 
+
+Praxisseminar mit 
+Prof. Dr. Heinrich v. 
+Pierer 
+Seminar Aktuelle 
+Themen 
+aus der 
+Versorgungsforschung 
+
+Prof. 
+Emmert 
+
+Prof. 
+Möslein 
+
+Teamfähigkeit, 
+Präsentations- und 
+Verhandlungstechniken II 
+Cases in Business 
+Controlling 
+
+Sustainability Management 
+and Corporate Functions 
+
+Advanced Soft Skills II  Prof. 
+
+Hartmann 
+
+Prof. 
+Fischer 
+
+Prof. 
+Beckmann 
+
+Challenges in 
+Business 
+Management 
+Sustainability 
+Management 
+and Corporate 
+Functions 
+
+nr 
+66101,66102 
+
+56501 
+(Dummy) 
+
+36404 
+
+44501, 
+44502 
+
+37621,37622 
+
+30305, 
+30306 
+
+66101, 
+66102 
+
+35704, 
+35705 
+
+37901 
+
+54202, 
+54203 
+
+39407 
+
+21301 
+
+94 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+52650 
+
+5 
+
+26507 
+
+Digital Marketing and 
+Sales 
+
+Global Retail Logistics 
+
+Recent Developments 
+in 
+Digital Market 
+Research 
+Global Retail Logistics  Prof. 
+
+Prof. 
+Pescher 
+
+Hartmann 
+
+Case Solving Seminar 
+
+Case Solving Seminar  Prof. 
+
+Bodendorf 
+
+MIM-
+55291 
+
+57250 
+
+Social and Web 
+Intelligence 
+
+Fortgeschrittene 
+Methoden der 
+Managementforschung 
+V 
+Technology & Innovation 
+Management 
+
+Advanced marketing 
+management II: 
+Advanced 
+topics in marketing 
+60 Years of European 
+Union 
+
+Social and Web 
+Intelligence 
+Seminar 
+Seminar zur 
+Managementforschung 
+
+Prof. 
+Bodendorf 
+
+IIS-
+53300 
+
+Prof. 
+Hungenberg 
+
+MIM-
+55470 
+
+Technology & 
+Innovation 
+Management 
+Seminar Advanced 
+Topics in 
+Marketing 
+
+Prof. Voigt  MIM-
+
+53450 
+
+MARK-
+54141 
+
+Prof. 
+Koschate- 
+Fischer 
+
+60 Years of European 
+Union 
+
+Prof. 
+Gardini 
+
+n.a. 
+
+WISO Meets Consulting 
+
+WISO Meets 
+Consulting 
+
+Prof. 
+Laumer 
+
+Praxisseminar 
+
+Praxisseminar 
+
+Strategic problem solving 
+in the digital age 
+
+Advanced Process 
+Management 
+
+Strategic problem 
+solving in the digital 
+age 
+Advanced Process 
+Management 
+
+Prof. 
+Koschate-
+Fischer 
+Prof. Junge 
+/ Prof. 
+Hungenberg 
+Prof. 
+Bodendorf 
+
+Economy and Society in 
+Developing and 
+Emerging Countries 
+Enterprise knowledge 
+management (EKM) 
+
+Economy and Society 
+in Developing and 
+Emerging Countries 
+Enterprise knowledge 
+management (EKM) 
+
+Prof. 
+Gardini 
+
+Prof. 
+Laumer 
+
+MIM-
+56235. 
+
+MARK-
+6080 
+
+MIM-
+53673 
+
+IIS-
+57083 
+
+MIBS-
+56370 
+
+IIS-
+57290 
+
+MIM-
+54360 
+
+Internationale 
+Transportlogistik-und 
+Distributionssysteme 
+Teamfähigkeit, 
+Präsentations- und 
+Verhandlungstechniken II 
+Organizational Creativity  Organizational 
+
+Internationale 
+Transportlogistik-und 
+Distributionssysteme 
+Leadership and 
+Leadership 
+Communication 
+
+Creativity 
+
+Prof. 
+Hartmann 
+
+MIM-
+55420 
+
+Prof. Junge 
+/ Prof. 
+Hungenberg 
+Prof. Voigt  WPF 
+
+MB-MA-
+IP 2 
+52553 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+52911 
+
+70101 
+
+33004 
+
+54701 
+
+34501 
+
+41411 
+
+63901 
+
+62351 
+62352 
+
+60801 
+
+36731 
+
+IIS70815 
+
+95 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+71102/71103 
+
+Platform Strategies 
+
+Platform Strategies 
+
+Principles of Marketing VI  Marketingseminar 
+
+Produktions- und Supply 
+Chain Management 
+
+Ringvorlesung 
+Personalmanagement 
+
+Produktions- und 
+Supply Chain 
+Management 
+Ringvorlesung 
+Personalmanagement 
+
+Social Media 
+
+Social Media 
+
+Interdisziplinäres 
+Seminar 
+
+Interdisziplinäres 
+Seminar 
+
+Prof. 
+Möslein 
+
+IIS-
+57110 
+
+Prof. Steul-
+Fischer 
+
+MARK-
+54072 
+
+Prof. 
+Hartmann 
+
+MIM-
+53422 
+
+Prof. Moser  SozÖk-
+52520 
+
+Prof. 
+Pescher 
+
+Prof. 
+Koschate-
+Fischer 
+
+MIBS-
+53160 
+
+MARK-
+54120 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+5 
+
+Free Specialization Modules MIBS* 
+
+Module description 
+
+5) Courses that are accepted for all areas – please refer to Laura Kirste 
+Course 
+Course 
+number 
+MIBS-6480 
+
+Prof 
+
+ECTS  Examination 
+
+nr 
+
+5 
+
+64801 
+
+Research Projects in 
+International 
+Management I 
+
+(only if available, 
+Priority 
+for Asia Area, then 
+others) 
+
+Prof. 
+Holtbrügge 
+
+Research Projects in 
+International 
+Management II 
+
+(only if available, 
+Priority 
+for Asia Area, then 
+others) 
+
+Prof. 
+Holtbrügge 
+
+MIBS-6490 
+
+5 
+
+64901 
+
+* These are all the courses which have been accepted in the previous years, however some courses may not be offered anymore. 
+Please check with the respective departments. 
+
+Last updated: February, 2020 
+
+96
